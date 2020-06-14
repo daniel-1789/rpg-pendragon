@@ -61,7 +61,7 @@ They were also interested in pursuing rumors of a son of Prince Madoc. Rumor had
 
 They did battle with the Saxons along a small river. In the end, the knights and their forces prevailed. They captured many Saxons and Mag slew the Knight of Tusks. They seized the plunder and sent it to Countess Ellen while they escorted young Pertoines to Oxford where he founded a small university.
 
-### Winter 496-497
+### Winter 497-498
 
 All horses survive. All knights are rich due to the lack of tribute.
 
@@ -89,3 +89,16 @@ All horses survive. All knights are rich due to the lack of tribute.
 	*  Girl, born 497-498 (0)
 *  Percy - Courting, success on courtesy. Marries second daughter of vassal knight. 
 *  Beornwulf - marries second son of vassal knight. Newborn son replaced by Changeling
+
+
+## Year 498 - Chapter XVIII - Into the Sauvage Forest
+The challenges from the Saxon kings surrounding Salisbury continued. In addition to Aescwine of Essex present on behalf of his father, Aethelswith; and Cynric of Wessex on behalf of his father, Cerdic, there was Celyn of Sussex. They could not afford to pay all three and they lacked the resources to fight them. The good knights advised Countess Ellen to accept Cerdic’s offer of alliance short of accepting him as liege, greatly reducing the cost of tribute. He had promised he would protect the land from other Saxons - and it was clear the three Saxon lords did not care for one another. They would put that to the test. This did put them allying with a different Saxon than Duke Ulfius - though alliances with Saxons were not likely to be enduring.
+
+Merlin again appeared at court, indicating he would be leaving Britain for the continent and the knights agreed to escort him to the port of Dorchester. This proved dangerous as Queen Ygraine sent a group of her knights to take vengeance on Merlin for his role in abducting her son. The knights of Salisbury did slay their leader Sir Roy of Rôls and took three more knights as prisoner - lessening the impact of the tribute to Cerdic and allowing construction to continue on the stone walls around Saurum, reaching half completion that summer.
+
+As high summer approached they visited Pertoines of Oxford who showed them the entrance to the Sauvage Forest. They entered, hoping to find Madog, King of Sauvage - with information both on Beornwulf and on any possible heirs of Madoc. They ran into the Wild Hunt whose lord did take them to Madog in return for their joining him on the hunt for a great elephant. The wild King Made was thrilled to have guests and provided them with some assistance, though at a price. He did tall them that Madoc did indeed have an hair, one lost to the faerie realm - if they wandered the forest  for years they might find him. But he advised them not to, as there was another heir of Uther’s whom they would indeed find, far sooner than they might find an heir of Madoc’s - and would not a legitimate heir be preferable? He did return Beornwulf’s infant son. They had to pay two prices. First, the child would be given a faerie godmother - the boy would, he prophesied, not grow to be a Christian but would follow the old ways. The other was a promise he asked of all the knights - that should they encounter the legendary Questing Beast, that they would sound horns he gave them to summon both him and the master of the Wild Hunt.
+
+With those promises made, they quickly found their way out of the forest. It seemed a dream, but for the horns they now had and the return of Beornwulf’s son. They’d not be able to find Madog again without aid…
+
+### Winter 498-499
+Forthcoming
