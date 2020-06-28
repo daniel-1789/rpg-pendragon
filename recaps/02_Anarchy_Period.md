@@ -126,3 +126,38 @@ With those promises made, they quickly found their way out of the forest. It see
 *  Percy - wedding in family
 *  Beornwulf - 
 	* Boy, Faierie-touched. Born 497-498 (1)
+
+## Year 499 - Chapter XIX -The Oxford Usurpers
+Court at Sarum was tense, with Prince Mark and Prince Cynric of Wessex both present. Prince Mark urged the countess to break her alliance with Wessex, though on the advice of her loyal knights, she kept the alliance with Wessex - hoping the rivalry between the Saxon kings would break out into open warfare. 
+
+With things relatively peaceful in Salisbury, Beornwulf, Boudica, Mag, and Percy rode north to Rydychan Country. There the twice-widowed Countess of Rydychan was looking for assistance in reclaiming her father’s land from a trio of brothers who has broken their oaths to Rydychan, taking Oxford, Wallingford, and Shriburn for themselves. Marching north with household knights and peasant levies, they besieged Wallingford, stopping Sir Basile from sending riders to summon his younger brothers to his side. Breaching the outer Bailey, Sir Basile fell in battle to them. However, the campaign had been long and the forces at Oxford and Shriburn outnumbered theirs and they would have to wait another season.
+
+### Winter 499-500
+The harvest that year was wealthy, bolstered by some of the plunder from the summer campaign.
+*   Adric - 
+	*   Twins, only boy, Heckle surviving, born 482-483 (17)
+	*   Boy, James, born 483-484 (16)
+	*   Girl, Jennifer, born 488-489 (11)
+	*   Boy, Dan, born 489-490 (10)
+	*   Boy, John, born 490-491 (8)
+	*   Girl, Mary, born 492-493 (7)
+*   Arthen - 
+	*   Boy, born 482-483 (17)
+	*   Twin daughters, born 484-485 (15).
+	*   Son. Born 487-488 (12)
+	*   Son. Born 490-491 (8).
+	*   Daughter, Born 494-495 (5)
+*   Boudica - Sister gives birth, aging (-1 APP, -1 CON, -1 STR)
+	*   Girl, Calliope, born 481-482 (18)
+	*   Boy (bastard), Remus,  born 486-487 (13).
+	*   Girl, born 495-496 (4)
+	*   Girl, born 496-497 (3)
+*   Mag  - daughter born
+	*  Girl, Murrine, born 488-489 (11)
+	*  Girls, twins, born 496-497 (3)
+	*  Girl, born 497-498 (2)
+	* Girl, born 499-500 (0)
+*  Percy - daughter born
+	* Girl, born 499-500 (0)
+*  Beornwulf - father has a child
+	* Boy, Faierie-touched. Born 497-498 (2)
