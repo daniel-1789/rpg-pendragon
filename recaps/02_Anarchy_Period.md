@@ -101,4 +101,28 @@ As high summer approached they visited Pertoines of Oxford who showed them the e
 With those promises made, they quickly found their way out of the forest. It seemed a dream, but for the horns they now had and the return of Beornwulf’s son. They’d not be able to find Madog again without aid…
 
 ### Winter 498-499
-Forthcoming
+*   Adric - 
+	*   Twins, only boy, Heckle surviving, born 482-483 (16)
+	*   Boy, James, born 483-484 (15)
+	*   Girl, Jennifer, born 488-489 (10)
+	*   Boy, Dan, born 489-490 (9)
+	*   Boy, John, born 490-491 (7)
+	*   Girl, Mary, born 492-493 (6)
+*   Arthen - 
+	*   Boy, born 482-483 (16)
+	*   Twin daughters, born 484-485 (14).
+	*   Son. Born 487-488 (11)
+	*   Son. Born 490-491 (7).
+	*   Daughter, Born 494-495 (4)
+*   Boudica - Sister marries
+	*   Girl, Calliope, born 481-482 (17)
+	*   Boy (bastard), Remus,  born 486-487 (12).
+	*   Girl, born 495-496 (3)
+	*   Girl, born 496-497 (2)
+*   Mag  - 
+	*  Girl, Murrine, born 488-489 (10)
+	*  Girls, twins, born 496-497 (2)
+	*  Girl, born 497-498 (1)
+*  Percy - wedding in family
+*  Beornwulf - 
+	* Boy, Faierie-touched. Born 497-498 (1)
