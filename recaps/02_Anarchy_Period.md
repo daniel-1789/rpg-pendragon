@@ -165,6 +165,7 @@ The harvest that year was wealthy, bolstered by some of the plunder from the sum
 
 
 ## Year 500 - Chapter XX -The Unseelie of Oxford
+![](britain_496_500_events.png)
 
 At court in Sarum, the Princes of Sussex and Kent attended, scowling at each otters. There was apparently an offer of marriage to Countess Ellen from Cornwall, one which she had rejected.
 
