@@ -2,7 +2,7 @@
 
 # The Great Pendragon Campaign Recap - Anarchy Period
 
-![](britain_495.png)
+![][image-1]
 
 ## Year 496 - Chapter XVI - The Saxon Kings
 
@@ -165,7 +165,7 @@ The harvest that year was wealthy, bolstered by some of the plunder from the sum
 
 
 ## Year 500 - Chapter XX -The Unseelie of Oxford
-![](britain_496_500_events.png)
+![][image-2]
 
 At court in Sarum, the Princes of Sussex and Kent attended, scowling at each otters. There was apparently an offer of marriage to Countess Ellen from Cornwall, one which she had rejected.
 
@@ -178,4 +178,38 @@ King Nanteleod of Escavion won a small battle against the king of Byrcheinoig an
 
 King Ælle of Sussex and Aetherelswith of Essex offered generous terms if Ellen would provide them with mercenary knights. King Cerdic eschewed the niceties of alliance and again demanded tribute of Salisbury. With little choice, Countess Ellen agreed to pay Cerdic while her loyal knights adventured again in Rydychan County. They had intended on marching on Sir Begetting of Wallingford but Bede’s brother, Sir Belus of Oxford, had made an alliance with the faerie. The alliance had gone poorly and he found himself with ringing bells on his feet and an elongated nose. He begged Ellen’s knights, Beornwulf, Boudica, Mag, and Percy for their aid against the faerie host. Oxford was defended by a strange array of faerie, led by Prince Charming. They battled skeletons, giants, and all sorts of weird beings but eventually saw, running across the field of battle, the Questing Beast. True to their promise to the Master of the Hunt, they sounded their horns and pursued the Beast as part of the Wild Hunt. There was much chaos but in the end the Beast was captured by the Master of the Hunt and Oxford and Wallingford yielded back to the Countess of Rydychan, with the lands of Wallingford, Oxford, and Shriburn to be managed by Ellen’s knights.
 
+### Winter 500-501
+With plunder the knights were able to keep at least a modest style of living in Logres.
+
+*   Adric - 
+	*   Twins, only boy, Heckle surviving, born 482-483 (18)
+	*   Boy, James, born 483-484 (17)
+	*   Girl, Jennifer, born 488-489 (12)
+	*   Boy, Dan, born 489-490 (11)
+	*   Boy, John, born 490-491 (9)
+	*   Girl, Mary, born 492-493 (8)
+*   Arthen - 
+	*   Boy, born 482-483 (18)
+	*   Twin daughters, born 484-485 (16).
+	*   Son. Born 487-488 (13)
+	*   Son. Born 490-491 (9).
+	*   Daughter, Born 494-495 (6)
+*   Boudica - Death in family 
+	*   Girl, Calliope, born 481-482 (19)
+	*   Boy (bastard), Remus,  born 486-487 (14).
+	*   Girl, born 495-496 (5)
+	*   Girl, born 496-497 (4)
+*   Mag  - son born
+	*  Girl, Murrine, born 488-489 (12)
+	*  Girls, twins, born 496-497 (4)
+	*  Girl, born 497-498 (3)
+	* Girl, born 499-500 (1)
+	* Boy, born 500-501 (0)
+*  Percy - Son born, wife dies in childbirth. Remarries, daughter of vassal knight
+	* Girl, born 499-500 (1)
+	* Boy, born 500-501 (0)
+*  Beornwulf - birth in family (niece born)
+	* Boy, Faierie-touched. Born 497-498 (3)
+
 [image-1]:	britain_495.png
+[image-2]:	britain_496_500_events.png
