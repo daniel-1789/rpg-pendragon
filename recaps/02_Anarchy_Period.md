@@ -2,6 +2,7 @@
 
 # The Great Pendragon Campaign Recap - Anarchy Period
 
+![](britain_495.png)
 
 ## Year 496 - Chapter XVI - The Saxon Kings
 
@@ -161,3 +162,19 @@ The harvest that year was wealthy, bolstered by some of the plunder from the sum
 	* Girl, born 499-500 (0)
 *  Beornwulf - father has a child
 	* Boy, Faierie-touched. Born 497-498 (2)
+
+
+## Year 500 - Chapter XX -The Unseelie of Oxford
+
+At court in Sarum, the Princes of Sussex and Kent attended, scowling at each otters. There was apparently an offer of marriage to Countess Ellen from Cornwall, one which she had rejected.
+
+War continued throughout the land, with a Saxon fleet sailing up the Yar River to sack Yarmouth. The Duke of Caercolun marched his army to battle, but the but his army was butchered. The Saxons assaulted Norwich, then starved out Buckenham and Thetford. They occupied those larger cities, and groups of Saxon warriors wandered the countryside, robbing and killing. Many refugees fled and became thralls of the Saxons. Their King Cwichelm claimed not to be Saxons but rather Angles. The difference was lost on the people of England.
+
+King Idres besieged Dorchester. Cornwall withdrew before conquering anything more significant, giving Praetor Jonathan a victory for stopping the Cornish, the first to do so.
+
+King Ælle’s warriors from Sussex and the Jutes of Kent battled each other in the Perdue Forest. 
+King Nanteleod of Escavion won a small battle against the king of Byrcheinoig and gained his vassalage. The join forces then marched west and attacked the Irish in Estregales, defeating them and gaining their vassalage.
+
+King Ælle of Sussex and Aetherelswith of Essex offered generous terms if Ellen would provide them with mercenary knights. King Cerdic eschewed the niceties of alliance and again demanded tribute of Salisbury. With little choice, Countess Ellen agreed to pay Cerdic while her loyal knights adventured again in Rydychan County. They had intended on marching on Sir Begetting of Wallingford but Bede’s brother, Sir Belus of Oxford, had made an alliance with the faerie. The alliance had gone poorly and he found himself with ringing bells on his feet and an elongated nose. He begged Ellen’s knights, Beornwulf, Boudica, Mag, and Percy for their aid against the faerie host. Oxford was defended by a strange array of faerie, led by Prince Charming. They battled skeletons, giants, and all sorts of weird beings but eventually saw, running across the field of battle, the Questing Beast. True to their promise to the Master of the Hunt, they sounded their horns and pursued the Beast as part of the Wild Hunt. There was much chaos but in the end the Beast was captured by the Master of the Hunt and Oxford and Wallingford yielded back to the Countess of Rydychan, with the lands of Wallingford, Oxford, and Shriburn to be managed by Ellen’s knights.
+
+[image-1]:	britain_495.png
