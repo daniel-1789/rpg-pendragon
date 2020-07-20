@@ -216,3 +216,31 @@ With plunder the knights were able to keep at least a modest style of living in 
 *  Beornwulf - birth in family (niece born)
 	* Boy, Faierie-touched. Born 497-498 (3)
 
+## People and Places as of 501
+* Aethelswith, King. Saxon ruler of Essex.
+* Ælle, King - Saxon ruler of Sussex.
+* Anglia - Kingdom of Angles
+* Caercolun, Duchy of - Logres duchy. Recently fell to Angles. 
+* Cerdic, King - Saxon ruler of Wessex. Son of former High King Vortigern.  
+* Clarence, Duchy of - Logres duchy. 
+* Cornwall, Duchy of - Logres duchy. Includes counties of Tintagel, Devon, and Jagent. Many adventures took place in Tintagel in Uther period, where Uther met Ygraine and her husband was killed. Ruled by King Idres.
+* Cornwall, Kingdom of - Kingdom to southwest of Logres. Rules Britanny and Lyonesse
+* Cwichelm, King - newly crowned king of Anglia
+* Cynric - Saxon prince of Wessex.
+* Ellen, Countess - Ruler of Salisbury.
+* Essex - Saxon Kingdom ruled by Aethelswith.
+* Escavlon - Kingdom in southern Cambria. Ruled by King Nanteleod.
+* Estergales - Kingdom in Gales. Current vassal of Escavlon. You had helped King Dirac gain control of the kingdom after he was falsely accused of killing his father.
+* Gales - Modern Wales. 
+* Idres, King of Cornwall. Has been conquering lands loyal to Uther.
+* Kent - Saxon Kingdom ruled by Aesc.
+* Logres - Largest kingdom in Britain. Made up of four duchies (Caercolun, Clarence, Cornwall, and  Silchester) and many counties, including Salisbury.
+* Mark, Prince - Prince of Cornwall.
+* Robert - Earl Roderick's heir, still a child.
+* Norgales - Kingdom in Northern Gales. Ruled by the Three Caldews - three brother who took control of it from the de Galis family.
+* Salisbury - County in west-central Logres. Your home. Capital is Sarum. Currently ruled by Countess Ellen.
+* Silchester - Logres duchy, bordered by Essex, Kent, Salisbury, and Sussex. Ruled by Duke Ulfius
+* Sussex - Saxon kingdom located on the south coast. Ruled by King Ælle.
+* Ulfius, Duke of Silchester. One of Uther's loyal followers, not present at the Infamous Feast. Has allied with King Ælle of the Saxons.
+* Wessex - Saxon kingdom ruled by Cerdic.
+* Ygraine - Widow of Uther. 
