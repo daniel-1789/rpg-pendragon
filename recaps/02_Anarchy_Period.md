@@ -2,7 +2,9 @@
 
 # The Great Pendragon Campaign Recap - Anarchy Period
 
-![][image-1]
+![Britain 495](./maps/britain_495.png)
+
+![Pendragon Players' Map](./maps/pendragon_player.png)
 
 ## Year 496 - Chapter XVI - The Saxon Kings
 
@@ -93,6 +95,7 @@ All horses survive. All knights are rich due to the lack of tribute.
 
 
 ## Year 498 - Chapter XVIII - Into the Sauvage Forest
+![Forest Sauvage](./maps/forest_sauvage.png)
 The challenges from the Saxon kings surrounding Salisbury continued. In addition to Aescwine of Essex present on behalf of his father, Aethelswith; and Cynric of Wessex on behalf of his father, Cerdic, there was Celyn of Sussex. They could not afford to pay all three and they lacked the resources to fight them. The good knights advised Countess Ellen to accept Cerdic’s offer of alliance short of accepting him as liege, greatly reducing the cost of tribute. He had promised he would protect the land from other Saxons - and it was clear the three Saxon lords did not care for one another. They would put that to the test. This did put them allying with a different Saxon than Duke Ulfius - though alliances with Saxons were not likely to be enduring.
 
 Merlin again appeared at court, indicating he would be leaving Britain for the continent and the knights agreed to escort him to the port of Dorchester. This proved dangerous as Queen Ygraine sent a group of her knights to take vengeance on Merlin for his role in abducting her son. The knights of Salisbury did slay their leader Sir Roy of Rôls and took three more knights as prisoner - lessening the impact of the tribute to Cerdic and allowing construction to continue on the stone walls around Saurum, reaching half completion that summer.
@@ -129,6 +132,8 @@ With those promises made, they quickly found their way out of the forest. It see
 	* Boy, Faierie-touched. Born 497-498 (1)
 
 ## Year 499 - Chapter XIX -The Oxford Usurpers
+![Rydychan](./maps/rydychan.png)
+
 Court at Sarum was tense, with Prince Mark and Prince Cynric of Wessex both present. Prince Mark urged the countess to break her alliance with Wessex, though on the advice of her loyal knights, she kept the alliance with Wessex - hoping the rivalry between the Saxon kings would break out into open warfare. 
 
 With things relatively peaceful in Salisbury, Beornwulf, Boudica, Mag, and Percy rode north to Rydychan Country. There the twice-widowed Countess of Rydychan was looking for assistance in reclaiming her father’s land from a trio of brothers who has broken their oaths to Rydychan, taking Oxford, Wallingford, and Shriburn for themselves. Marching north with household knights and peasant levies, they besieged Wallingford, stopping Sir Basile from sending riders to summon his younger brothers to his side. Breaching the outer Bailey, Sir Basile fell in battle to them. However, the campaign had been long and the forces at Oxford and Shriburn outnumbered theirs and they would have to wait another season.
@@ -165,7 +170,7 @@ The harvest that year was wealthy, bolstered by some of the plunder from the sum
 
 
 ## Year 500 - Chapter XX -The Unseelie of Oxford
-![][image-2]
+![Britain Events 496-500](.//maps/britain_496_500_events.png)
 
 At court in Sarum, the Princes of Sussex and Kent attended, scowling at each otters. There was apparently an offer of marriage to Countess Ellen from Cornwall, one which she had rejected.
 
@@ -211,5 +216,3 @@ With plunder the knights were able to keep at least a modest style of living in 
 *  Beornwulf - birth in family (niece born)
 	* Boy, Faierie-touched. Born 497-498 (3)
 
-[image-1]:	britain_495.png
-[image-2]:	britain_496_500_events.png
