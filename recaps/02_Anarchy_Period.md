@@ -2,9 +2,9 @@
 
 # The Great Pendragon Campaign Recap - Anarchy Period
 
-![Britain 495](./maps/britain_495.png)
+![Britain 495][image-1]
 
-![Pendragon Players' Map](./maps/pendragon_player.png)
+![Pendragon Players' Map][image-2]
 
 ## Year 496 - Chapter XVI - The Saxon Kings
 
@@ -95,7 +95,7 @@ All horses survive. All knights are rich due to the lack of tribute.
 
 
 ## Year 498 - Chapter XVIII - Into the Sauvage Forest
-![Forest Sauvage](./maps/forest_sauvage.png)
+![Forest Sauvage][image-3]
 The challenges from the Saxon kings surrounding Salisbury continued. In addition to Aescwine of Essex present on behalf of his father, Aethelswith; and Cynric of Wessex on behalf of his father, Cerdic, there was Celyn of Sussex. They could not afford to pay all three and they lacked the resources to fight them. The good knights advised Countess Ellen to accept Cerdic’s offer of alliance short of accepting him as liege, greatly reducing the cost of tribute. He had promised he would protect the land from other Saxons - and it was clear the three Saxon lords did not care for one another. They would put that to the test. This did put them allying with a different Saxon than Duke Ulfius - though alliances with Saxons were not likely to be enduring.
 
 Merlin again appeared at court, indicating he would be leaving Britain for the continent and the knights agreed to escort him to the port of Dorchester. This proved dangerous as Queen Ygraine sent a group of her knights to take vengeance on Merlin for his role in abducting her son. The knights of Salisbury did slay their leader Sir Roy of Rôls and took three more knights as prisoner - lessening the impact of the tribute to Cerdic and allowing construction to continue on the stone walls around Saurum, reaching half completion that summer.
@@ -132,7 +132,7 @@ With those promises made, they quickly found their way out of the forest. It see
 	* Boy, Faierie-touched. Born 497-498 (1)
 
 ## Year 499 - Chapter XIX -The Oxford Usurpers
-![Rydychan](./maps/rydychan.png)
+![Rydychan][image-4]
 
 Court at Sarum was tense, with Prince Mark and Prince Cynric of Wessex both present. Prince Mark urged the countess to break her alliance with Wessex, though on the advice of her loyal knights, she kept the alliance with Wessex - hoping the rivalry between the Saxon kings would break out into open warfare. 
 
@@ -170,7 +170,7 @@ The harvest that year was wealthy, bolstered by some of the plunder from the sum
 
 
 ## Year 500 - Chapter XX -The Unseelie of Oxford
-![Britain Events 496-500](.//maps/britain_496_500_events.png)
+![Britain Events 496-500][image-5]
 
 At court in Sarum, the Princes of Sussex and Kent attended, scowling at each otters. There was apparently an offer of marriage to Countess Ellen from Cornwall, one which she had rejected.
 
@@ -244,3 +244,24 @@ With plunder the knights were able to keep at least a modest style of living in 
 * Ulfius, Duke of Silchester. One of Uther's loyal followers, not present at the Infamous Feast. Has allied with King Ælle of the Saxons.
 * Wessex - Saxon kingdom ruled by Cerdic.
 * Ygraine - Widow of Uther. 
+
+
+## Year 501 - Chapter XXI -The Wedding of Morgan
+
+![Britain Year 501 Events][image-6]
+
+
+War continued, year after year. Saxons demanded tributes, along with the Angles. Both King Cerdic of Wessex and King Ælle of Sussex were demanding tribute. The intrigue at court was Cerdic was vulnerable so Countess Ellen's loyal knights advised they pay only Ælle. This advise was well chosen as a small fleet of Saxons invaded Wessex, led by their chieftain, Port. Cerdic yielded land to Port, who renamed one of the cities after himself, Portsmouth.
+
+Huntington and Hertford tried to hire mercenaries to protect themselves from the Angles but this effort was in vain, with both failing.
+
+A Saxon band attempted to kidnap Queen Ygraine, Uther's widow. Countess Ellen dispatched her loyal knights to intervene. Given their former history, they were not inclined towards speed. However, when they did arrive at the nunnery at Amesbury they found Morgan surrounded by dead Saxons. "They were careless," Morgan informed them.
+
+Queen Ygraine had agreed to wed her young daughter to King Urien. Countess Ellen assigned her knights to escort Ygraine and Morgan to Gaiholm castle, just north of Hardian's wall. After the wedding Ygraine decided to stay with her daughter. Traveling back to Logres, the knights were ambushed by Picts who had been at the wedding feast. It was not certain the Picts had been sent by Ygraine. But it was likely...
+
+[image-1]:	./maps/britain_495.png
+[image-2]:	./maps/pendragon_player.png
+[image-3]:	./maps/forest_sauvage.png
+[image-4]:	./maps/rydychan.png
+[image-5]:	.//maps/britain_496_500_events.png
+[image-6]:	.//maps/britain_501.png
