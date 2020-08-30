@@ -259,6 +259,47 @@ A Saxon band attempted to kidnap Queen Ygraine, Uther's widow. Countess Ellen di
 
 Queen Ygraine had agreed to wed her young daughter to King Urien. Countess Ellen assigned her knights to escort Ygraine and Morgan to Gaiholm castle, just north of Hardian's wall. After the wedding Ygraine decided to stay with her daughter. Traveling back to Logres, the knights were ambushed by Picts who had been at the wedding feast. It was not certain the Picts had been sent by Ygraine. But it was likely...
 
+### Winter 501-502
+*   Adric - 
+	*   Twins, only boy, Heckle surviving, born 482-483 (19)
+	*   Boy, James, born 483-484 (18)
+	*   Girl, Jennifer, born 488-489 (13)
+	*   Boy, Dan, born 489-490 (12)
+	*   Boy, John, born 490-491 (10)
+	*   Girl, Mary, born 492-493 (9)
+*   Arthen - 
+	*   Boy, born 482-483 (19)
+	*   Twin daughters, born 484-485 (17).
+	*   Son. Born 487-488 (14)
+	*   Son. Born 490-491 (10).
+	*   Daughter, Born 494-495 (7)
+*   Boudica
+	*   Girl, Calliope, born 481-482 (20)
+	*   Boy (bastard), Remus,  born 486-487 (15).
+	*   Girl, born 495-496 (6)
+	*   Girl, born 496-497 (5)
+*   Mag  -
+	*  Girl, Murrine, born 488-489 (13)
+	*  Girls, twins, born 496-497 (5)
+	*  Girl, born 497-498 (4)
+	* Girl, born 499-500 (2)
+	* Boy, born 500-501 (1)
+*  Percy - 
+	* Girl, born 499-500 (2)
+	* Boy, born 500-501 (1)
+*  Beornwulf - 
+	* Boy, Faierie-touched. Born 497-498 (4)
+
+
+## Year 502 - Chapter XXII - The Tower of the Headless Dead
+Some of the local leaders had begun consolidating power. Gloucester, Orofoise, Galvoise, Chesire, Cameliard, and Wuerensis had all submitted to King Nantleod. Duke Corneus of Lindsey now ruled over Bedegraine and Lambor and claimed Cameliard, making war between the two likely. The king of the Angles claimed dominion over all of Britain, a claim he was far from being able to enforce. Duke UIlfius was urging his neighbors to be neutral and form an alliance for self-defense, proposing that Silchester, Rydychan, and Salisbury band together. 
+
+That summer, Beornwulf, Boudica, Mag, and Percy investigated reports of the dead walking in an area known as the Forest of Skulls, near London and Hertford. A visit to a nearby village confirmed the threat - some miles away a sorcerer had set up residence in a tower and had been animating headless corpses - one of whom attacked that night, wounding Beornwulf.
+
+The next morning they investigated and received ominous warning from skulls along the forest path to turn around. Reaching a clearing, they found the tower - and it was surrounded by animated headless corpses - not just of men but of giants as well. Far too many for them to face themselves.
+
+Withdrawing, the knights worked with their allies and kinfolk. Ulfius agreed to send troops and even the Saxons of Wessex under King Cerdic participated. Leading the army, they stormed their way across the clearing, with Mag wounded by a giant - the skeleton of a giant. Limping into the tower, they found the sinister sorcerer behind the undead - a man they would later learn was named Guidgen. Assisted by headless skeletons and his magic he proved a devastating foe. His illusions made it hard to strike him true, Mag missing many blows. When he finally landed one, a jeweled talisman glowed an ugly red and absorbed the wound. Guidgen enchanted a sword to attack the knights. With all of them wounded badly, Boudica made a desperate lunge at him, tearing the talisman off his throat as his enchanted sword landed a killing blow on her. However, the other knights were finally able to finish him off and with that, the dead slept forever. The knights needed much healing after this grave battle, after which they returned Boudica's body to Salisbury for burial.
+
 [image-1]:	./maps/britain_495.png
 [image-2]:	./maps/pendragon_player.png
 [image-3]:	./maps/forest_sauvage.png
