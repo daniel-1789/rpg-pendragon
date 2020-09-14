@@ -355,6 +355,20 @@ Unknown to Ulfius, a small fleet of boats ferried the Kentsmen across the river 
 
 The next morning the Saxons besieged London, using siege equipment provided by the mercenary knight Sir Helier. The forces of Salisbury fought valiantly, but left alone, they were outflanked and the city opened its gates. Sir Percy was badly wounded in the battle. To blunt their victory, Sir Mag launched balls of flaming pitch into the city, putting much of the city to the torch (and roasting marsh mallow plants in the process). They then retreated back to Salisbury.
 
+### Winter 503-504
+*   Mag  - No aging. 
+	*  Girl, Murrine, born 488-489 (15)
+	*  Girls, twins, born 496-497 (7)
+	*  Girl, born 497-498 (6)
+	* Girl, born 499-500 (4)
+	* Boy, born 500-501 (3)
+
+#### Winter Extended Family
+Boudica - Dead.
+	*   Girl, Calliope, born 481-482 (22)
+	*   Boy (bastard), Remus,  born 486-487 (17).
+	*   Girl, born 495-496 (8)
+	*   Girl, born 496-497 (7)
 [image-1]:	./maps/britain_495.png
 [image-2]:	./maps/pendragon_player.png
 [image-3]:	./maps/forest_sauvage.png
