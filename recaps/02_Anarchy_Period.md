@@ -251,7 +251,7 @@ With plunder the knights were able to keep at least a modest style of living in 
 ![Britain Year 501 Events][image-6]
 
 
-War continued, year after year. Saxons demanded tributes, along with the Angles. Both King Cerdic of Wessex and King Ælle of Sussex were demanding tribute. The intrigue at court was Cerdic was vulnerable so Countess Ellen's loyal knights advised they pay only Ælle. This advise was well chosen as a small fleet of Saxons invaded Wessex, led by their chieftain, Port. Cerdic yielded land to Port, who renamed one of the cities after himself, Portsmouth.
+War continued, year after year. Saxons demanded tributes, along with the Angles. Both King Cerdic of Wessex and King Ælle of Sussex were demanding tribute. The intrigue at court was Cerdic was vulnerable so Countess Ellen's loyal knights advised they pay only Ælle. This advice was well chosen as a small fleet of Saxons invaded Wessex, led by their chieftain, Port. Cerdic yielded land to Port, who renamed one of the cities after himself, Portsmouth.
 
 Huntington and Hertford tried to hire mercenaries to protect themselves from the Angles but this effort was in vain, with both failing.
 
@@ -299,6 +299,61 @@ That summer, Beornwulf, Boudica, Mag, and Percy investigated reports of the dead
 The next morning they investigated and received ominous warning from skulls along the forest path to turn around. Reaching a clearing, they found the tower - and it was surrounded by animated headless corpses - not just of men but of giants as well. Far too many for them to face themselves.
 
 Withdrawing, the knights worked with their allies and kinfolk. Ulfius agreed to send troops and even the Saxons of Wessex under King Cerdic participated. Leading the army, they stormed their way across the clearing, with Mag wounded by a giant - the skeleton of a giant. Limping into the tower, they found the sinister sorcerer behind the undead - a man they would later learn was named Guidgen. Assisted by headless skeletons and his magic he proved a devastating foe. His illusions made it hard to strike him true, Mag missing many blows. When he finally landed one, a jeweled talisman glowed an ugly red and absorbed the wound. Guidgen enchanted a sword to attack the knights. With all of them wounded badly, Boudica made a desperate lunge at him, tearing the talisman off his throat as his enchanted sword landed a killing blow on her. However, the other knights were finally able to finish him off and with that, the dead slept forever. The knights needed much healing after this grave battle, after which they returned Boudica's body to Salisbury for burial.
+
+### Winter 502-503
+*   Adric - 
+	*   Twins, only boy, Heckle surviving, born 482-483 (20)
+	*   Boy, James, born 483-484 (19)
+	*   Girl, Jennifer, born 488-489 (14)
+	*   Boy, Dan, born 489-490 (13)
+	*   Boy, John, born 490-491 (11)
+	*   Girl, Mary, born 492-493 (10)
+*   Arthen - 
+	*   Boy, born 482-483 (20)
+	*   Twin daughters, born 484-485 (18).
+	*   Son. Born 487-488 (15)
+	*   Son. Born 490-491 (11).
+	*   Daughter, Born 494-495 (8)
+*   Boudica - Dead, widow Fergus remarries.
+	*   Girl, Calliope, born 481-482 (21)
+	*   Boy (bastard), Remus,  born 486-487 (16).
+	*   Girl, born 495-496 (7)
+	*   Girl, born 496-497 (6)
+*   Mag  - Wife gives birth to a boy who dies.
+	*  Girl, Murrine, born 488-489 (14)
+	*  Girls, twins, born 496-497 (6)
+	*  Girl, born 497-498 (5)
+	* Girl, born 499-500 (3)
+	* Boy, born 500-501 (2)
+	* Boy, born 502-503, dies (0).
+*  Percy - Son born, mother remarries
+	* Girl, born 499-500 (3)
+	* Boy, born 500-501 (2)
+	* Boy, born 502-503 (0)
+*  Beornwulf - Son born
+	* Boy, Faierie-touched. Born 497-498 (5)
+	* Boy, Born 502-503 (0)
+
+
+## Year 503 - Chapter XXIII - The Battle of London
+
+Sir Mag, the eldest living companion of the late Boudica, knighted her daughter Calliope, as part of the Easter feast in Sarum.
+
+Sir Ulfius warned the court in Saurum of the impending Saxon threat to London. “Two Saxon kingdoms are mustering to attack. Kent and Essex are going to plunder to collect riches and Glory. They will of course come up the Thames River again, and perhaps try to attack London. We need you to stand by us and crush them.” 
+
+Sir Lane of Lindsey had his own request for aid: “We need your help. The duke says he is threatened on three sides by foes. We expect to be attacked by Gales and Malahaut and by the Angles this year.” 
+
+Meanwhile, Cynric, son of Cerdic came armed with threats. “We are not foolish enough to wish for a battle, but we'll extract our tribute in plunder if need be.
+
+In consultation with her knights, Countess Ellen chose to hold off tribute, sending some of her knights to aid Ulfius in defense of the Thames while the remainder of the knights stayed to defend Sarum from the likely attack from Wessex.
+
+Beornwulf, Calliope, Mag, and Percy led the contingent of knights from Salisbury to London. 
+
+King Aesc of Kent and King Aethelswith of Essex both marched out with their armies. They stopped and besieged London, one army on each side of the river. Ulfius crossed the Thames at Windsor, attempting to attack the northern army of Essex before they could be joined by those from Kent. The troops from Salisbury marched on the troops from Kent, south of the Thames.
+
+Unknown to Ulfius, a small fleet of boats ferried the Kentsmen across the river at night. Ulfius was greatly out-numbered, and had heard that Saxon ships had sailed for Windsor to block his retreat. He fought a short battle, and then escaped with his army at night. 
+
+The next morning the Saxons besieged London, using siege equipment provided by the mercenary knight Sir Helier. The forces of Salisbury fought valiantly, but left alone, they were outflanked and the city opened its gates. Sir Percy was badly wounded in the battle. To blunt their victory, Sir Mag launched balls of flaming pitch into the city, putting much of the city to the torch (and roasting marsh mallow plants in the process). They then retreated back to Salisbury.
 
 [image-1]:	./maps/britain_495.png
 [image-2]:	./maps/pendragon_player.png
