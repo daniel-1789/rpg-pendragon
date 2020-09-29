@@ -356,6 +356,17 @@ Unknown to Ulfius, a small fleet of boats ferried the Kentsmen across the river 
 The next morning the Saxons besieged London, using siege equipment provided by the mercenary knight Sir Helier. The forces of Salisbury fought valiantly, but left alone, they were outflanked and the city opened its gates. Sir Percy was badly wounded in the battle. To blunt their victory, Sir Mag launched balls of flaming pitch into the city, putting much of the city to the torch (and roasting marsh mallow plants in the process). They then retreated back to Salisbury.
 
 ### Winter 503-504
+* Beornwulf - twin sons born
+	* Boy, Faierie-touched. Born 497-498 (6)
+	* Boy, Born 502-503 (1)
+	* Boys, Born 503-504 (0)
+*  Percy - Son born,
+	* Girl, born 499-500 (4)
+	* Boy, born 500-501 (3)
+	* Boy, born 502-503 (1)
+	* Boy, born 503-504
+* Calliope - Marries 5th son of vassal knight. One child, girl.
+	* Girl, born 503-504
 *   Mag  - No aging. 
 	*  Girl, Murrine, born 488-489 (15)
 	*  Girls, twins, born 496-497 (7)
@@ -369,6 +380,17 @@ Boudica - Dead.
 	*   Boy (bastard), Remus,  born 486-487 (17).
 	*   Girl, born 495-496 (8)
 	*   Girl, born 496-497 (7)
+
+## Year 504 - Chapter XXIV - The Redcap Tower
+
+News The King of Somerset had sent a herald to ask for help in fighting against King Idres. 
+
+The countess however was interested if her brave knights could secure a tower near the border with Wessex. 
+
+Beornwulf, Calliope, Mag, and Percy traveled to the vicinity of the tower and learned it was largely in ruins from a nearby village. However, the villagers feared a vile Redcap which dwelt there. They did battle with the Redcap but were badly wounded and retreated back to the village, Mag previously injured. The village surgeon tried to treat him but his wounds festered and he fell. He was avenged in battle against the Redcap, which followed them to the village and was at last defeated by force of arms and Percy finally being able to work an exorcism ritual to banish the foul fey from our realm.
+
+
+
 [image-1]:	./maps/britain_495.png
 [image-2]:	./maps/pendragon_player.png
 [image-3]:	./maps/forest_sauvage.png
