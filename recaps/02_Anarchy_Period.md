@@ -433,7 +433,28 @@ Beornwulf, Calliope, Mag, and Percy traveled to the vicinity of the tower and le
 	* Girl, born 499-500 (5)
 	* Boy, born 500-501 (4)
 
-## Year 505 - Chapter XXV - 
+## Year 505 - Chapter XXV - Th Battle of Hertford
+
+Prince Cynric arrived to make his annual threats. However, King Nanteleod had sent his own emissaries, Sirs Lak and Alain, who came proposing war against the Saxons, preparing their army and Lindsey's for battle against Essex and Angles.
+
+Countess Ellen agreed to the plan and sent Calliope, along with three new knights' to represent her and her son, Robert. They were, Heckle, son of Adric; Leofric ap Arthen	, and Máel-dúin "Maul" O Hanlon, nephew of Mag.
+
+King Cerdic marched north against Salisbury. With him was King Port, but Ælle was notably missing. The countess ordered her people to the safety of the castles and now-walled city, and ordered her army inside, sending the knights northward to wait at Wandborough.
+
+The Saxons burned and pillaged everywhere, but found little to eat. 
+
+They laid siege to Sarum. King Nanteleod’s army moved south. It entered Wandborough, where the king welcomed the Salisbury knights to his army. They moved south towards Sarum. King Cerdic raised the siege and marched north. They fought and drove off Cerdic's army, the knights of Salisbury acquiting themselves well.
+
+Nanteleod moved his army east. This allowed Cerdic to escape but Nanteleod to join his forces with those of Duke Ulfius. They fought another, inconclusive battle with King Cerdic, who retreated home after the battle.
+
+Though the forty days of military service had expired, Nanteleod convinced many, including the Knights of Salisbury, to continue the campaign at their own expense. They pressed on, marching into the Saxon territory of Essex, destroying the Essex armies. Then King Aethelswith of Anglia arrived with the full force of his army. He was defeated outside Hertford, with the knights of Salisbury taking him prisoner.
+
+Much pillage was taken and there was much rejocing.
+
+![Britain Year 505 Events][image-8
+
+
+
 
 [image-1]:	./maps/britain_495.png
 [image-2]:	./maps/pendragon_player.png
@@ -442,3 +463,4 @@ Beornwulf, Calliope, Mag, and Percy traveled to the vicinity of the tower and le
 [image-5]:	./maps/britain_496_500_events.png
 [image-6]:	./maps/britain_501.png
 [image-7]:	./maps/britain_503_504_events.png
+[image-8]:	./maps/britain_505_events.png
