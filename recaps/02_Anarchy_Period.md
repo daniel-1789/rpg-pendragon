@@ -382,6 +382,9 @@ Boudica - Dead.
 	*   Girl, born 496-497 (7)
 
 ## Year 504 - Chapter XXIV - The Redcap Tower
+![Britain Year 503-504 Events][image-7]
+
+
 
 News The King of Somerset had sent a herald to ask for help in fighting against King Idres. 
 
@@ -389,11 +392,53 @@ The countess however was interested if her brave knights could secure a tower ne
 
 Beornwulf, Calliope, Mag, and Percy traveled to the vicinity of the tower and learned it was largely in ruins from a nearby village. However, the villagers feared a vile Redcap which dwelt there. They did battle with the Redcap but were badly wounded and retreated back to the village, Mag previously injured. The village surgeon tried to treat him but his wounds festered and he fell. He was avenged in battle against the Redcap, which followed them to the village and was at last defeated by force of arms and Percy finally being able to work an exorcism ritual to banish the foul fey from our realm.
 
+### Winter 504-505
+* Beornwulf -
+	* Boy, Faierie-touched. Born 497-498 (7)
+	* Boy, Born 502-503 (2)
+	* Boys, Born 503-504 (1)
+*  Percy -
+	* Girl, born 499-500 (5)
+	* Boy, born 500-501 (4)
+	* Boy, born 502-503 (2)
+	* Boy, born 503-504 (1)
+* Calliope -
+	* Girl, born 503-504 (1)
 
+
+#### Winter Extended Family
+
+*   Adric - Dead
+	*   Twins, only boy, Heckle surviving, born 482-483 (22)
+	*   Boy, James, born 483-484 (21)
+	*   Girl, Jennifer, born 488-489 (16)
+	*   Boy, Dan, born 489-490 (15)
+	*   Boy, John, born 490-491 (14)
+	*   Girl, Mary, born 492-493 (12)
+*   Arthen - Retired
+	*   Boy, born 482-483 (22)
+	*   Twin daughters, born 484-485 (20).
+	*   Son. Born 487-488 (17)
+	*   Son. Born 490-491 (14).
+	*   Daughter, Born 494-495 (10)
+* Boudica - Dead.
+	*   Girl, Calliope, born 481-482 (23)
+	*   Boy (bastard), Remus,  born 486-487 (18).
+	*   Girl, born 495-496 (9)
+	*   Girl, born 496-497 (8)
+*   Mag  - Dead. 
+	*  Girl, Murrine, born 488-489 (16)
+	*  Girls, twins, born 496-497 (8)
+	*  Girl, born 497-498 (6)
+	* Girl, born 499-500 (5)
+	* Boy, born 500-501 (4)
+
+## Year 505 - Chapter XXV - 
 
 [image-1]:	./maps/britain_495.png
 [image-2]:	./maps/pendragon_player.png
 [image-3]:	./maps/forest_sauvage.png
 [image-4]:	./maps/rydychan.png
-[image-5]:	.//maps/britain_496_500_events.png
-[image-6]:	.//maps/britain_501.png
+[image-5]:	./maps/britain_496_500_events.png
+[image-6]:	./maps/britain_501.png
+[image-7]:	./maps/britain_503_504_events.png
