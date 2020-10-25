@@ -451,7 +451,7 @@ Though the forty days of military service had expired, Nanteleod convinced many,
 
 Much pillage was taken and there was much rejocing.
 
-![Britain Year 505 Events][image-8
+![Britain Year 505 Events][image-8]
 
 
 
