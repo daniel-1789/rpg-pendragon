@@ -433,7 +433,7 @@ Beornwulf, Calliope, Mag, and Percy traveled to the vicinity of the tower and le
 	* Girl, born 499-500 (5)
 	* Boy, born 500-501 (4)
 
-## Year 505 - Chapter XXV - Th Battle of Hertford
+## Year 505 - Chapter XXV - The Battle of Hertford
 
 Prince Cynric arrived to make his annual threats. However, King Nanteleod had sent his own emissaries, Sirs Lak and Alain, who came proposing war against the Saxons, preparing their army and Lindsey's for battle against Essex and Angles.
 
@@ -449,7 +449,7 @@ Nanteleod moved his army east. This allowed Cerdic to escape but Nanteleod to jo
 
 Though the forty days of military service had expired, Nanteleod convinced many, including the Knights of Salisbury, to continue the campaign at their own expense. They pressed on, marching into the Saxon territory of Essex, destroying the Essex armies. Then King Aethelswith of Anglia arrived with the full force of his army. He was defeated outside Hertford, with the knights of Salisbury taking him prisoner.
 
-Much pillage was taken and there was much rejocing.
+Much pillage was taken and there was much rejoicing.
 
 ![Britain Year 505 Events][image-8]
 
