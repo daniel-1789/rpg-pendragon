@@ -453,8 +453,46 @@ Much pillage was taken and there was much rejoicing.
 
 ![Britain Year 505 Events][image-8]
 
+### Year 505-506 Winter
+* Calliope -
+	* Girl, born 503-504 (2)
+	* Boy, born 505-506 (0)
+* Heckle - unmarried, nephew born
+* Leofric - marries child of household knight, sister missing
+	* Boy, born 505-506 (0)
+* Maul - Unmarried, father missing
 
+Horse ages after winter - if 4 a new horse due to death/loss)
 
+|  | Charger | Rouncy 1 | Rouncy 2  | Sumpter |
+|:--|:--|:--|:--|:--|
+| Calliope | 6 | 6 | 6 | 6 |
+| Heckle | 5 |5  | 4 | 4 |
+| Leofric | 5 | 5 | 5 | 4 |
+| Maul | 5 | 4 |5  | 4 |
+
+## Year 506 - Chapter XXV - The Adventure of the Deceitful Faerie
+
+Though Nanteleod was looking for aid in his battles this summer, our heroic knights investigated the village of Steamford, plagued by a deceitful faerie. After investigation, and dealing with peasant lying and backstabbing, they slew the Faerie Tad. This proved to be a mistake, as he came back at midnight to plague them. They found a portal to the fey lands on a lake island and were eventually able to capture Tad and take him back to his land where his lord, Ratatouilles the Redcap, swore he would face justice. They feasted with the fey - a feast none could remember, and found a week had passed for their one night with the faerie.
+
+### Year 506-507 Winter
+* Calliope -
+	* Girl, born 503-504 (3)
+	* Boy, born 505-506 (1)
+	* Boy, born 506-507 (0),dies
+* Heckle - unmarried, younger sister marries
+* Leofric -
+	* Boy, born 505-506 (1)
+* Maul - Unmarried, brother disappears
+
+Horse ages after winter - if 4 a new horse due to death/loss)
+
+|  | Charger | Rouncy 1 | Rouncy 2  | Sumpter |
+|:--|:--|:--|:--|:--|
+| Calliope | 7 | 7 | 7 | 7 |
+| Heckle | 6 |6  | 5 | 5 |
+| Leofric | 6 | 6 | 6 | 5 |
+| Maul | 6 | 5 |6 | 5 |
 
 [image-1]:	./maps/britain_495.png
 [image-2]:	./maps/pendragon_player.png
