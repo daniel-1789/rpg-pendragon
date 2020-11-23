@@ -494,6 +494,19 @@ Horse ages after winter - if 4 a new horse due to death/loss)
 | Leofric | 6 | 6 | 6 | 5 |
 | Maul | 6 | 5 |6 | 5 |
 
+
+## Year 507 - Chapter XXVI - The Liberations of Somerset and London
+
+Tension was high in Sarum. Prince Mark and Prince Alain de Carilion bickered. Reports of raids by Picts in the north became common. Apparently Countess Ellen was entertaining the possibility of a marriage alliance with King Nanteleod. 
+
+
+London was successfully liberated though Salisbury was badly raided by Saxons. 
+
+![Britain Year 507 Events][image-9]
+
+### Year 507-508 Winter
+
+
 [image-1]:	./maps/britain_495.png
 [image-2]:	./maps/pendragon_player.png
 [image-3]:	./maps/forest_sauvage.png
@@ -502,3 +515,5 @@ Horse ages after winter - if 4 a new horse due to death/loss)
 [image-6]:	./maps/britain_501.png
 [image-7]:	./maps/britain_503_504_events.png
 [image-8]:	./maps/britain_505_events.png
+[image-9]:	./maps/britain_507_events.png
+
