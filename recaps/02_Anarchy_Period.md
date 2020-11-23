@@ -499,6 +499,7 @@ Horse ages after winter - if 4 a new horse due to death/loss)
 
 Tension was high in Sarum. Prince Mark and Prince Alain de Carilion bickered. Reports of raids by Picts in the north became common. Apparently Countess Ellen was entertaining the possibility of a marriage alliance with King Nanteleod. 
 
+While Duke Corneus of Lindsey planned to march on London, Ellen's knights joined with Nanteleod's army to liberate Somerset. They rendezvoused with the King of Somerset (in exile) in the swamps, facing brigands who had once been soldiers of Uther, convincing them to join Nanteleod's army to restore them to the protection of the law. They then led armies to retake the city of Bath, though King Idres refused to be drawn into battle. Heckle was badly wounded in the battle but survived his time on the surgeon's table.
 
 London was successfully liberated though Salisbury was badly raided by Saxons. 
 
