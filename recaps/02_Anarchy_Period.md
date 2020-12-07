@@ -499,13 +499,65 @@ Horse ages after winter - if 4 a new horse due to death/loss)
 
 Tension was high in Sarum. Prince Mark and Prince Alain de Carilion bickered. Reports of raids by Picts in the north became common. Apparently Countess Ellen was entertaining the possibility of a marriage alliance with King Nanteleod. 
 
-While Duke Corneus of Lindsey planned to march on London, Ellen's knights joined with Nanteleod's army to liberate Somerset. They rendezvoused with the King of Somerset (in exile) in the swamps, facing brigands who had once been soldiers of Uther, convincing them to join Nanteleod's army to restore them to the protection of the law. They then led armies to retake the city of Bath, though King Idres refused to be drawn into battle. Heckle was badly wounded in the battle but survived his time on the surgeon's table.
+While Duke Corneus of Lindsey planned to march on London, Ellen's knights joined with Nanteleod's army to liberate Somerset. They rendezvoused with the King of Somerset (in exile) in the swamps, facing brigands who had once been soldiers of Uther, con xdhfc-vincing them to join Nanteleod's army to restore them to the protection of the law. They then led armies to retake the city of Bath, though King Idres refused to be drawn into battle. Heckle was badly wounded in the battle but survived his time on the surgeon's table.
 
 London was successfully liberated though Salisbury was badly raided by Saxons. 
 
 ![Britain Year 507 Events][image-9]
 
 ### Year 507-508 Winter
+
+* Calliope - bother Remus marries
+	* Girl, born 503-504 (4)
+	* Boy, born 505-506 (2)
+	* Girl, born 507-508 (0)
+* Heckle - unmarried, +3 to marriage rolls
+* Leofric -
+	* Boy, born 505-506 (2), dies
+	* Boy, born 507-508 (0)
+
+* Maul - Unmarried, brother disappears
+
+Horse ages after winter - if 4 a new horse due to death/loss)
+
+|  | Charger | Rouncy 1 | Rouncy 2  | Sumpter |
+|:--|:--|:--|:--|:--|
+| Calliope | 8 | 8 | 8 | 8|
+| Heckle | 7 |7  | 6 | 6 |
+| Leofric |7 | 7 | 7 | 8 |
+| Maul | 7 | 7 |7| 6 |
+
+## Year 508 - Chapter XXVII- The Fall of King Nanteleod
+
+Shortly after Easter there were great festivities. In a marriage alliance, the Countess Ellen and King Nanteleod were married. At the wedding feast, Calliope and Heckle were near the head table, though all were welcomed and celebrated.
+
+After that the knights went to war with Nanteleod. At long last the British would crush the Saxon King Cerdic. The Collegium would again be meeting, and many felt that Nanteleod would be named Pendragon, King of all the Britains.
+
+They met Cerdic’s forces at Netley Marsh. However, the British forces were betrayed. Allied with Cerdic were the troops of King Ælle as well as Cornish knights led by Prince Mark. Outnumbered, the forces of Nanteleod and Salisbury fought bravely. In the end, an ambush from the rear, led by Prince Cynric, son of Cerdic, defeated and slew Nanteleod. Calliope, Heckle, Leofric, and Maul led the survivors in as organized a retreat as they could, to reinforce Salisbury from the imminent Saxon raids and inform the now-twice widowed Ellen of the defeat.
+
+### Year 508-509 Winter
+
+* Calliope -
+	* Girl, born 503-504 (5)
+	* Boy, born 505-506 (3)
+	* Girl, born 507-508 (1)
+* Heckle - unmarried, +4 to marriage rolls
+* Leofric -
+	* Boy, born 507-508 (1)
+	* Boy, born 508-508 (0)
+
+* Maul - Unmarried
+
+Horse ages after winter - if 4 a new horse due to death/loss)
+
+|  | Charger | Rouncy 1 | Rouncy 2  | Sumpter |
+|:--|:--|:--|:--|:--|
+| Calliope |9 | 9 | 9 | 9|
+| Heckle | 8 |4  | 7 | 7|
+| Leofric |8 | 8 | 8 | 9 |
+| Maul | 8| 8 |4| 7 |
+
+
 
 
 [image-1]:	./maps/britain_495.png
@@ -517,4 +569,3 @@ London was successfully liberated though Salisbury was badly raided by Saxons.
 [image-7]:	./maps/britain_503_504_events.png
 [image-8]:	./maps/britain_505_events.png
 [image-9]:	./maps/britain_507_events.png
-
