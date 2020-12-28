@@ -375,11 +375,11 @@ The next morning the Saxons besieged London, using siege equipment provided by t
 	* Boy, born 500-501 (3)
 
 #### Winter Extended Family
-Boudica - Dead.
-	*   Girl, Calliope, born 481-482 (22)
-	*   Boy (bastard), Remus,  born 486-487 (17).
-	*   Girl, born 495-496 (8)
-	*   Girl, born 496-497 (7)
+*   Boudica  - dead. 
+	- Girl, Calliope, born 481-482 (22)
+	- Boy (bastard), Remus,  born 486-487 (17).
+	- Girl, born 495-496 (8)
+	- Girl, born 496-497 (7)
 
 ## Year 504 - Chapter XXIV - The Redcap Tower
 ![Britain Year 503-504 Events][image-7]
@@ -558,7 +558,42 @@ Horse ages after winter - if 4 a new horse due to death/loss)
 | Maul | 8| 8 |4| 7 |
 
 
+## Year 509 - Chapter XXVIII- The Battle of Sandford
 
+King Cerdic always remembered those who fought against him and so it was that his son, Cynric, demanded triple the tribute from Countess Ellen - or a pledge of eternal fealty to Cerdic, King of Wessex.
+
+Change was afoot in Salisbury, with Robert, son of Roderick, coming of age, to be knighted by the Lady Calliope. Ellen wished to give her son time to determine his own course of action and agreed to pay the tribute. Sirs Leofric and Heckle advocated for a subdued knighting ceremony while Maul suggested  a more elaborate one - though Leofric’s and Heckle’s arguments were so poor as to actually persuade Robert away from his initial instincts for a subdued ceremony to a more elaborate one, in the hopes of giving the people of Salisbury more hope.
+
+Cerdic also demanded the yielding of Oxford and the other territories for Rydychan. However, the knights held those by right of conquest and they were not Ellen’s to choose what to do with. The knights chose to defend them, knowing it would soon mean battle with Cynric. As both the knights and Cynric were guests of Ellen, they did not go into open hostilities there - indeed, Calliope and Cynric exchanged threats veiled in pleasantries.
+
+After Earl Robert’s knighting, the four knights quickly led their troops from Salisbury to Rydychan - accompanied by Earl Robert. However, at the crossing of the Thames at the small hamlet of Sandford they were overtaken by Cynric’s forces, who were waiting on the far side of the Thames. They engaged Cynric in battle, fighting over possession of a ruined watchtower on a small island. In a battle against Saxon warriors, Earl Robert, in his first true battle, was quickly disarmed and wounded, though his knights prevented him from being captured. Fighting their way up the tower, Maul and Heckle fought against Cynric’s elite troops, Heckle being previously injured by a Saxon berserker - possibly the same one who slew his father, while Calliope and Leforic battled their way past those troops to battle Cynric. Calliope and Cynric exchanged mighty blows, disarming each other. As they retrieved their weapons, Leofric and Cynric had a similar exchange, giving Calliope an opening for a lethal blow. As Cynric clung to life Maul hurled him down the steps of the tower, dying as he landed on one of his berserker’s axes.
+
+With the defeat of Cynric the Saxon army withdrew. The knights and their earl returned to Sarum victorious.
+
+### Year 509-510 Winter
+
+* Calliope -
+	* Girl, born 503-504 (6)
+	* Boy, born 505-506 (4)
+	* Girl, born 507-508 (2)
+	* Boy, born 509-510, bastard (0)
+* Heckle - Marries 6th daughter of vassal knight
+* Leofric -
+	* Boy, born 507-508 (2)
+	* Boy, born 508-508 (1)
+* Maul - Marries 1st daughter of vassal knight
+
+Horse ages after winter - if 4 a new horse due to death/loss)
+
+|  | Charger | Rouncy 1 | Rouncy 2  | Sumpter |
+|:--|:--|:--|:--|:--|
+| Calliope | 10 | 10 | 10 | 10 |
+| Heckle | 9 |5  | 8 | 8 |
+| Leofric | 9 | 9 | 9 | 10 |
+| Maul | 9 | 9 |5| 8 |
+
+
+.
 
 [image-1]:	./maps/britain_495.png
 [image-2]:	./maps/pendragon_player.png
