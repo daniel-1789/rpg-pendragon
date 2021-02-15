@@ -92,6 +92,45 @@ Horse ages after winter - if 4 a new horse due to death/loss)
 | Maul | 10 | 10 |6| 9 |
 
 
+## Year 511 - Retaking Cair Maug
+
+The year 511 saw some much needed consolidation. Queen Margawse of Lothian was at the court at Carlion - rumor had it when she left she was with child.
+
+Heckle had to defend his sister from accusations of being a horse thief, She pled that she was following the orders of another king the centaur king Agametrius, It seemed she might have lost her mind until the centaur king arrived in Carlion.
+
+He explained that several sacred horses, blessed with speech, had been lost to humans. The knights agreed to help him and Heckle’s sister by leafing a raid on Cair Maug, the tower where Maug, uncle of Maul, had fallen in battle. The Saxons had recently retaken it, under Thane Alfred - mounted on a talking horse.
+
+The knights were able to launch a surprise attack, bursting into the barracks on horseback. The battle within was furious, with a great fire breaking out and forcing them out. They slew Alfred and retook Cair Maug, though his nephew was badly wounded in the battle. Unlike his uncle, he survived the surgeon’s knife.
+
+
+### Year 511-512 Winter
+
+* Calliope - birth in the family, son to brother Remus
+	* Girl, born 503-504 (8)
+	* Boy, born 505-506 (6)
+	* Girl, born 507-508 (4)
+	* Boy, born 509-510 (2)
+* Heckle -
+* Leofric -. 
+	* Boy, born 507-508 (4)
+	* Boy, born 508-508 (3)
+	* Boy,  born 510-511 (1)
+* Maul - 
+	* Boy,  born 510-511 (1)
+	* Boy, bastard, born 510-511 (1)
+
+Horse ages after winter - if 4 a new horse due to death/loss)
+
+|  | Charger | Rouncy 1 | Rouncy 2  | Sumpter |
+|:--|:--|:--|:--|:--|
+| Calliope | 11 | 11 | 11 | 11 |
+| Heckle | 10 |6  | 9 | 9 |
+| Leofric | 10 | 10 | 10 | 11 |
+| Maul | 10 | 10 |6| 9 |
+
+
+ 
+
 
 [image-1]:	./maps/pendragon_player.png
 [image-2]:	./maps/britain_510_events.png
