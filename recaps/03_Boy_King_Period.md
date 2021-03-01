@@ -5,42 +5,7 @@
 
 ![Pendragon Players' Map][image-1]
 
-#### Year 509 - Chapter XXVIII- The Battle of Sandford
-
-King Cerdic always remembered those who fought against him and so it was that his son, Cynric, demanded triple the tribute from Countess Ellen - or a pledge of eternal fealty to Cerdic, King of Wessex.
-
-Change was afoot in Salisbury, with Robert, son of Roderick, coming of age, to be knighted by the Lady Calliope. Ellen wished to give her son time to determine his own course of action and agreed to pay the tribute. Sirs Leofric and Heckle advocated for a subdued knighting ceremony while Maul suggested  a more elaborate one - though Leofric’s and Heckle’s arguments were so poor as to actually persuade Robert away from his initial instincts for a subdued ceremony to a more elaborate one, in the hopes of giving the people of Salisbury more hope.
-
-Cerdic also demanded the yielding of Oxford and the other territories for Rydychan. However, the knights held those by right of conquest and they were not Ellen’s to choose what to do with. The knights chose to defend them, knowing it would soon mean battle with Cynric. As both the knights and Cynric were guests of Ellen, they did not go into open hostilities there - indeed, Calliope and Cynric exchanged threats veiled in pleasantries.
-
-After Earl Robert’s knighting, the four knights quickly led their troops from Salisbury to Rydychan - accompanied by Earl Robert. However, at the crossing of the Thames at the small hamlet of Sandford they were overtaken by Cynric’s forces, who were waiting on the far side of the Thames. They engaged Cynric in battle, fighting over possession of a ruined watchtower on a small island. In a battle against Saxon warriors, Earl Robert, in his first true battle, was quickly disarmed and wounded, though his knights prevented him from being captured. Fighting their way up the tower, Maul and Heckle fought against Cynric’s elite troops, Heckle being previously injured by a Saxon berserker - possibly the same one who slew his father, while Calliope and Leforic battled their way past those troops to battle Cynric. Calliope and Cynric exchanged mighty blows, disarming each other. As they retrieved their weapons, Leofric and Cynric had a similar exchange, giving Calliope an opening for a lethal blow. As Cynric clung to life Maul hurled him down the steps of the tower, dying as he landed on one of his berserker’s axes.
-
-With the defeat of Cynric the Saxon army withdrew. The knights and their earl returned to Sarum victorious.
-
-### Year 509-510 Winter
-
-* Calliope -
-	* Girl, born 503-504 (6)
-	* Boy, born 505-506 (4)
-	* Girl, born 507-508 (2)
-	* Boy, born 509-510 (0)
-* Heckle - Marries 6th daughter of vassal knight
-* Leofric -
-	* Boy, born 507-508 (2)
-	* Boy, born 508-508 (1)
-* Maul - Marries 1st daughter of vassal knight
-
-Horse ages after winter - if 4 a new horse due to death/loss)
-
-|  | Charger | Rouncy 1 | Rouncy 2  | Sumpter |
-|:--|:--|:--|:--|:--|
-| Calliope | 10 | 10 | 10 | 10 |
-| Heckle | 9 |5  | 8 | 8 |
-| Leofric | 9 | 9 | 9 | 10 |
-| Maul | 9 | 9 |5| 8 |
-
-
-## Year 510 - The Boy King
+## Year 510 - Chapter XXIX- The Boy King
 Calliope, Heckle, Leofric, and Maul accompanied young Earl Robert to the tournament at London. The tournament was a new thing - battle not to the death. It was a chaotic affair, something that the faerie folk would enjoy.
 
 However, all was upended was a beardless bastard, Arthur, drew the sword Excalibur, from the sword it had been embedded in since the death of Uther. There were many witnesses, among them Merlin, back from his voyages. A small number of those swore immediate loyalty to Arthur, among them being King Leodegrance of Cameliard; Sir Ector, Arthur’s stepfather; Sir Kay, Arthur’s 
@@ -92,7 +57,7 @@ Horse ages after winter - if 4 a new horse due to death/loss)
 | Maul | 10 | 10 |6| 9 |
 
 
-## Year 511 - Retaking Cair Maug
+## Year 511 - Chapter XXX - Retaking Cair Maug
 
 The year 511 saw some much needed consolidation. Queen Margawse of Lothian was at the court at Carlion - rumor had it when she left she was with child.
 
@@ -105,32 +70,61 @@ The knights were able to launch a surprise attack, bursting into the barracks on
 
 ### Year 511-512 Winter
 
-* Calliope - birth in the family, son to brother Remus
+* Calliope - birth to a daughter
 	* Girl, born 503-504 (8)
 	* Boy, born 505-506 (6)
 	* Girl, born 507-508 (4)
 	* Boy, born 509-510 (2)
-* Heckle -
-* Leofric -. 
+	* Girl, born 511-512(0)
+* Heckle - grandmother (!) remarries (Adric’s mother)
+* Leofric - Birth to a son, fey touched cousin goes missing
 	* Boy, born 507-508 (4)
 	* Boy, born 508-508 (3)
 	* Boy,  born 510-511 (1)
-* Maul - 
+	* Boy, born 511-512(0)
+* Maul - Father marries (brother of Maug)
 	* Boy,  born 510-511 (1)
 	* Boy, bastard, born 510-511 (1)
+	* Boy, born 511-512(0)
+
 
 Horse ages after winter - if 4 a new horse due to death/loss)
 
 |  | Charger | Rouncy 1 | Rouncy 2  | Sumpter |
 |:--|:--|:--|:--|:--|
-| Calliope | 11 | 11 | 11 | 11 |
-| Heckle | 10 |6  | 9 | 9 |
-| Leofric | 10 | 10 | 10 | 11 |
-| Maul | 10 | 10 |6| 9 |
+| Calliope | 4 | 4 | 4 | 4 |
+| Heckle | 11 |7 | 10 | 1 |
+| Leofric | 11 | 11 | 4 | 4 |
+| Maul | 11 | 11 |7|10  |
 
 
- 
+## Year 512 - Chapter XXXI - The Tragedy of Sir Balin
 
+Earl Robert’s Knights traveled with King Arthur, starting the season at Silchester and traveling to St. Albans where Uther had been killed. It was there that he learned the truth of his birth, that he was Uther’s heir by Ygraine and reunited with his mother. In addition to his claim of kingship through Excalibur he was the legitimate heir.
+
+In the early spring, against the counsel of his knights Arthur dueled with King Pellinore and was honorably defeated and disarmed, Excalibur being shattered. It was through the Ladies of the Lake that Excalibur was repaired.
+
+Later that spring there was much intrigue at the court. First, a maiden with a sword appeared at court, asking if a true knight could help her draw it. None could until the somewhat disgraced Sir Balin, late of Arthur’s dungeons for a minor crime, did so. However he refused to return the sword to her despite the maiden claiming he would regret his folly:
+> Well ye are not wise to keep the sword from me, for ye shall slay with that sword the best friend that you have, and the man that ye most love in the world, and the sword shall be your destruction.
+
+Balin departed with his two swords, with one of the Ladies of the Lake arriving next. She demanded payment for restoring Excalibur - the head of the maiden lately departed or Sir Balin’s head. The king refused, saying he could not do so without loss of honor. Sir Balin, armed with two swords, returned and struck off her head, to the fury of Arthur. Balin claimed that Lady of the Lake was a wicked one, untrue and using her magic for evil. Arthur cared not for the violation of hospitality, and declared him an outlaw. 
+
+Balin left court, pursued by many knights. He slew Lanceor. Calliope, Heckle, Leofric, and Maul continued the pursuit. They chased him throughout the summer.
+> Sir Balin continues on his way across Britain, seeking to stay the malicious Invisible Knight. He enters the Perilous Forest and finds his way to Listeneisse, to King Pellam’s castle. There, all rules of hospitality are broken.
+
+> Sir Balin is struck by the Invisible Knight and lashes out, slaying the dastard. Then he finds out that his host, King Pellam, is actually the brother to the Invisible Knight. The king pursues Balin through the castle to kill him. Balin at last grabs a spear off a wall and strikes the king down. The entire castle shakes, rumbles, and falls to the earth, destroyed. 
+> 
+> The entire kingdom is laid waste, and is afterward called the Wasteland. Once entered, the Wasteland’s  borders are limitless, for Faerie quickly overwhelms the natural world there. As well, the invisible Wasteland, the one that inhabits men’s souls, is loosed into the realm. 
+
+The four knights pursuing him saw the destruction of the castle and the wasting of the kingdom. From a dying squire they learned what had transpired and continued their pursuit of Balin.
+
+> Sir Balin wanders from the ruins of the Grail Castle, only to meet his end when he is given new arms and told to fight the Red Knight at the nearby ford. (To do so was the local custom among knights, he is told.) Thus, Sir Balin goes and fights his own brother Sir Balan to death — for that is the identity of the Red Knight — neither recognizing the other. Both knights die here and are buried in a great tomb by Merlin. 
+
+The four knights reached Sir Balin as his brother Balan died. Balin, though grievously wounded and near death, still lived. Enraged, he charged at his pursuers. Joining him were a pair of fey knights, brought into the realm by the dolorous stroke which had lain waste to Grail Castle. Balin and one of the fey knights fell to the pursuers, the other fey returning to his realm.
+
+Other events happened in Britain that year. In mid-May Merlin and Lady Nineve visited the kings of the north, spreading tales that a famous boy had just been born. Departing, they took many boys with them to sea. This included Queen Margawse’s son, whom some whispered was not the heir of King Lot bur rather the result of relations with the young Arthur. In a scrying pool she witnessed the ship splitting open and sinking during a storm.
+
+Also that summer Arthur’s forces defeated those of the Centurion King, loyal to Lot. The Centurion King died in that battle and was replaced by his son who surrendered to Arthur.
 
 [image-1]:	./maps/pendragon_player.png
 [image-2]:	./maps/britain_510_events.png
