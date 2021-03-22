@@ -126,6 +126,55 @@ Other events happened in Britain that year. In mid-May Merlin and Lady Nineve vi
 
 Also that summer Arthur’s forces defeated those of the Centurion King, loyal to Lot. The Centurion King died in that battle and was replaced by his son who surrendered to Arthur.
 
+
+### Year 512-513 Winter
+
+* Calliope - Twin daughters, half-brother Remus missing
+	* Girl, born 503-504 (9)
+	* Boy, born 505-506 (7)
+	* Girl, born 507-508 (5)
+	* Boy, born 509-510 (3)
+	* Girl, born 511-512(1)
+	* Girl, born 512-513(0)
+	* Girl, born 512-513(0)
+* Heckle - birth in family
+* Leofric - birth in family
+	* Boy, born 507-508 (5)
+	* Boy, born 508-508 (4)
+	* Boy,  born 510-511 (2)
+	* Boy, born 511-512(1)
+* Maul - Twins, son and daughter, missing brother
+	* Boy,  born 510-511 (2)
+	* Boy, bastard, born 510-511 (2)
+	* Boy, born 511-512(1)
+	* Boy, born 512-513(0)
+	* Girl, born 512-513(0)
+
+
+
+Horse ages after winter - if 4 a new horse due to death/loss)
+
+|  | Charger | Rouncy 1 | Rouncy 2  | Sumpter |
+|:--|:--|:--|:--|:--|
+| Calliope | 5 | 5 | 5 | 5 |
+| Heckle | 12 | 8| 4 | 12|
+| Leofric | 12 | 12 | 5 | 5 |
+| Maul | 12 | 12 |4|11 |
+
+
+## Year 513 - Chapter XXXII - The Lost Children
+
+Tales of children lost in the northern lands reached Arthur's ears. He dispatched Merlin to investigate the truth of such claims. However, rumor was he was behind those lost children, having put many northern children on a ship last year. Not fully trusting him, Calliope, Heckle, Leofric, and Maul accompanied him.
+
+Talking with many people along the North Sea coast they came upon an elderly woman and her fisherman son who told of a tale how a year ago the woman's husband had been lost at sea trying to help a sunken ship.
+
+The next morning the fisherman took the knights and Merlin out to sea - under the water, in an amazingly clear part of the sea, they saw both a sunken fishing boat and a sunken ship. With their squires' aid they hoisted the fishing boat up and discovered the elder still alive, sleeping an enchanted sleep due to an elf shot wound - taking the small arrow out of him he awoke, spitting up water and told the tale of the ship foundering and assaulted by tiny faerie folk. Though there were no more bodies to be found, it was not impossible the children were still alive. 
+\
+Their musings were ended by the appearance of a northman dragon ship which saw potentially easy prey. They battled the northmen in a savage fight, Merlin eventually using his magics to rile up the sea. However, he seemed to care not whether the knights were drowned by the seas as well, angered he was that his plans the previous year to spirit children out of the north - for his own reasons which he had claimed were for Aethur's and Britain's benefit - had come to naught. Eventually, Calliope, reminding him of the services her mother Boudica, Adric, Arthen, and Mag had done for him and he relented.
+
+Whilst these adventures took place Arthur marched to the north with his armies and King Lot was defeated and slain.
+
+
 [image-1]:	./maps/pendragon_player.png
 [image-2]:	./maps/britain_510_events.png
 [image-3]:	./maps/carlion_on_ust.png
