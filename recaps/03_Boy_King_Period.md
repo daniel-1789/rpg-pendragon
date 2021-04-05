@@ -169,12 +169,129 @@ Tales of children lost in the northern lands reached Arthur's ears. He dispatche
 Talking with many people along the North Sea coast they came upon an elderly woman and her fisherman son who told of a tale how a year ago the woman's husband had been lost at sea trying to help a sunken ship.
 
 The next morning the fisherman took the knights and Merlin out to sea - under the water, in an amazingly clear part of the sea, they saw both a sunken fishing boat and a sunken ship. With their squires' aid they hoisted the fishing boat up and discovered the elder still alive, sleeping an enchanted sleep due to an elf shot wound - taking the small arrow out of him he awoke, spitting up water and told the tale of the ship foundering and assaulted by tiny faerie folk. Though there were no more bodies to be found, it was not impossible the children were still alive. 
-\
+
 Their musings were ended by the appearance of a northman dragon ship which saw potentially easy prey. They battled the northmen in a savage fight, Merlin eventually using his magics to rile up the sea. However, he seemed to care not whether the knights were drowned by the seas as well, angered he was that his plans the previous year to spirit children out of the north - for his own reasons which he had claimed were for Aethur's and Britain's benefit - had come to naught. Eventually, Calliope, reminding him of the services her mother Boudica, Adric, Arthen, and Mag had done for him and he relented.
 
 Whilst these adventures took place Arthur marched to the north with his armies and King Lot was defeated and slain.
 
 
+Year 513-514 Winter
+
+* Calliope - birth in family
+	* Girl, born 503-504 (10)
+	* Boy, born 505-506 (8)
+	* Girl, born 507-508 (6)
+	* Boy, born 509-510 (5)
+	* Girl, born 511-512(2)
+	* Girl, born 512-513(1)
+	* Girl, born 512-513(1)
+* Heckle - daughter born to wife, none to mistress, family missing
+	* Girl, born 513-514
+* Leofric - Marriage in family
+	* Boy, born 507-508 (6)
+	* Boy, born 508-508 (5)
+	* Boy,  born 510-511 (3)
+	* Boy, born 511-512(2)
+* Maul - daughter born, marriage in family
+	* Boy,  born 510-511 (3)
+	* Boy, bastard, born 510-511 (3)
+	* Boy, born 511-512(2)
+	* Boy, born 512-513(1)
+	* Girl, born 512-513(1)
+	* Girl, born 513-514(0)
+
+
+Horse ages after winter - if 4 a new horse due to death/loss)
+
+|  | Charger | Rouncy 1 | Rouncy 2  | Sumpter |
+|:--|:--|:--|:--|:--|
+| Calliope | 6 |6 | 4 |4 |
+| Heckle | 13 | 4| 5 | 13|
+| Leofric | 13 | 13 | 4 | 6 |
+| Maul | 13 | 13 |4|12 |
+
+
+## Year 514 - Chapter XXXIII - Marriage and Balin’s Land
+
+The year of our Lord DXIV saw Arthur married to Guenever. Like many, Heckle and Maul found themselves haunted by the new queen’s beauty.
+
+Arthur granted boons to his noble followers. Calliope asked for help in finding her missing brother, Remus. Leofric received a manor to add to his lands, a useful boon to his family given his husband did not have land of his own. Heckle, seeking a chance for glory, was granted the title of Sheriff of Essex, to enforce the king’s law once that Saxon land were brought back into Britain. Maul received goats and cattle to produce cheese, increasing his wealth.
+
+At Arthur’s urging, Merlin took the four knights to help find Remus, who, it seemed, had fallen between worlds due to the stroke that Balin made in the Grail castle two years previous. In the realm of Faerie, Calliope led the way across a bladed bridge to a small island with the tombs of Sir Balin and his brother. They traveled further to a beautiful city of glass ruled by Princess Alia. As guests, they stayed the night, Maul and Heckle enjoying the company of the elven ladies Hermione and Floria. The next morning, as the princess had promised, they saw Remus - riding on behalf of King Fisherman of the Castle of Joy - the king was besieged by the forces of Castle Mortal and he was riding for help. The four knights made the journey, as strange a journey as they had made, testing their chivalry.
+
+At the Castle of Joy they rode through the besieging armies and met with King Fisherman, greatly wounded. Calliope asked what ailed him and how they could help - unknowingly the first question required to heal him, though she didn’t have the religious conviction to help him further. Perhaps at a later time a knight - perhaps one of them - could use the Holy Grail to heal him. 
+
+They did, however, agree to help King Fisherman - to get aid from his kin, to try to pull some of the forces of Castle Mortal away, to find allies in the coming battle. Riding out to perform these quests they returned to their own world and discovered many months had passed, though mere days had passed for them…
+
+
+Year 514-515 Winter 
+Note that horses and characters did not age due to losing a year in Faerie. However their families did continue growing.
+
+* Calliope - youngest daughter died, Remus remarries
+	* Girl, born 503-504 (11)
+	* Boy, born 505-506 (9)
+	* Girl, born 507-508 (7)
+	* Boy, born 509-510 (6)
+	* Girl, born 511-512(3)
+	* Girl, born 512-513(2)
+	* Girl, born 512-513(2) - died
+* Heckle - son born to wife, none to Floria (Elf),
+	* Girl, born 513-514 (1)
+	* Boy, born 514-515 (0)
+* Leofric -
+	* Boy, born 507-508 (7)
+	* Boy, born 508-508 (6)
+	* Boy,  born 510-511 (4)
+	* Boy, born 511-512(3)
+* Maul - illegitimate daughter born to Hermione (Elf), death in family
+	* Boy,  born 510-511 (4)
+	* Boy, bastard, born 510-511 (4)
+	* Boy, born 511-512(3)
+	* Boy, born 512-513(2)
+	* Girl, born 512-513(2)
+	* Girl, born 513-514(1)
+	* Girl, illegitimate (Elf), born 514-515 (0)
+
+
+Horse did not age this winter - if 4 a new horse due to death/loss)
+
+|  | Charger | Rouncy 1 | Rouncy 2  | Sumpter |
+|:--|:--|:--|:--|:--|
+| Calliope | 6 |6 | 4 |4 |
+| Heckle | 13 | 4| 5 | 13|
+| Leofric | 13 | 13 | 4 | 6 |
+| Maul | 13 | 13 |4|12 |
+
+
+## Year 515 - Chapter XXXIV - The Battle of Castle Joy
+![][image-4]
+
+Though it would take the knights some time to realize it, an entire year had passed for the mundane world during their time in the faerie lands. They began their quest to find allies, most importantly Alain le Gros.
+
+Their first visit was to Lord Eurain of Brandigan Castle. Learning that King Balor was among the Castle of Joy's enemies he agreed to help them and gave them advise to finding Alain.
+
+At Castle Blanc, Bishop Baudwin was torn, for he saw the justice of the knights' cause but had been pledged to harry the Saxons. He eventually agreed to send some troops to help in the battle.
+
+Near Leeds they encountered Sis Lamorak de Gales, son of King Pellinore. He challenged them to jousting, defeating Leofric and Heckle in honorable jousting for love. As they feasted afterwards Maul challenged him to a pie-eating contest, which he was also victorious in. Liking his new friends, he indicated Alain was a kinsman of his and he would gather his family to assist in the coming fight - and reinforced Bishop Baudwin's suggestions -
+> If Baudwin sent you to Etroite, try there. I must go where I know my brothers are. But in the name of knighthood, I ask you to bring a message to the daughter of the lord of Etroite. My thanks to you, good Sirs. 
+
+> Tell the daughter named Isabel that I, Sir Lamorak the son of Pellinore, have seen the Knight of the Silver Axe, and he is well. Give her this ring, which is a token he gave to me for this purpose.
+
+At Etroite Isabel was joyous that her beloved lived still. The Lord of Etroite agreed to help the knights, arranging a night raft journey upriver to Ka’amalot where they found Lord Alain. Alain agreed to help but told the knights their parts were over unless they had a way to return to the Castle of Joy beyond the Wastelands - for though they could return to the City of Glass, they would not be able to take the same path they had taken previously. Chagrined they demanded the opportunity to join in the battle. Though it might risk their souls, he enjoined them to seek out the Wild Damosel.
+
+Sir Maul and Dame Calliope used a pagan ritual at night to summon her. She took them on a long journey, along cliff faces, through valleys, and into ruined and wasted lands and cities. As they neared the boundary of the Wasteland she named the price for her guidance -
+> I ask you now for the payment which I demanded: tell King Fisherman that I brought you here, and sent you to him, and what you promised me, and how I collected it. That is all. Tomorrow you will ride north, and with Goddess’ blessing find what you seek.
+
+
+The next morning they did indeed find their way back to the Wastelands. They encountered the forces of the White Knight, marching to help King Fisherman. Joining with him they met Sir Bavid, brother to Sir Balin - who blamed the White Knight for his brother's death. The knights captured Bavid whose armies scattered, having marched to join the armies of Duke Klingsor, leader of those against King Fisherman.
+
+The knights and their forces had to skirmish to regain entry to the Castle of Joy. They then visited Guinebaut, whose army had joined with Klingsor for the promised plunder - but not being an unjust man, was regretting this decision seeing the wicked goblins, Fomorians, and giants allied with Klingsor. An enemy of Alain nonetheless, they persuaded Guinebaut to withdraw his troops and come to an understanding with Alain after the battle.
+
+The battle was enjoined earlier than planned, as the forces of Klingsor saw the knights working at fragmenting their forces. Lord Balor and his Fomorians attacked them. In a brutal battle that saw all injured, some near death, they and their armies slew many Fomorians and eventually did battle with Lord Balor, Fomorian lord himself. Heckle and Leofric near death, Calliope and Maul slew him despite their own wounds, Calliope hacking at him after his death.
+
+The forces of the Castle of Joy victorious, the knights were healed in the chapel of the Holy Grail, or, as the pagans knew it, the Cauldron of Inspiration. Dame Brisen explained that though King Fisherman was not yet healed of his ailments, the victory assured that the Enchantment of Britain would increase greatly - and a savior might still return to the Castle of Joy to heal King Fisherman - perhaps one of the knights or their descendants.
+
 [image-1]:	./maps/pendragon_player.png
 [image-2]:	./maps/britain_510_events.png
 [image-3]:	./maps/carlion_on_ust.png
+[image-4]:	./maps/castle_joy_allies.png
