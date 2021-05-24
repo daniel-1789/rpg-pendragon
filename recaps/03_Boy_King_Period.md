@@ -447,4 +447,4 @@ Robert's knights joined Arthur at Badon Hill. It was a long and bloody battle ag
 [image-2]:	./maps/britain_510_events.png
 [image-3]:	./maps/carlion_on_ust.png
 [image-4]:	./maps/castle_joy_allies.png
-[image-4]:	./maps/Badon_hill.png
+[image-5]:	./maps/Badon_hill.png
