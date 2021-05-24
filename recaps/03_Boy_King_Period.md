@@ -291,7 +291,160 @@ The battle was enjoined earlier than planned, as the forces of Klingsor saw the 
 
 The forces of the Castle of Joy victorious, the knights were healed in the chapel of the Holy Grail, or, as the pagans knew it, the Cauldron of Inspiration. Dame Brisen explained that though King Fisherman was not yet healed of his ailments, the victory assured that the Enchantment of Britain would increase greatly - and a savior might still return to the Castle of Joy to heal King Fisherman - perhaps one of the knights or their descendants.
 
+### Year 515-516 Winter 
+
+* Calliope - daughter born
+	* Girl, born 503-504 (12)
+	* Boy, born 505-506 (10)
+	* Girl, born 507-508 (8)
+	* Boy, born 509-510 (7)
+	* Girl, born 511-512(4)
+	* Girl, born 512-513(3) (twin deceased)
+	* Girl, born 515-516(0) 
+* Heckle - daughter born, lost family member
+	* Girl, born 513-514 (2)
+	* Boy, born 514-515 (1)
+	*  Girl, born 515-516(0) 
+* Leofric - son born
+	* Boy, born 507-508 (8)
+	* Boy, born 508-508 (7)
+	* Boy,  born 510-511 (5)
+	* Boy, born 511-512(4)
+	* Boy, born 515-516 (0)
+* Maul -
+	* Boy,  born 510-511 (5)
+	* Boy, bastard, born 510-511 (5)
+	* Boy, born 511-512(4)
+	* Boy, born 512-513(3)
+	* Girl, born 512-513(3)
+	* Girl, born 513-514(2)
+	* Girl, illegitimate (Elf), born 514-515 (1)
+
+
+ if 4 a new horse due to death/loss)
+
+|  | Charger | Rouncy 1 | Rouncy 2  | Sumpter |
+|:--|:--|:--|:--|:--|
+| Calliope | 7 |7 | 5 |5 |
+| Heckle | 14 | 5| 6 | 4|
+| Leofric | 14 | 4 | 5 | 7 |
+| Maul | 14 | 4 |5|4 |
+
+## Year 516 - Chapter XXXV - March on Eburacum
+With a Saxon army seizing Eburacum, Arthur hastily gathered a hundred knights, with his new bride to accompany the army, and marched on a mission of liberation.
+
+With its headstrong attack, the army found itself ambushed at night, the knights of Robert rallying their forces and driving the ambushers back. Reaching Eburacum, they briefly besieged it but were forced to withdraw with the forces of Cerdic preparing to march on Arthur’s outnumbered troops.
+
+After the inconclusive campaign, Robert sent his loyal knights to the land of Rydychan, where they held land, to arrange with the countess of Rydychan a bride.
+
+### Year 516-517 Winter 
+
+* Calliope - daughter born
+	* Girl, born 503-504 (13)
+	* Boy, born 505-506 (11)
+	* Girl, born 507-508 (9)
+	* Boy, born 509-510 (7)
+	* Girl, born 511-512(5)
+	* Girl, born 512-513(4) (twin deceased)
+	* Girl, born 515-516(1) 
+	* Girl, born 516-517(0) 
+* Heckle - son born
+	* Girl, born 513-514 (3)
+	* Boy, born 514-515 (2)
+	*  Girl, born 515-516(1) 
+	* Boy, born 516-517(0) 
+* Leofric -
+	* Boy, born 507-508 (9)
+	* Boy, born 508-509 (8)
+	* Boy,  born 510-511 (6)
+	* Boy, born 511-512(5)
+	* Boy, born 515-516 (1)
+* Maul -youngest legitimate child dies
+	* Boy,  born 510-511 (6)
+	* Boy, bastard, born 510-511 (6)
+	* Boy, born 511-512(5)
+	* Boy, born 512-513(4)
+	* Girl, born 512-513(4)
+	* Girl, born 513-514(3) - dies
+	* Girl, illegitimate (Elf), born 514-515 (2)
+
+
+if 4 a new horse due to death/loss)
+
+|  | Charger | Rouncy 1 | Rouncy 2  | Sumpter |
+|:--|:--|:--|:--|:--|
+| Calliope |8 |8 | 6 |6 |
+| Heckle | 4 | 6|7 | 5|
+| Leofric | 4 | 5 | 6 | 8 |
+| Maul | 4 | 5 |6|5 |
+
+
+## Year 517 - Chapter XXXVI - The Battle of Lincoln
+Again Robert’s greatest knights accompanied Arthur in an attempt to liberate Eburacum. Calliope, Heckle, and Maul were joined by Elgan ap Leofric.
+
+The Saxon horde, led by Cheldric, met Arthur’s army near Lincoln. In the battle, the knights of Salisbury battled some of the greatest forces of the Saxons, including berserkers.
+
+Aided by the mysterious White Knight, Arthur’s forces were victorious and chased the remnants of Cheldric’s forces to the Caledonian Woods. There they encircled his forces with palisades and battled them as they tried to escape, the knights of Robert capturing Cheldric. Most of the Saxon army pledged to never take up arms against Britain again and retreated to the continent.
+
+### Year 517-518 Winter 
+
+* Calliope - son born
+	* Girl, born 503-504 (14)
+	* Boy, born 505-506 (12), dies
+	* Girl, born 507-508 (10)
+	* Boy, born 509-510 (8)
+	* Girl, born 511-512(6)
+	* Girl, born 512-513(5) (twin deceased)
+	* Girl, born 515-516(2) 
+	* Girl, born 516-517(1) 
+	* Boy, born 517-518 (0)
+* Heckle -
+	* Girl, born 513-514 (4)
+	* Boy, born 514-515 (3)
+	*  Girl, born 515-516(2) 
+	* Boy, born 516-517(1) 
+* Leofric - child dies at birth
+	* Boy, born 507-508 (10)
+	* Boy, born 508-509 (9)
+	* Boy,  born 510-511 (7)
+	* Boy, born 511-512(6)
+	* Boy, born 515-516 (2)
+* Maul - wife and child die in childbirth, remarries elf mistress who has a son
+	* Boy,  born 510-511 (7)
+	* Boy, bastard, born 510-511 (7)
+	* Boy, born 511-512(6)
+	* Boy, born 512-513(5)
+	* Girl, born 512-513(5)
+	* Girl, illegitimate (Elf), born 514-515 (3)
+	* Boy (Elf), born 517-518(0)
+
+* Elgan - marries first born son of vassal knight
+
+
+if 4 a new horse due to death/loss)
+
+|  | Charger | Rouncy 1 | Rouncy 2  | Sumpter |
+|:--|:--|:--|:--|:--|
+| Calliope |9 |9 | 7 |7 |
+| Heckle | 5 | 7|4 | 6|
+| Elgan | 4 | 4 | 4 | 4 |
+| Maul | 5 | 6 |4|6 |
+
+## Year 518 - Chapter XXXVII - The Battle of Badon Hill
+
+![][image-5]
+
+
+A great Saxon host had assembled, determined to remove Arthur. Aescwine of Essex, Ælle Bretwalda of Sussex, Chief Port of Sussex, Cwichelm of Anglia, Byrhtnoth of Sorestan, Yffi of Deira, Ælle of Kent and the dread Cerdic of Wessex had united their armies.
+
+Over several days Arthur's forces battled with the Saxons and their allies. The knights of Robert - Calliope, Elgan, Heckle, and Maul - stopped Cerdic's forces at Amrosius' Dike, eventually slaying that enemy who had been a bane since the death of Uther. 
+
+However, while Robert's knights stopped the southern foes, the hordes from the east had forced Arthur to retreat to the fort at Badon Hill. 
+
+Robert's knights joined Arthur at Badon Hill. It was a long and bloody battle against Saxons, Pictish mercenaries, and giants. Robert's knights earned great glory fighting those foes, though Maul, nephew of Mag, fell in battle against King Ælle. So angry was his squire that the lad struck down King Ælle with the axe of Mag and Maul. 
+
 [image-1]:	./maps/pendragon_player.png
 [image-2]:	./maps/britain_510_events.png
 [image-3]:	./maps/carlion_on_ust.png
 [image-4]:	./maps/castle_joy_allies.png
+[image-4]:	./maps/Badon_hill.png
