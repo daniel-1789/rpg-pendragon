@@ -441,7 +441,38 @@ Over several days Arthur's forces battled with the Saxons and their allies. The 
 
 However, while Robert's knights stopped the southern foes, the hordes from the east had forced Arthur to retreat to the fort at Badon Hill. 
 
-Robert's knights joined Arthur at Badon Hill. It was a long and bloody battle against Saxons, Pictish mercenaries, and giants. Robert's knights earned great glory fighting those foes, though Maul, nephew of Mag, fell in battle against King Ælle. So angry was his squire that the lad struck down King Ælle with the axe of Mag and Maul. 
+Robert's knights joined Arthur at Badon Hill. It was a long and bloody battle against Saxons, Pictish mercenaries, and giants. Robert's knights earned great glory fighting those foes, though Maul, nephew of Mag, fell in battle against King Ælle. So angry was his squire, Axel, the son of Mag, that the lad struck down King Ælle with the axe of Mag and Maul. The lad was knighted after the battle and inherited his father's land. Maul's wife tended to her late husband's estate with cattle and goats gifted to him by King Arthur at his wedding.
+
+
+### Year 518-519 Winter 
+
+* Calliope - aging, -1 Str
+	* Girl, born 503-504 (15)
+	* Girl, born 507-508 (11)
+	* Boy, born 509-510 (9)
+	* Girl, born 511-512(7)
+	* Girl, born 512-513(6) (twin deceased)
+	* Girl, born 515-516(3) 
+	* Girl, born 516-517(2) 
+	* Boy, born 517-518 (1)
+* Heckle -daughter born
+	* Girl, born 513-514 (5)
+	* Boy, born 514-515 (4)
+	* Girl, born 515-516(3) 
+	* Boy, born 516-517(2) 
+	* Girl, born 518-519 (3) 
+* Elgan - no children as yet
+* Axel - Marries daughter of wealthy commoner
+
+
+if 4 a new horse due to death/loss)
+
+|  | Charger | Rouncy 1 | Rouncy 2  | Sumpter |
+|:--|:--|:--|:--|:--|
+| Calliope |10 |10 | 8 |8 |
+| Heckle | 4 | 8|5| 7|
+| Elgan | 5 | 5 | 5 | 5 |
+| Axel | 4 | 4 |4|4 |
 
 [image-1]:	./maps/pendragon_player.png
 [image-2]:	./maps/britain_510_events.png
