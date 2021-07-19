@@ -85,7 +85,7 @@ if 4 a new horse due to death/loss)
 | Elgan | 7 | 7 | 7 |7 |
 | Axel | 6 |6 |6|6 |
 
-## Year 521 - Chapter XXXX - Morgan le Fey's Betrayal
+## Year 521 - Chapter XL - Morgan le Fey's Betrayal
 
 Accompanying Arthur on a hunting expedition, the knights Axel, Calliope, Elgan, and Heckle were separated from Arthur. Searching for him, they heard a voice from under the earth and learned Merlin had been trapped in eternal sleep down there - though he was still aware of events and guided them to Arthur.
 
@@ -137,6 +137,25 @@ if 4 a new horse due to death/loss)
 | Axel | 7 |7 |7|7 |
 
 
+## Year 522 - Chapter XLI - The Adventure of the Dolorous Worm
+![dolorous_wyrm][image-3]
+
+With relative peace in the land, the knights Axel, Calliope, Elgan, and Heckle sought adventure in the lands of Cambria. They found themselves lost in the Forest of Dean. Emerging in a meadow, they found a strange sight - a sheep that changed color as it crossed a stream. A shepherd told them that they were in the land of the King of Suffering, whose true name and title was Caradoc, King of Ergyng. They traveled to the king's Hereford Castle where the aged, one-eyed king told them many tales. He told them of the many fell beasts which had come down on his kingdom, especially a giant.
+
+The next day the four knights went out to slay the creature. On their way they found a woman emerging from an eternally burning, but never consumed, tree. She was Bayanne, Princess of the Tree. She said she recognized Sir Heckle and Lady Calliope from the Battle of the Castle of Joy, where they released the Enchantment of Britain. Because of this, she told them where the giant, Grung, could be found. His lair was a burial chamber   - a giant shield-like platform supported by columns with the chamber beneath. Grung stood atop the platform. The knights battled him, with Calliope stuck by a great melancholy as she tried to cling to memories of her family to aid her in the battle. In the end they defeated the giant and claimed one of its treasures, the sword Wyrmbane, its name wrought in Ogham symbols which Bayanne translated for them. 
+
+King Caradoc feasted them and told them more tales, including that of a stone that a virtuous High King could use to summon an armful of gold daily. A stone possessed by a fire-breathing warm. Caradoc thought perhaps one day he could acquire it but his effort resulted in the deaths of his sons and the loss of his eye. But perhaps the knights could deal with it and present the stone to Arthur...
+
+En route to the warm they supped at Clifford, Castle of the Lady of Feats, Lady Fenew. They challenged her knights to battle to first touch, some victorious, some vanquished, but all gaining glory in the effort. She told them where the warm could be found - in the ruins of a nearby church. The serving boy, the Clever Jack, told them of how it might be fought - how it hated the color red. How it could perhaps be captured with iron hooks.
+\
+They concocted an elaborate plan where they would bait the dragon while Jack prepared a red straw dummy with hidden hooks. However, the plan was unneeded for the knights were valiant and, armed with Wyrmbane, Elgan struck the killing blow. 
+
+Returning, King Caradoc feasted them again and, with no sons, his eldest daughter was wed to the widowed Sir Axel. 
+
+They returned to Camelot where they presented the stone to King Arthur. He was able to use its wondrous magics to summon gold, a feat that could make him tremendously wealthy. He pledged his thanks to the good knights, with Sirs Axel and Elgan joining Sir Heckle and Lady Calliope at the Round Table.
+
+A wondrous event occurred at court. An elderly fisherman arrived with several boys. He explained how he had raised them when they were washed ashore several years ago. However, he recently learned they had come from Britain. A note, one he could not reveal, showed them to be the children lost a decade ago, including Mordred, son of King Lot and Margawse, daughter of Uther Pendragon. 
 
 [image-1]:	./maps/pendragon_player.png
 [image-2]:	./maps/Britain_519.png
+[image-3]:	./maps/dolorous_wyrm.png
