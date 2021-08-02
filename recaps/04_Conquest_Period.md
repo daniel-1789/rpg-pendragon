@@ -127,7 +127,7 @@ In thanks for their years of service, being among the first to recognize him as 
 	* Girl, born 520-521 (1)
 
 
-if 4 a new horse due to death/loss)
+(if 4 a new horse due to death/loss)
 
 |  | Charger | Rouncy 1 | Rouncy 2  | Sumpter |
 |:--|:--|:--|:--|:--|
@@ -156,6 +156,98 @@ They returned to Camelot where they presented the stone to King Arthur. He was a
 
 A wondrous event occurred at court. An elderly fisherman arrived with several boys. He explained how he had raised them when they were washed ashore several years ago. However, he recently learned they had come from Britain. A note, one he could not reveal, showed them to be the children lost a decade ago, including Mordred, son of King Lot and Margawse, daughter of Uther Pendragon. 
 
+### Year 522-523 Winter 
+
+* Calliope - Youngest child dies
+	* Girl, born 503-504 (19)
+	* Girl, born 507-508 (15)
+	* Girl, born 511-512(11)
+	* Girl, born 512-513(10) (twin deceased)
+	* Girl, born 515-516(7) 
+	* Girl, born 516-517(6) 
+	* Boy, born 517-518 (5) - dies
+* Heckle - 
+	* Girl, born 513-514 (9)
+	* Boy, born 514-515 (8)
+	* Girl, born 515-516(7) 
+	* Boy, born 516-517(6) 
+	* Girl, born 518-519 (4)
+	* Boy, born 519-520 (3) 
+	* Boy, born 521-522 (1) 
+* Elgan -
+	* Boy, born 521-522 (1) 
+	* Girl, born 521-522 (1) 
+* Axel - marries heiress to King Caradoc
+	* Girl, born 520-521 (2)
+
+(if 4 a new horse due to death/loss)
+
+|  | Charger | Rouncy 1 | Rouncy 2  | Sumpter |
+|:--|:--|:--|:--|:--|
+| Calliope |6 |14 | 12 |6 |
+| Heckle | 4 | 5|9| 11|
+| Elgan | 9 |9 | 9 |9 |
+| Axel |8|8|8|8|
+
+## Year 523 - Chapter XLII - The Quest of the Red Blade
+
+The knights Axel, Calliope, Elgan, and Heckle had traveled in search of adventure and were guests of Sir Gregor of Stafford. He told them a wonderful tale, that of the Red Blade.
+> A magical sword is in the possession of an evil king at the Castle of the Kite, a fortress in western Cambria. The king is reputed to use evil magic to maintain his youth, though no one knows what kind of magic specifically. Whoever gets the sword would benefit greatly, and the world would be a better place without this vile king.
+![red_blade_lands][image-4]
+
+The four swore a quest to retrieve the Red Blade and vanquish the vile king. En route, they stayed as guests of the Castle of the Crane, King Garan. He told how King Calawader of the Castle of the Kite was distant kin of his - the son of a forefather. The evil king had used magic to extend his life for well over a century while remaining young. Though he was supposed to inherit land of his father, Calawader's brother was the possessor of a wondrous red blade. Calawader had stolen it from his brother and slew all his brother's descendants who tried to take it. 
+
+King Garan offered to help them and asked only in return if they were to gain the blade, that they pass here on their way home and let him gaze upon it - he would make no claim on it so long it were parted from the vile Calawader.
+
+He outfitted them with stout mountain ponies for all who would have them and gave them a guide to the Castle of the Kite. They learned King Calawader was indeed unpopular, meeting Sir Band and knights of Gomeret marching on the Castle of the Kite. They declined to join those knights, instead knocking on the gates of the castle.
+![castle_of_the_kite][image-5]
+
+King Calawader saw them - he was a vile, potbellied man of many years. His knights served him but did not love him. Learning of the marching knights of Gomeret he demanded his visitors swear loyalty to him, something they would not do. Angrily, he ordered his men to slay the knights.
+
+As the battle raged, King Calawader tried to run. He held his Red Blade to a pigboy and swore he would kill the boy. Refusing to give in, Sir Axel hurled the Lady Calliope through the air at King Calawader, impaling him. 
+
+Slaying they king, they learned the pigboy was his son - and was to be slain in any case, for he would consume the flesh of his son to regain his youth, as he had done many times. Putting the boy on the throne that was his they rode home, visiting King Garan. The king was tempted to break his vow and take the sword but the giant crane over his castle, that was his family's symbol of honor, looked down upon him and he agreed if the sword were to come back to him it would do so another route.
+
+In Camelot they learned much of the news of the year. The ancient Brastias retiring at long last. Arthur granting land to one of the rescued children, his nephew Mordred. The rebellion of the sons of Ulfius.
+
+### Year 523-524 Winter 
+
+* Calliope - Youngest child dies
+	* Girl, born 503-504 (20)
+	* Girl, born 507-508 (16)
+	* Girl, born 511-512(12)
+	* Girl, born 512-513(11) (dies, twin deceased)
+	* Girl, born 515-516(8) 
+	* Girl, born 516-517(7) 
+* Heckle - 
+	* Girl, born 513-514 (10)
+	* Boy, born 514-515 (9)
+	* Girl, born 515-516(8) 
+	* Boy, born 516-517(7) 
+	* Girl, born 518-519 (5)
+	* Boy, born 519-520 (4) 
+	* Boy, born 521-522 (2) 
+* Elgan - Son born
+	* Boy, born 521-522 (2) 
+	* Girl, born 521-522 (2)
+	* Boy, born 523-524 (0) 
+* Axel - Son born
+	* Girl, born 520-521 (2)
+	* Boy, born 523-524 (0) 
+
+(if 4 a new horse due to death/loss)
+
+|  | Charger | Rouncy 1 | Rouncy 2  | Sumpter |
+|:--|:--|:--|:--|:--|
+| Calliope |7 |4 | 4 |7 |
+| Heckle | 5 | 6|10| 12|
+| Elgan | 10 |10 | 10 |10 |
+| Axel |9|9|9|9|
+
+
 [image-1]:	./maps/pendragon_player.png
 [image-2]:	./maps/Britain_519.png
 [image-3]:	./maps/dolorous_wyrm.png
+[image-4]: ./maps/red_blade_lands.png
+[image-5]: ./maps/castle_of_the_kite.png
+
