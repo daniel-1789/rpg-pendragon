@@ -245,6 +245,14 @@ In Camelot they learned much of the news of the year. The ancient Brastias retir
 | Axel |9|9|9|9|
 
 
+## Year 524 - Chapter XLIII - The Knight of the Lake
+
+In the Year of Our Lord 524, a new set of squires were being knighted. Among them was Lilith, daughter of Calliope, and a mysterious man presented by the Lady of the Lake, Nimue - known only as the Squire of the Lake. Arthur was hesitant to knight a man he did not know, with arms and armor provided by the Lady of the Lake, but Axel, Elgan, and Heckle convinced him that the magical lady's wishes should be respected.
+
+There was some confusion after the knighting, with the newly knighted Knight of the Lake leaving the ceremony prior to his sword being girded - removing spears and blades from an injured knight, agreeing to go on an unspecified mission of vengeance (one Arthur had recommended against, given the lack of its specifics).
+
+The three older knights - led by Heckle, who had witnessed the drawing of the Sword from the Stone, accompanied Lilith and the Knight of the Lake to help Nohaut drive off forces from Northumberland. The young Knight of the Lake proved himself in battle and the five charged into the Dolorous Garde. There they battled giants, spectral knights, lions, and an evil sorcerer who grievously injured the Knight of the Lake, requiring a healing draught from Lilith to recover. The sorcerer withdrew before their onslaught and pulling the knight free from metal spikes they released a stone with the knight's name hidden beneath - Lancelot, son of King Ban. 
+
 [image-1]:	./maps/pendragon_player.png
 [image-2]:	./maps/Britain_519.png
 [image-3]:	./maps/dolorous_wyrm.png
