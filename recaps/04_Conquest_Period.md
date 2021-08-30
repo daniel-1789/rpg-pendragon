@@ -253,6 +253,71 @@ There was some confusion after the knighting, with the newly knighted Knight of 
 
 The three older knights - led by Heckle, who had witnessed the drawing of the Sword from the Stone, accompanied Lilith and the Knight of the Lake to help Nohaut drive off forces from Northumberland. The young Knight of the Lake proved himself in battle and the five charged into the Dolorous Garde. There they battled giants, spectral knights, lions, and an evil sorcerer who grievously injured the Knight of the Lake, requiring a healing draught from Lilith to recover. The sorcerer withdrew before their onslaught and pulling the knight free from metal spikes they released a stone with the knight's name hidden beneath - Lancelot, son of King Ban. 
 
+### Year 524-525 Winter 
+
+
+* Heckle - loses rouncy, youngest child dies
+	* Girl, born 513-514 (11)
+	* Boy, born 514-515 (10)
+	* Girl, born 515-516(9) 
+	* Boy, born 516-517(8) 
+	* Girl, born 518-519 (6)
+	* Boy, born 519-520 (5) 
+	* Boy, born 521-522 (3) - dies
+* Elgan - youngest child dies
+	* Boy, born 521-522 (3) 
+	* Girl, born 521-522 (3)
+	* Boy, born 523-524 (1) - dies
+* Axel - twins, boy and girl, uncle insulted a lord
+	* Girl, born 520-521 (3)
+	* Boy, born 523-524 (1) 
+	* Boy, born 524-525 (0) 
+	* Girl, born 524-525 (0) 
+* Lilith - age 21, marries son of Vassal Knight, kidnapper (brother-in-law)
+
+|  | Charger | Rouncy 1 | Rouncy 2  | Sumpter |
+|:--|:--|:--|:--|:--|
+| Lilith |5 |5 | 5 |5 |
+| Heckle |6 | 6|4| 13|
+| Elgan | 11 |11 | 11 |11 |
+| Axel |10|10|10|10|
+
+## Year 525 - Chapter XLIV - Beachhead in France
+At Camelot, emissaries from the Roman Emperor arrived to demand tribute from King Arthur. In council with his knights, Arthur decided to claim right to the Imperial Crown by virtue of his ancestors, including Constantine, Emperor of Rome. He told the emissaries he demanded fealty from the Emperor or his forces would go to war. And so war was declared.
+
+While most of Britain prepared for war, Axel, Elgan, Heckle, and Lilith led an expedition to the Norman coast to establish a beachhead. In the choppy seas they ran aground and seized a signal beacon atop a tower to stop other ships from meeting the same fate. Overcoming knights defending the tower, they accepted surrender from their leader Sir Geoffroi. As the nearby village gathered its forces, Axel, Elgan, and Lilith battled them while Heckle watched over the defeated knights. One of their number, Sir Josse, not believing a word to British knights binding, tried to stab Sir Heckle but was stopped and bound in chains.
+
+Victorious, the knights left soldiers behind while they returned to their estates to prepare for war.
+
+### Year 525-526 Winter 
+
+* Heckle -
+	* Girl, born 513-514 (12)
+	* Boy, born 514-515 (11)
+	* Girl, born 515-516(10) 
+	* Boy, born 516-517(9) 
+	* Girl, born 518-519 (7)
+	* Boy, born 519-520 (6) 
+* Elgan - youngest child dies
+	* Boy, born 521-522 (3) 
+* Axel -
+	* Girl, born 520-521 (4)
+	* Boy, born 523-524 (2) 
+	* Boy, born 524-525 (1) 
+	* Girl, born 524-525 (1) 
+* Lilith - age 22, 1 child, boy
+	* Boy, Born 525-526 (0)
+
+New horses for all
+
+|  | Charger | Rouncy 1 | Rouncy 2  | Sumpter |
+|:--|:--|:--|:--|:--|
+| Lilith |4 |4 | 4 |4|
+| Heckle |4 |4 | 4 |4|
+| Elgan | 4 |4 | 4 |4|
+| Axel |4 |4 | 4 |4|
+
+
 [image-1]:	./maps/pendragon_player.png
 [image-2]:	./maps/Britain_519.png
 [image-3]:	./maps/dolorous_wyrm.png
