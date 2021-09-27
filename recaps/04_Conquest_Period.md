@@ -1,6 +1,6 @@
 
 
-# The Great Pendragon Campaign Recap - Boy King Period
+# The Great Pendragon Campaign Recap - Conquest Period
 
 
 ![Pendragon Players' Map][image-1]
@@ -292,12 +292,11 @@ Victorious, the knights left soldiers behind while they returned to their estate
 ### Year 525-526 Winter 
 
 * Heckle -
-	* Girl, born 513-514 (12)
-	* Boy, born 514-515 (11)
-	* Girl, born 515-516(10) 
-	* Boy, born 516-517(9) 
-	* Girl, born 518-519 (7)
-	* Boy, born 519-520 (6) 
+	* Matlida, Girl, born 513-514 (12)
+	* Roy, Boy, born 514-515 (11)
+	* Bart, Boy, born 516-517(9) 
+	* Mary, Girl, born 518-519 (7)
+	* Brent, Boy, born 519-520 (6) 
 * Elgan - youngest child dies
 	* Boy, born 521-522 (3) 
 * Axel -
@@ -308,6 +307,7 @@ Victorious, the knights left soldiers behind while they returned to their estate
 * Lilith - age 22, 1 child, boy
 	* Boy, Born 525-526 (0)
 
+
 New horses for all
 
 |  | Charger | Rouncy 1 | Rouncy 2  | Sumpter |
@@ -317,10 +317,25 @@ New horses for all
 | Elgan | 4 |4 | 4 |4|
 | Axel |4 |4 | 4 |4|
 
+## Year 526 - Chapter XLV - War in France
+
+![France and Gaul][image-6]
+In France, the knights Axel, Elgan, Heckle, and Lilith for a time found themselves on sentry duty. Sharing a camp with Arthur they one day discovered their liege had gone missing. Investigating, they found he had gone hunting giants and was engaged in battle against a great and mighty one. Of course King Arthur did not need their aid but two treacherous giants were attempting to join in. And there the knights could render aid without fear.
+
+After much fighting in the countryside, Paris surrendered to Arthur's army, Lord Robert's knights making initial contact with the wealthy of the city who arranged it. They further accompanied Sir Gawaine to a parley with Emperor Lucius. The parley went poorly and Gawaine slew Sir Gainus, cousin to the emperor. Guest obligations destroyed, a melee broke out, with the British knights forced to flee.
+
+Gawaine led his pursuers into an ambush, one the Knights of Robert felt less than honorable. However, after battle began they aided Sir Gawaine and his troops. The battle was brutal, with troops from across the Mediterranean, Cataphracts and true centuries making use of the tactics that had once brought Rome the known world. Sirs Heckle and Elgan were most previously injured, close to death, but the British drove off the Roman pursuit.
+
+After being able to heal for two months, the armies again marched, battling Emperor Lucius in a narrow valley at Battle of Saussy. The British were victorious, with King Arthur slaying the Emperor.
+
+With the passes through the Alps being covered with snow, the season for war had come to an end. Arthur ordered Lucius's body sent to Rome with full honors along with a warning to surrender.
+
 
 [image-1]:	./maps/pendragon_player.png
 [image-2]:	./maps/Britain_519.png
 [image-3]:	./maps/dolorous_wyrm.png
 [image-4]: ./maps/red_blade_lands.png
 [image-5]: ./maps/castle_of_the_kite.png
+[image-6]: ./maps/france_gaul.png
+
 
