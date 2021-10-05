@@ -291,14 +291,14 @@ Victorious, the knights left soldiers behind while they returned to their estate
 
 ### Year 525-526 Winter 
 
-* Heckle -
+* Heckle - 
 	* Matlida, Girl, born 513-514 (12)
 	* Roy, Boy, born 514-515 (11)
 	* Bart, Boy, born 516-517(9) 
 	* Mary, Girl, born 518-519 (7)
 	* Brent, Boy, born 519-520 (6) 
-* Elgan - youngest child dies
-	* Boy, born 521-522 (3) 
+* Elgan - youngest dies
+	* Boy, born 521-522 (3)
 * Axel -
 	* Girl, born 520-521 (4)
 	* Boy, born 523-524 (2) 
@@ -330,7 +330,34 @@ After being able to heal for two months, the armies again marched, battling Empe
 
 With the passes through the Alps being covered with snow, the season for war had come to an end. Arthur ordered Lucius's body sent to Rome with full honors along with a warning to surrender.
 
+### Year 526-527 Winter 
 
+* Heckle - dalliances in France but no offspring, Rumors of affair.
+	* Matlida, Girl, born 513-514 (13)
+	* Roy, Boy, born 514-515 (12)
+	* Bart, Boy, born 516-517(10) 
+	* Mary, Girl, born 518-519 (8)
+	* Brent, Boy, born 519-520 (7) 
+* Elgan - newborn son, eldest dies. Marriage in family
+	* Boy, born 521-522 (4), deceased
+	* Boy, born 526-527 (0) 
+* Axel - Marriage in family
+	* Girl, born 520-521 (6)
+	* Boy, born 523-524 (4) 
+	* Boy, born 524-525 (3) 
+	* Girl, born 524-525 (3) 
+* Lilith - age 24, daughter born to uncle Remus
+	* Boy, Born 525-526 (2)
+
+
+New horses for all
+
+|  | Charger | Rouncy 1 | Rouncy 2  | Sumpter |
+|:--|:--|:--|:--|:--|
+| Lilith |4 |4 | 4 |4|
+| Heckle |4 |4 | 4 |4|
+| Elgan | 4 |4 | 4 |4|
+| Axel |4 |4 | 4 |4|
 [image-1]:	./maps/pendragon_player.png
 [image-2]:	./maps/Britain_519.png
 [image-3]:	./maps/dolorous_wyrm.png
