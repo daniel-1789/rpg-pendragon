@@ -318,8 +318,9 @@ New horses for all
 | Axel |4 |4 | 4 |4|
 
 ## Year 526 - Chapter XLV - War in France
+![france_gaul][image-6]
 
-![France and Gaul][image-6]
+
 In France, the knights Axel, Elgan, Heckle, and Lilith for a time found themselves on sentry duty. Sharing a camp with Arthur they one day discovered their liege had gone missing. Investigating, they found he had gone hunting giants and was engaged in battle against a great and mighty one. Of course King Arthur did not need their aid but two treacherous giants were attempting to join in. And there the knights could render aid without fear.
 
 After much fighting in the countryside, Paris surrendered to Arthur's army, Lord Robert's knights making initial contact with the wealthy of the city who arranged it. They further accompanied Sir Gawaine to a parley with Emperor Lucius. The parley went poorly and Gawaine slew Sir Gainus, cousin to the emperor. Guest obligations destroyed, a melee broke out, with the British knights forced to flee.
@@ -352,12 +353,13 @@ With the passes through the Alps being covered with snow, the season for war had
 
 New horses for all
 
-|  | Charger | Rouncy 1 | Rouncy 2  | Sumpter |
+||Andalusian Charger | Rouncy 1 | Rouncy 2  | Sumpter |
 |:--|:--|:--|:--|:--|
 | Lilith |4 |4 | 4 |4|
 | Heckle |4 |4 | 4 |4|
 | Elgan | 4 |4 | 4 |4|
 | Axel |4 |4 | 4 |4|
+
 [image-1]:	./maps/pendragon_player.png
 [image-2]:	./maps/Britain_519.png
 [image-3]:	./maps/dolorous_wyrm.png
