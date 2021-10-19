@@ -347,7 +347,7 @@ With the passes through the Alps being covered with snow, the season for war had
 	* Boy, born 523-524 (4) 
 	* Boy, born 524-525 (3) 
 	* Girl, born 524-525 (3) 
-* Lilith - age 24, daughter born to uncle Remus
+* Lilith - age 23, daughter born to uncle Remus
 	* Boy, Born 525-526 (2)
 
 
@@ -359,6 +359,45 @@ New horses for all
 | Heckle |4 |4 | 4 |4|
 | Elgan | 4 |4 | 4 |4|
 | Axel |4 |4 | 4 |4|
+
+
+## Year 527 - Chapter XLVI - Emperor of Rome
+As the Alps thawed, Arthur led his army across. Earl Robert's loyal knights participated in the Siege of Milan. Though victorious, the encounter was nearly fatal for Sir Heckle, who was most previously wounded in the attack.
+
+Working their way south they were eventually met by bishops and senators from Rome who had agreed to surrender to Arthur, with the pope to coronate him as emperor.
+
+Victoriously, the knights marched into Rome where Arthur was indeed coronated Roman Emperor. With time to spend in Rome, the knights did become aware that that title meant much less than it might have, with much of the city empty and many of Rome's great engineering marvels being used for their materials.
+
+The knights undertook a dangerous sea journey home, with much illness suffered by the knights.
+
+### Year 527-528 Winter 
+
+* Heckle -
+	* Matlida, Girl, born 513-514 (14)
+	* Roy, Boy, born 514-515 (13)
+	* Bart, Boy, born 516-517(11) 
+	* Mary, Girl, born 518-519 (9)
+	* Brent, Boy, born 519-520 (8) 
+* Elgan - newborn daughter
+	* Boy, born 526-527 (1) 
+	* Girl, born 524-525 (4) 
+* Axel -
+	* Girl, born 520-521 (7)
+	* Boy, born 523-524 (5) 
+	* Boy, born 524-525 (4) 
+	* Girl, born 524-525 (4) 
+* Lilith - age 24, son born
+	* Boy, Born 525-526 (3)
+	* Boy, born 524-525 (4) 
+
+
+||Andalusian Charger | Rouncy 1 | Rouncy 2  | Sumpter |
+|:--|:--|:--|:--|:--|
+| Lilith |5 |5 | 5 |5|
+| Heckle |5 |5 | 5 |5|
+| Elgan | 5 |5 | 5 |5|
+| Axel |5 |5 | 5 |5|
+
 
 [image-1]:	./maps/pendragon_player.png
 [image-2]:	./maps/Britain_519.png
