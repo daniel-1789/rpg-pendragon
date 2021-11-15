@@ -380,15 +380,15 @@ The knights undertook a dangerous sea journey home, with much illness suffered b
 	* Brent, Boy, born 519-520 (8) 
 * Elgan - newborn daughter
 	* Boy, born 526-527 (1) 
-	* Girl, born 524-525 (4) 
+	* Girl, born 527-528 (0) 
 * Axel -
 	* Girl, born 520-521 (7)
 	* Boy, born 523-524 (5) 
 	* Boy, born 524-525 (4) 
-	* Girl, born 524-525 (4) 
+	* Girl, born 527-528 (0) 
 * Lilith - age 24, son born
 	* Boy, Born 525-526 (3)
-	* Boy, born 524-525 (4) 
+	* Boy, born 527-528 (0)  
 
 
 ||Andalusian Charger | Rouncy 1 | Rouncy 2  | Sumpter |
@@ -398,6 +398,62 @@ The knights undertook a dangerous sea journey home, with much illness suffered b
 | Elgan | 5 |5 | 5 |5|
 | Axel |5 |5 | 5 |5|
 
+## Year 528 - Chapter XLVII - The Adventure of the Rosebriar Knight
+
+While the kingdom was a relative peace, there was still plenty of adventure for bold knights. Wanting to shed themselves of the likes of Lancelot and Gawaine, Robert's knights travelled to Cornwall to investigate reports of vile practices, including human sacrifice.
+
+At a cottage near the Exe River the knights found signs the rumors were true, encountering a squire being healed by old Mother Yarrow. As he recovered, she showed the knights her garden, blessed with beautiful flowers - likely blessed owing to a nearby well that showed signs of leading to the faery realms.
+
+The squire was Jakin who had been traveling with Sir Dray and several other knights ho were traveling to the town of Padstow where, rumor had it, every year on Mayday a maiden was sacrificed at the orders of the local lord Sir Garowin - an unwed maiden of the town would chosen to become the
+Bride of the Thorn, taken to a place near the edge of Morris Forest
+And tied to a pole of thorns. There she
+Would remain, her flesh pierced by the long barbed
+thorns of the pole until her body is drained of
+blood.
+
+However the knights never made it, encountering a haunting, sorrowful wail followed by the attack of a giant, of which Jakin was the lone survivor.
+
+With Mayday fast approaching they rode to the village, stopping only to supervise the burial of the knights. They found the tales were true.
+
+Sir Garowin, a strange knight whose flesh was pierced by thorns, would only free the maiden, already tied to the pole and slowly bleeding, if a knight were to challenge him, wagering their knighthood and agreeing to acquire the next year's sacrifice. However the parley was interrupted by a ghostly wail and Grown returned to his castle.
+
+Speaking with the maiden's family they learned that custom had it that Garowin could only be slain by his enemy Sir Daye, imprisoned in the Morris Forest behind a wall of thorns. Garowin stole Daye's faithful wife from him and then had her slay herself - supposedly the wail they kept hearing was her vengeful spirit.
+
+Their blades were to no avail against either the thorns piercing the still-living maiden nor those blocking the path to Sir Daye. Sensing faery magic they retuned to the well to the faery realm. There they met the Queen of Spring who knew of and hated Garowin who stole a black rose that could allow him to force the affection of the other, what he used to steal Sir Daye's wife - though when he tired of her he had her shed all her own blood to prove her devotion.
+
+In return for retrieving the stolen black rose she gave the knights enchanted thorn swords which they were able to use to free Sir Daye. Greatly weakened, he was unable to finish his battle with Garowin, though Sir Heckle and Lady Lilith took up his cause as their own and slew the vile Sir Garowin.
+
+
+### Year 528-529 Winter 
+
+* Heckle - newborn son
+	* Matlida, Girl, born 513-514 (15)
+	* Roy, Boy, born 514-515 (14)
+	* Bart, Boy, born 516-517(12) 
+	* Mary, Girl, born 518-519 (10)
+	* Brent, Boy, born 519-520 (9) 
+	* Boy, born 528-529 (0)
+* Elgan - newborn daughterm,scandalous rumor of sibling having affair
+	* Boy, born 526-527 (2) 
+	* Girl, born 527-528 (1) 
+	* Girl, born 528-529 (0) 
+* Axel - Marriage in family, daughter born
+	* Girl, born 520-521 (7)
+	* Boy, born 523-524 (5) 
+	* Boy, born 524-525 (4) 
+	* Girl, born 527-528 (1)
+	* Girl, born 528-529 (0)  
+* Lilith - age 24, son born
+	* Boy, Born 525-526 (3)
+	* Boy, born 527-528 (1) 
+
+
+||Andalusian Charger | Charger |Rouncy 1 | Rouncy 2  | Sumpter |
+|:--|:--|:--|:--|:--|:--|
+| Lilith |6 | | 6 | 6 |6|
+| Heckle | | 4 |6 | 6 |6|
+| Elgan |6 | | 6 | 6 |6|
+| Axel |6 | | 6 | 6 |6|
 
 [image-1]:	./maps/pendragon_player.png
 [image-2]:	./maps/Britain_519.png
