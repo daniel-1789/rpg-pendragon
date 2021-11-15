@@ -455,6 +455,36 @@ In return for retrieving the stolen black rose she gave the knights enchanted th
 | Elgan |6 | | 6 | 6 |6|
 | Axel |6 | | 6 | 6 |6|
 
+
+## Year 529 - Chapter XLVIII - Bran's Head and Rebellion
+There was a tale that so long as the head of Bran stayed buried, Britain would be safe from invasion. King Arthur decreed that such pagan magic was not needed and they would unearth that skull from outside its burial just outside of London.
+
+The unearthing was a moment of horror, with a vast pit needed to unearth the head, it being the size of a full human. And it did not want to be unearthed. The weather turned foul and the dead emerged from the earth to stop the head from being lifted. In the end, through the bravery of Earl Robert's knights was the skull winched from its burial. As they heaved it the skull spoke, demanding they leave it be. Once unearthed, it declared the doom of Britain - "The Doom of Britain is awakened. The King 
+of the Bears cannot live forever. The Spring always 
+follows the Winter, and the Destroyer is already born 
+who will make women weep to remember this unholy 
+uncovering. I see them who will glory at this deed: 
+Ceawlin and Cutha, Melehan and his father.” 
+
+Arthur shook his head, as if waking 
+from a dream, and raised his voice: “The land must be 
+held by courage and strength, not old magics. This is 
+the New Age. This is the Age of Men.” 
+
+However no sooner had he said that and prepared for a celebratory tournament did Sir Gawaine approach the king with a message from Sir Brastias. The King relayed the news to his subjects - "lords and ladies, we have received terrible news in triple. The Saxons of Anglia have risen in 
+rebellion. And Irish raiders are burning the country-
+side all along the Demetian and Severn Seas. 
+
+“In light of these difficulties, the tournament is 
+cancelled. All knights present must report to quarters for duty on the morrow. Counselors, report to 
+my chambers.” 
+
+Lady Lilith joined Arthur's main force and aided in the defense of the western shores while Sirs Axel, Elgan, and Heckle traveled to the lane or Anglia to free Yarmouth from Saxons.
+
+In the Battle of Yarmouth Sir Heckle fell in battle with the Saxon berserker leader, Éadláf. Heckle skewered the fearsome berserker in a lance charge, but in his dying breath Éadláf slew Heckle. In his memory, Heckle's Beacon was built along the shore to stand sentry for Saxon invaders.
+
+That winter the last of the British forces departed Rome, with Rome denying any loyalty to Arthur.
+
 [image-1]:	./maps/pendragon_player.png
 [image-2]:	./maps/Britain_519.png
 [image-3]:	./maps/dolorous_wyrm.png
