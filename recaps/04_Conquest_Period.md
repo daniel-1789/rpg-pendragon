@@ -485,6 +485,73 @@ In the Battle of Yarmouth Sir Heckle fell in battle with the Saxon berserker lea
 
 That winter the last of the British forces departed Rome, with Rome denying any loyalty to Arthur.
 
+### Year 529-530 Winter 
+
+* Elgan - Child dies at birth
+	* Boy, born 526-527 (3) 
+	* Girl, born 527-528 (2) 
+	* Girl, born 528-529 (1) 
+* Axel - Daughter born 
+	* Girl, born 520-521 (8)
+	* Boy, born 523-524 (6) 
+	* Boy, born 524-525 (5) 
+	* Girl, born 527-528 (2)
+	* Girl, born 528-529 (1)  
+	* Girl, born 529-530 (0) 
+* Lilith - age 25, son dies at birth
+	* Boy, Born 525-526 (4)
+	* Boy, born 527-528 (2) 
+
+
+||Andalusian Charger | Charger |Rouncy 1 | Rouncy 2  | Sumpter |
+|:--|:--|:--|:--|:--|:--|
+| Lilith |7 | | 7 | 7 |7|
+| Elgan |7 | | 7 | 7 |7|
+| Axel |7 | | 7 | 7 |7|
+
+## Year 530 - Chapter XLIX - The Irish War
+
+In year 530, many squires were knighted. Among them were Borre, bastard son of King Arthur; Matilda, daughter of the late Sir Heckle; Loholt, another bastard of Arthurs; and Mordred, youngest son of the late King Lot and one of the babies lost at sea and later recovered.
+
+At court, Queen Guenevere's rules for Courtly Romance received codification. The visiting King Joran jousted many knights and then grappled, lifted, and rode off with Sir Gawaine. (Much to the chagrin of his rival the Lady Lilith.)
+
+Though Arthur was eager to recover Gawaine, that would have to wait, for his forces were to sail for Ireland to aid King Anguish. Matilda joined the core of Earl Robert's knights in leading the forces near Tara. They were victorious against a combined force of Picts and Irish.
+
+After the battles Axel, Elgan, Lilith, and Matilda searched for Arthur's kin, Gawaine, and found him in the Land Beyond the Mountains where he had been having a grand time and married King Joran's daughter.
+
+
+
+### Year 530-531 Winter 
+
+* Elgan - daughter born
+	* Boy, born 526-527 (4) 
+	* Girl, born 527-528 (3) 
+	* Girl, born 528-529 (2) 
+	* Girl, born 530-531 (0) 
+* Axel - wife dies in childbirth 
+	* Girl, born 520-521 (10)
+	* Boy, born 523-524 (7) 
+	* Boy, born 524-525 (6) 
+	* Girl, born 527-528 (3)
+	* Girl, born 528-529 (2)  
+	* Girl, born 529-530 (1) 
+* Lilith - age 26, twins, son and daughter
+	* Boy, Born 525-526 (5)
+	* Boy, born 527-528 (3) 
+	* Girl, born 530-531 (0) 
+	* Boy, born 530-531 (0) 
+* Matilda - Courting Sir Borre
+
+
+
+||Andalusian Charger | Charger |Rouncy 1 | Rouncy 2  | Sumpter|
+|:--|:--|:--|:--|:--|:--|
+| Matilda | | 4| 4 | 4 |4|
+| Lilith |8 | | 4 | 8 |8|
+| Elgan |8 | | 8 | 4 |8|
+| Axel |8 | | 8 | 8 |8|
+
+
 [image-1]:	./maps/pendragon_player.png
 [image-2]:	./maps/Britain_519.png
 [image-3]:	./maps/dolorous_wyrm.png
