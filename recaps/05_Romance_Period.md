@@ -59,6 +59,40 @@ King Joran was amendable to his daughter wedding Sir Axel should they perform th
 
 In Camelot a king from the faerie met with Arthur, indicating that with barriers breaking down the adventurers of his world felt free to quest in Arthur's realm. Arthur granted that permission, though indicated his people would do likewise.
 
+### Year 532-533 Winter 
+
+* Axel - marries former sister-in law who dies in childbirth (eek). 4th child dies
+	* Girl, born 520-521 (12)
+	* Boy, born 523-524 (9) 
+	* Boy, born 524-525 (8) 
+	* Girl, born 527-528 (5) - dies of illness
+	* Girl, born 528-529 (4)  
+	* Girl, born 529-530 (3) 
+* Lilith - age 29
+	* Boy, Born 525-526 (7)
+	* Boy, born 527-528 (5) 
+	* Girl, born 530-531 (2) 
+	* Boy, born 530-531 (2) 
+* Matilda - bastard son
+	* Boy, born 532-533 (0)
+* Elidir - Marries son of household knight
+
+
+
+||Andalusian Charger | Charger |Rouncy 1 | Rouncy 2  | Sumpter|
+|:--|:--|:--|:--|:--|:--|
+| Axel | | 4 | 10 | 4 |10|
+| Elidir | 10 | | 4 | 4 |4|
+| Lilith |10 | | 6 | 10 |10|
+| Matilda | | 4| 6 | 4 |5|
+
+
+## Year 533 - Chapter LII - The Paris Tournament
+Earl Robert's loyal knights, Axel, Elixir, Lilith, and Matilda escorted the queen's cousin, Lady Elyzabel, to Paris for her wedding to Lord Phillip, cousin to the French King. En route they jousted elf knights who had begun adventuring in Arthur's Britain.
+
+Before departing Britain, the knights saved a magical hare from a mystical hound hunting it.
+
+In Paris, a great tournament was held to celebrate the wedding. Robert's knights participated in a competition against elephant-mounted Persian archers, proving victorious and winning their elephant cup. Their leader, Sir Parviz, enjoyed their company and the band returned to Britain, staying as guests of Sir Axel.
 
 
 [image-1]:	./maps/pendragon_player.png
