@@ -121,5 +121,18 @@ In Paris, a great tournament was held to celebrate the wedding. Robert's knights
 | Lilith | | 4| 7 | 11 |11|
 | Matilda | | 5| 7 | 5 |6|
 
+
+## Year 534 - Chapter LIII - A Song of Rabbits and Wine
+
+The Kingdom was a peace. King Arthur indicated that it was time for knights to engage in the court of romance were they not otherwise engaged in adventure.
+
+However, there was a problem. King Louis Merovingian had blocked the transport of wine from Italy and other lands through France to Britain. An opportunity for adventure! Sir Gawain gladly joined with the knights of Robert on this grand adventure.
+
+Traveling to Paris, a city many of them had participated in conquering some years ago, they were admitted to the court of the king. He agreed he would reopen trade for at least five years were they to rid him of a beast that had plagued the land of Caerbannog.
+
+Traveling down a canyon, they found bones and armor of many warriors who had made the same attempt. A small rabbit appeared to be the beast, though it was an enchanted hare. It nearly killed Gawain in a single blow and leapt from Matilda to Lilith to Axel to Elidir and back again. In a bloody battle they eventually dispatched the fell beast, treated their injuries (and Gawain's), and severed the rabbits four feet to take as charms.
+
+Returning to Britain with a supply of wine, they joined Arthur's court at a great tournament. Still recovering from their grievous injuries, they were content to watch this tournament. The melee saw Sir Mordred victorious, though he fought like a wild man possessed of a great demon - hurling his helmet at one foe to batter him senseless. Even Sir Lancelot seemed to avoid him...
+
 [image-1]:	./maps/pendragon_player.png
 
