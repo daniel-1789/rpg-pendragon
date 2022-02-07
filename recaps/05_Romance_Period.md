@@ -134,5 +134,80 @@ Traveling down a canyon, they found bones and armor of many warriors who had mad
 
 Returning to Britain with a supply of wine, they joined Arthur's court at a great tournament. Still recovering from their grievous injuries, they were content to watch this tournament. The melee saw Sir Mordred victorious, though he fought like a wild man possessed of a great demon - hurling his helmet at one foe to batter him senseless. Even Sir Lancelot seemed to avoid him...
 
+### Year 534-535 Winter 
+
+* Axel - Daughter born to third wife
+	* Girl, born 520-521 (14)
+	* Boy, born 523-524 (11) 
+	* Boy, born 524-525 (10) 
+	* Girl, born 528-529 (6)  
+	* Girl, born 529-530 (5)
+	* Girl, born 545-535 (0) 
+* Lilith - age 31, stillborn birth, mother Calliope dies
+	* Boy, Born 525-526 (9)
+	* Boy, born 527-528 (7) 
+	* Girl, born 530-531 (4) 
+	* Boy, born 530-531 (4) 
+* Matilda - Daughter born, counting Sir Borre
+	* Boy, born 532-533 (2)
+	* Girl, born 534-535 (0)
+* Elidir - 
+	* Boy, 529-530 (5) (adopted)
+
+
+
+||Andalusian Charger | Charger |Rouncy 1 | Rouncy 2  | Sumpter|
+|:--|:--|:--|:--|:--|:--|
+| Axel | | 5 | 12 | 6 |4|
+| Elidir |  |5 | 6 | 6 |6|
+| Lilith | | 5| 8 | 12 |4|
+| Matilda | | 6| 8 | 6 |7|
+
+
+## Year 535 - Chapter LIV - The Year of the Basket Knight and Cerridwen's Revenge
+
+At the Queen's court an anonymous, black-armored knight, seeking to challenge Arthur's knights, splashed wine on the Queen. As the knights debated who should respond to this insult in arrived the lad they had met in the year 532, now clad in a wicker suit of armor. He swore he would avenge the queen's armor. Before they could stop him he followed the black knight and when they caught up to him, the knight was slain.
+
+Prior to this, Sir Kay, Arthur's foster brother, had insulted both the queen's dwarfs and the lad, named Percivale, seventh and last surviving son of King Pellinore. The lad departed in search of adventure, though Percivale swore he would meet Sir Kay in battle to avenge his injury to the dwarfs. 
+
+The knights joined in a pursuit of the lad, for Arthur sought to learn more of him. However, their search was interrupted by a diversion into Faerie, where a shapeshifting woman swore she would have their revenge on them - for the knights had stopped her two years ago in when she was hunting a hare. 
+
+When they refused to battle for eternity to make up for her loss she tried reigning magic on them, though their rabbit's foots acquired last year protected them. So she unleashed a horrid boar to wreak havoc on their lands - and then transformed into an elephant-sized hound and tried to slay the knights in her mighty jaws. After a mighty battle they had defeated her but they were unable to find the boar.
+
+That winter they learned the queen's cousin, whom they had escorted to her wedding in France, was being held a prisoner. Arthur warned them to prepare for war.
+
+
+### Year 535-536 Winter 
+
+* Axel -
+	* Girl, born 520-521 (15)
+	* Boy, born 523-524 (12) 
+	* Boy, born 524-525 (11) 
+	* Girl, born 528-529 (7)  
+	* Girl, born 529-530 (6)
+	* Girl, born 545-535 (1) 
+* Lilith - age 32, daughter born
+	* Boy, Born 525-526 (10)
+	* Boy, born 527-528 (8) 
+	* Girl, born 530-531 (5) 
+	* Boy, born 530-531 (5) 
+	* Girl, born 535-536 (0)
+* Matilda - Marries Sir Borre, children made legitimate. Son born
+	* Boy, born 532-533 (3)
+	* Girl, born 534-535 (1)
+	* Boy, born 535-536 (0)
+* Elidir - Son born
+	* Boy, 529-530 (7) (adopted)
+	* Boy, born 535-536 (1)
+
+||Andalusian Charger | Charger |Rouncy 1 | Rouncy 2  | Sumpter|
+|:--|:--|:--|:--|:--|:--|
+| Axel | | 6 | 13 | 7 |5|
+| Elidir |  |6 | 7 | 7 |7|
+| Lilith | | 6| 7 | 13 |5|
+| Matilda | | 7| 9 | 7 |8|
+
+
+
 [image-1]:	./maps/pendragon_player.png
 
