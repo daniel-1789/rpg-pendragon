@@ -208,6 +208,11 @@ That winter they learned the queen's cousin, whom they had escorted to her weddi
 | Matilda | | 7| 9 | 7 |8|
 
 
+## Year 536 - Chapter LV - The Second French War
+
+The Queen’s cousin, the Lady Elyzabel, was a prisoner in France. Arthur marshaled his armies to come to her aid.
+
+Arthur’s knights, particularly those of Earl Robert, fought most valiantly, particularly in the Battle of Paris. After much bloodshed the city was taken and the Lady Elyzabel restored to Britain.
 
 [image-1]:	./maps/pendragon_player.png
 
