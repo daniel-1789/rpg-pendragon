@@ -214,5 +214,39 @@ The Queen’s cousin, the Lady Elyzabel, was a prisoner in France. Arthur marsha
 
 Arthur’s knights, particularly those of Earl Robert, fought most valiantly, particularly in the Battle of Paris. After much bloodshed the city was taken and the Lady Elyzabel restored to Britain.
 
+
+### Year 536-537 Winter 
+
+* Axel - birth in family
+	* Girl, born 520-521 (16)
+	* Boy, born 523-524 (13) 
+	* Boy, born 524-525 (12) 
+	* Girl, born 528-529 (8)  
+	* Girl, born 529-530 (7)
+	* Girl, born 545-535 (2) 
+* Lilith - age 33, scandalous rumor, brother kidnapper
+	* Boy, Born 525-526 (11)
+	* Boy, born 527-528 (9) 
+	* Girl, born 530-531 (6) 
+	* Boy, born 530-531 (6) 
+	* Girl, born 535-536 (1)
+* Matilda - marriage in family
+	* Boy, born 532-533 (4)
+	* Girl, born 534-535 (2)
+	* Boy, born 535-536 (1)
+* Elidir - Son born, eldest dies, brother marries
+	* Boy, 529-530 (8) (adopted)
+	* Boy, born 535-536 (1)
+	* Boy, born 536-537 (0)
+
+
+||Andalusian Charger | Charger |Rouncy 1 | Rouncy 2  | Sumpter|
+|:--|:--|:--|:--|:--|:--|
+| Axel     |4 | 4|14| 8 |6|
+| Elidir   | 4|7 | 8| 8 |8|
+| Lilith   |4 | 4| 8| 14 |6|
+| Matilda |4 | 8| 4| 8 |7|
+
+
 [image-1]:	./maps/pendragon_player.png
 
