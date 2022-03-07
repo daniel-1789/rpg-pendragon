@@ -248,5 +248,26 @@ Arthur’s knights, particularly those of Earl Robert, fought most valiantly, pa
 | Matilda |4 | 8| 4| 8 |7|
 
 
+## Year 537 - Chapter LVI - The Adventure of the Werewolf
+
+At Camelot, a great tournament prior to the Pentecost feast was held. The knights Elidir and Matilda earned great honor being the final two knights in the great joust, with Elidir eventually unhorsing Matilda - but an outcome which brought great honor to their liege-lord, Earl Robert. 
+
+The knights Axel and Lilith instead participated in a hunt. The hunt ended with an encounter with a strange wolf, one that frightened their horses, causing Axel to be unhorsed. The wolf was accosting Sir Guaire, one of Duke Galahaut’s men. However, with the arrival of Sir Axel and Dame Lilith brought about a change in behavior - the wolf sat respectfully and properly at their feet. Guaire insisted it be destroyed but the wolf accompanied Lilith back to Camelot.
+
+The well-behaved wolf caused a sensation in Camelot and greatly pleased King Arthur, who always insisted upon witnessing a miracle before Pentecost. He charged them to solve the mystery of this well-mannered wolf, that Lilith had named Bear. 
+
+At the Pentecost Feast Earl Robert’s knights investigated, though it was Lilith, whose shield device was a great dog, had the most interest. Elidir enjoyed having some time at court with his beloved cousin. However, all became more involved as they began uncovering the mystery. 
+
+They learned that while the wolf, named Bear by Lilith, was friendly to almost all, it did not care for Sir Guaire, nor the Lady Indeg, the presumed widow of the knight of the round table Sir Marrok, missing seven years ago.
+
+During the feast they learned that Indeg wished for her husband to be declared dead so she could be with her lover, Sir Guaire. They also learned they had begun this affair before the loss of Marrok. And it turned out Marrok’s family had a curse that turned the men to wolves on certain nights - they would return to human form if they had their human clothing available.
+
+Further investigation showed Marrok’s manor empty of all his clothing - and they learned Guiare had an abandoned castle he took his lovers to. Matilda searched for and found Marrok’s clothing in that castle whilst the others subdued Guaire. 
+
+Returning to Camelot with the clothing the wolf initially refused to make use of it until given privacy. When given it, it did indeed transform into a sleeping Sir Marrok.
+
+King Arthur was angered by this betrayal, feeling Indeg and Guaire’s adultery, while bad, was worsened by trapping Marrok in wolf form, an attempt at murdering his human form. While Earl Robert’s knights urged mercy, Arthur made an example of such betrayal and sentenced them to death.
+
+
 [image-1]:	./maps/pendragon_player.png
 
