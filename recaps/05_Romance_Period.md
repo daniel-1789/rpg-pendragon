@@ -268,6 +268,44 @@ Returning to Camelot with the clothing the wolf initially refused to make use of
 
 King Arthur was angered by this betrayal, feeling Indeg and Guaire’s adultery, while bad, was worsened by trapping Marrok in wolf form, an attempt at murdering his human form. While Earl Robert’s knights urged mercy, Arthur made an example of such betrayal and sentenced them to death.
 
+### Year 537-538 Winter 
 
+* Axel - third-born dies of illness
+	* Girl, born 520-521 (17)
+	* Boy, born 523-524 (14) 
+	* Boy, born 524-525 (13) - deceased
+	* Girl, born 528-529 (9)  
+	* Girl, born 529-530 (87)
+	* Girl, born 545-535 (3) 
+* Lilith - age 34
+	* Boy, Born 525-526 (12)
+	* Boy, born 527-528 (10) 
+	* Girl, born 530-531 (7) 
+	* Boy, born 530-531 (7) 
+	* Girl, born 535-536 (2)
+* Matilda - son born
+	* Boy, born 532-533 (5)
+	* Girl, born 534-535 (3)
+	* Boy, born 535-536 (2)
+	* Boy, born 537-538 (0)
+* Elidir -
+	* Boy, born 535-536 (2)
+	* Boy, born 536-537 (1)
+
+||Andalusian Charger | Charger |Rouncy 1 | Rouncy 2  | Sumpter|
+|:--|:--|:--|:--|:--|:--|
+| Axel     | 5| 5|15| 9| 7|
+| Elidir   | 5| 8| 9| 9| 9|
+| Lilith   | 5| 5| 9|15| 7|
+| Matilda |  5| 9| 5| 9| 4|
+
+## Year 538 - Chapter LVII - The Abduction of the Queen
+A page brought to Camelot the horrible news - Queen Guenever, while a-Maying, had been abducted - as had her entire entourage. Lancelot was already in pursuit and soon Axel, Elidir, Lilith, and Matilda joined him.
+
+They found she had been taken by Sir Meliagrance and surrounded his Somerset Castle. Fighting their way to it, Lancelot challenged Meliagrance to a duel and was victorious, granting mercy to the knight who claimed to have been helpless against the queen’s beauty. 
+
+However, the entourage was en route to the coast, to be sold to Saxons. Axel, Elidir, Lilith, and Matilda pursued them while Lancelot stayed at the castle. They defeated Meliagrance’s allies in battle, despite their attempt at flanking them, capturing their leader, Sir Iago, and rescuing the party.
+
+Returning to the castle they found Lancelot had slain Meliagrance for the accusing the queen of adultery with a wounded knight, finding blood in her chambers. 
 [image-1]:	./maps/pendragon_player.png
 
