@@ -418,5 +418,11 @@ Returning to Camelot in glory but with the grim news that Arthur's son had falle
 | Lilith   | 8| 8| 5| 6|10|
 | Matilda | 8|4|8|4|7|
 
+
+## Year 541 - Chapter LX - Rescuing Arthur
+In early spring of 541, Axel, Elixir, Lilith, and Matilda joined in the search for the missing king. During their search they came across a group of hyenas, nasty enchanted blasted that tried to trick them. Making short work of them, they soon were taking the enchantress Nimue back to the location of the battle, and there she used her sight to track the hyenas back to a castle, one they had been sent from.
+
+The castle belonged to the enchantress Annowre, who had used magic to capture King Arthur. Our heroic knights defeated her knights, captured her, and restored the king. 
+
 [image-1]:	./maps/pendragon_player.png
 
