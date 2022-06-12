@@ -125,5 +125,20 @@ armor, worth £20)
 • a courser, 2 rouncys, and 4 sumpters (£7)
 
 
+## Year 542 - Chapter LXI - Le Chevalier sans Mémoire
+
+En route to a tournament the knights Axel, Eledir, Lilith, and Matilda encountered a stranger who had lost his memory - but swore he was a knight. He told them all he remembered was he had important business and had been ambushed by the Giant Black Dwarf.
+
+They visited the home of the Giant Black Dwarf and his wife, the Dwarf White Giantess. Challenging him to a duel, he eventually yielded and told them he was a servant of the Queen of the Out Isles and defeated the knight on her orders and distributed his weapons and armor. To regain his memory he would need the gear back.
+
+His sword was held by the Knight of the Bright Sword who cheerfully agreed to part with it if one of them could defeat him in a duel to the death. Axel did so, with the knight never asking for quarter.
+
+His shield was held by a fearsome giant, one they defeated though some suffered grievous wounds.
+
+His armor was held by a wyrm. Sir Eledir lent his wyrmslaying sword to their best sword wielder, Lilith. The Wyrm too did great harm and while they could not slay it, they drove it off and retrieved the armor.
+
+With his gear returned the knight remembered he was Sir Edar, a pagan knight. He had to save Sir Ozana from an assassination sent by his former paramour, the Queen of the Out Isles. Sir Edar died in the effort but the knights gained the gratitude of their fellow Round Table knight, Sir Ozana - and the enmity to the Queen of the Out Isles. He presented to them Sir Edar's gear as thanks.
+
+
 [image-1]:	./maps/pendragon_player.png
 
