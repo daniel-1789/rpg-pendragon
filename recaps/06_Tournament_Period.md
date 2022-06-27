@@ -115,16 +115,6 @@ Packhorses
 | Matilda | 8|4|4|4|4|
 
 
-• a destrier with full harness and caparison
-(worth £35 total)
-• a full set of decorated partial plate (14-point
-armor, worth £20)
-• an elegant set of clothing (worth £3)
-• a chain of gold, with a medal on it (£10)
-• a gold plate, goblet, bowl, and napkin holder (£25)
-• a courser, 2 rouncys, and 4 sumpters (£7)
-
-
 ## Year 542 - Chapter LXI - Le Chevalier sans Mémoire
 
 En route to a tournament the knights Axel, Eledir, Lilith, and Matilda encountered a stranger who had lost his memory - but swore he was a knight. He told them all he remembered was he had important business and had been ambushed by the Giant Black Dwarf.
@@ -139,6 +129,64 @@ His armor was held by a wyrm. Sir Eledir lent his wyrmslaying sword to their bes
 
 With his gear returned the knight remembered he was Sir Edar, a pagan knight. He had to save Sir Ozana from an assassination sent by his former paramour, the Queen of the Out Isles. Sir Edar died in the effort but the knights gained the gratitude of their fellow Round Table knight, Sir Ozana - and the enmity to the Queen of the Out Isles. He presented to them Sir Edar's gear as thanks.
 
+### Year 542-543 Winter 
+
+* Axel - -1 DEX
+	* Girl, born 520-521 (22)
+	* Boy, born 523-524 (19) 
+	* Girl, born 529-530 (13)
+	* Girl, born 545-535 (8) 
+* Lilith - age 39, -2 STR
+	* Boy, Born 525-526 (17)
+	* Boy, born 527-528 (15) 
+	* Girl, born 530-531 (12) 
+	* Boy, born 530-531 (12) 
+	* Girl, born 535-536 (7)
+	* Boy, born 540-541 (2)
+* Matilda - Daughter Born
+	* Boy, born 532-533 (10)
+	* Girl, born 534-535 (8)
+	* Boy, born 535-536 (7)
+	* Girl, born 542-543 (0)
+* Elidir -
+	* Boy, born 535-536 (7)
+	* Boy, born 536-537 (6)
+
+#### Stable
+Warhorses
+
+|| Destrier |Andalusian Charger | Charger |Courser |
+|:--|:--|:--|:--|:--|
+| Axel     | 5| 10| 9| 5|
+| Elidir   | 5| 10| 9| 5| 
+| Lilith   | 5| 10| 9| 5| 
+| Matilda  | 5| 10| 9| 5|
+
+Riding Horses
+
+|| Rouncy 1 |Rouncy 2 | Rouncy 3 |Rouncy 4 |
+|:--|:--|:--|:--|:--|
+| Axel     | 8| 6| 5| 5|
+| Elidir   | 8| 6| 5| 5| 
+| Lilith   | 7| 8| 5| 5| 
+| Matilda  |10| 6| 5| 5|
+
+Packhorses
+
+||Sumpter 1 | Sumpter 2 |Sumpter 3 | Sumpter 4  | Sumpter 5|
+|:--|:--|:--|:--|:--|:--|
+| Axel     | 4| 5| 5| 5| 5|
+| Elidir   | 6| 5| 5| 5| 5|
+| Lilith   | 4| 5| 5| 5| 5|
+| Matilda  | 9| 5| 5| 5| 5|
+
+## Year 543 - Chapter LXII - Castle of the Hard Rock Tournament
+
+At the tournament held at the Castle of the Hard Rock, Elidir won glory at winning the jousting tournament, defeating Sir Gawain in the final tilt - and accidentally wounded him, causing him to bow out of the melee.
+
+In the grand melee a strange black knight was triumphant but refused Arthur’s invitation to join him upon the dais. Lancelot perused him to demand he show proper respect. In the grand battle which followed they learned the black knight was Sir Tristam, banished by his liege, King Mark of Cornwall. All was forgiven and a group of knights, against the advice cooler heads like Elidir and Matilda, rode off to harry King Mark.
+
+The Lady Lilith, feeling her years, decided to sit out the tournament this time. She found herself being approached by knights preaching strange ideas that rulership should depend on the consent of the governed. Investigating she discovered he was a knight of the late King Lot, father of Gawain and husband of Arthur’s half-sister. But further investigation showed the knight was also an associate of Sir Mordred.
+
 
 [image-1]:	./maps/pendragon_player.png
-
