@@ -247,6 +247,68 @@ The knights of Earl Robert patrolled the Cornish border, for it was rumored King
 
 At Camelot, King Mark was King Arthur's "guest" and swore fealty to Arthur at a "friendship tournament". There was some tension when the Orkneys - the sons of the late King Lot - Mordred, Gaheris, Agravaine, and Gawaine, got into a conflict with Sir Lamorak de Galles whose father, King Pellinore, slew King Lot. 
 
-Sir Lamorak left early, as did Sir Gaheris. While violence between them was feared, in the end it transpired that someone murdered Queen Margawse, widow of King Lot and half-sister of King Arthur...s
+Sir Lamorak left early, as did Sir Gaheris. While violence between them was feared, in the end it transpired that someone murdered Queen Margawse, widow of King Lot and half-sister of King Arthur...
+
+### Year 544-545 Winter 
+
+* Axel - wife dies in childbirth, rumor of necromancy
+	* Girl, born 520-521 (24)
+	* Boy, born 523-524 (21) 
+	* Girl, born 529-530 (15)
+	* Girl, born 534-535 (10)
+	* Boy, born  544-545 (0)
+* Lilith - age 41 -1 CON -1 APP
+	* Boy, Born 525-526 (18)
+	* Boy, born 527-528 (15) 
+	* Girl, born 530-531 (14) 
+	* Boy, born 530-531 (14) 
+	* Girl, born 535-536 (9), dies
+	* Boy, born 540-541 (4)
+* Matilda - 
+	* Boy, born 532-533 (12)
+	* Girl, born 534-535 (10)
+	* Boy, born 535-536 (9)
+	* Girl, born 542-543 (2)
+* Elidir -
+	* Boy, born 535-536 (9)
+	* Boy, born 536-537 (8)
+	* Girl, born 544-545 (0)
+
+#### Stable
+Warhorses
+
+|| Destrier |Andalusian Charger | Charger |Courser |
+|:--|:--|:--|:--|:--|
+| Axel     | 7| 12|11| 7|
+| Elidir   | 7| 12|11| 7|
+| Lilith    | 7| 12|11| 7| 
+| Matilda   | 7| 12|11| 7|
+
+Riding Horses
+
+|| Rouncy 1 |Jouncy 2 | Rouncy 3 |Rouncy 4 |
+|:--|:--|:--|:--|:--|
+| Axel     | 10| 8| 7| 7|
+| Elidir   | 10| 8| 7| 7| 
+| Lilith   | 9| 8| 7| 7| 
+| Matilda  |12| 8| 7| 7|
+
+Packhorses
+
+||Sumpter 1 | Sumpter 2 |Sumpter 3 | Sumpter 4  | Sumpter 5|
+|:--|:--|:--|:--|:--|:--|
+| Axel     | 6| 7| 7| 7| 7|
+| Elidir   | 8| 7| 7| 7| 7|
+| Lilith   | 6| | 7| 7| 7| 7|
+| Matilda  |11| | 7| 7| 7| 7|
+
+
+
+## Year 545 - Chapter LXIX - The Capture of King Mark
+The knights who captured King Mark participated in making sure their share of the ransom found its way to them. However, the train carrying the gear briefly found itself in the land of the Faerie and they were accosted by giants and a faerie knight. Though they made short work of the giants, the faerie knight did slay Lilith before being finally defeated by her companions. 
+
+That winter, Lilith's son Sir Desmond was knighted and married to Sir Gawaine's eldest daughter, the Lady Bela, who had been taught in the ways of knighthood by her late mother-in-law. She too was knighted and presented with Lilith's Red Sword.
+
+Also at the end of the year feasting did a strange Green Knight arrive at Camelot with a mystical challenge - he would take any blow from one of Arthur's Knights and one year hence, at the Green Chapel, would the Green Knight return the blow. Gawaine did so, severing the knight's head. Who grasped his decapitated head, bowed, and said he would see Gawaine one year hence.
 
 [image-1]:	./maps/pendragon_player.png
