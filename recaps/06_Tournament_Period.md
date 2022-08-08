@@ -6,7 +6,7 @@
 ![Pendragon Players' Map][image-1]
 
 
-## Year 540 - Chapter LIX - The Hunt for Cerridwen 
+## Year 540 - Chapter LIX - The Hunt for Cerridwen
 The knights Axel, Elixir, Lilith, and Matilda spent much of the winter and sprint recruiting aid in the hunt for Cerridwen. Axel's cousin Tink, a fey knight and son of  Uncle Maul, accompanied them. Sir Borre, husband of Matilda and bastard son of Arthur, joined in the hunt. Sir Gawaine, always eager for adventure, joined them. And Sir Romulus, cousin to Lilith, son of her Uncle Remus, joined them.
 
 Sir Elidir conferred with Nimue, Lady of the Lake and Enchantress, who provided them with enahcnatments to aid them in the battle. She gave Elidir and enchanted boar spear and all of them an oil that would protect their shields and armor from the acid the boar emitted.
@@ -15,7 +15,7 @@ Pursuing the boar into a canyon, the battle was brutal. Larger than an elephant,
 
 Returning to Camelot in glory but with the grim news that Arthur's son had fallen, they discovered Arthur himself had gone missing...
 
-### Year 540-541 Winter 
+### Year 540-541 Winter
 
 * Axel - Youngest child dies
 	* Girl, born 520-521 (20)
@@ -39,12 +39,12 @@ Returning to Camelot in glory but with the grim news that Arthur's son had falle
 	* Boy, born 535-536 (5)
 	* Boy, born 536-537 (4)
 
-||Andalusian Charger | Charger |Rouncy 1 | Rouncy 2  | Sumpter|
-|:--|:--|:--|:--|:--|:--|
-| Axel     | 8| 8| 6| 4|10|
-| Elidir   | 8| 8| 6| 4| 4|
-| Lilith   | 8| 8| 5| 6|10|
-| Matilda | 8|4|8|4|7|
+|         | Andalusian Charger | Charger | Rouncy 1 | Rouncy 2 | Sumpter |
+| :------ | :----------------- | :------ | :------- | :------- | :------ |
+| Axel    | 8                  | 8       | 6        | 4        | 10      |
+| Elidir  | 8                  | 8       | 6        | 4        | 4       |
+| Lilith  | 8                  | 8       | 5        | 6        | 10      |
+| Matilda | 8                  | 4       | 8        | 4        | 7       |
 
 
 ## Year 541 - Chapter LX - Rescuing Arthur
@@ -52,7 +52,7 @@ In early spring of 541, Axel, Elixir, Lilith, and Matilda joined in the search f
 
 The castle belonged to the enchantress Annowre, who had used magic to capture King Arthur. Our heroic knights defeated her knights, captured her, and restored the king. 
 
-### Year 541-542 Winter 
+### Year 541-542 Winter
 Heavily rewarded by the Queen, with each knight receiving:
 - a destrier with full harness and caparison
 (worth £35 total)
@@ -89,30 +89,30 @@ armor, worth £20)
 #### Stable
 Warhorses
 
-|| Destrier |Andalusian Charger | Charger |Courser |
-|:--|:--|:--|:--|:--|
-| Axel     | 4| 9| 8| 4|
-| Elidir   | 4| 9| 8| 4| 
-| Lilith   | 4| 9| 8| 4| 
-| Matilda  | 4| 9| 4|4|
+|         | Destrier | Andalusian Charger | Charger | Courser |
+| :------ | :------- | :----------------- | :------ | :------ |
+| Axel    | 4        | 9                  | 8       | 4       |
+| Elidir  | 4        | 9                  | 8       | 4       |
+| Lilith  | 4        | 9                  | 8       | 4       |
+| Matilda | 4        | 9                  | 4       | 4       |
 
 Riding Horses
 
-|| Rouncy 1 |Rouncy 2 | Rouncy 3 |Rouncy 4 |
-|:--|:--|:--|:--|:--|
-| Axel     | 7| 5| 4| 4|
-| Elidir   | 7| 5| 4| 4| 
-| Lilith   | 6| 7| 4| 4| 
-| Matilda  | 9| 5| 4|4|
+|         | Rouncy 1 | Rouncy 2 | Rouncy 3 | Rouncy 4 |
+| :------ | :------- | :------- | :------- | :------- |
+| Axel    | 7        | 5        | 4        | 4        |
+| Elidir  | 7        | 5        | 4        | 4        |
+| Lilith  | 6        | 7        | 4        | 4        |
+| Matilda | 9        | 5        | 4        | 4        |
 
 Packhorses
 
-||Sumpter 1 | Sumpter 2 |Sumpter 3 | Sumpter 4  | Sumpter 5|
-|:--|:--|:--|:--|:--|:--|
-| Axel     | 11| 4|4|4|4|
-| Elidir   | 5| 4|4|4|4|
-| Lilith   | 11|4|4|4|4|
-| Matilda | 8|4|4|4|4|
+|         | Sumpter 1 | Sumpter 2 | Sumpter 3 | Sumpter 4 | Sumpter 5 |
+| :------ | :-------- | :-------- | :-------- | :-------- | :-------- |
+| Axel    | 11        | 4         | 4         | 4         | 4         |
+| Elidir  | 5         | 4         | 4         | 4         | 4         |
+| Lilith  | 11        | 4         | 4         | 4         | 4         |
+| Matilda | 8         | 4         | 4         | 4         | 4         |
 
 
 ## Year 542 - Chapter LXI - Le Chevalier sans Mémoire
@@ -129,7 +129,7 @@ His armor was held by a wyrm. Sir Eledir lent his wyrmslaying sword to their bes
 
 With his gear returned the knight remembered he was Sir Edar, a pagan knight. He had to save Sir Ozana from an assassination sent by his former paramour, the Queen of the Out Isles. Sir Edar died in the effort but the knights gained the gratitude of their fellow Round Table knight, Sir Ozana - and the enmity to the Queen of the Out Isles. He presented to them Sir Edar's gear as thanks.
 
-### Year 542-543 Winter 
+### Year 542-543 Winter
 
 * Axel - -1 DEX
 	* Girl, born 520-521 (22)
@@ -155,30 +155,30 @@ With his gear returned the knight remembered he was Sir Edar, a pagan knight. He
 #### Stable
 Warhorses
 
-|| Destrier |Andalusian Charger | Charger |Courser |
-|:--|:--|:--|:--|:--|
-| Axel     | 5| 10| 9| 5|
-| Elidir   | 5| 10| 9| 5| 
-| Lilith   | 5| 10| 9| 5| 
-| Matilda  | 5| 10| 9| 5|
+|         | Destrier | Andalusian Charger | Charger | Courser |
+| :------ | :------- | :----------------- | :------ | :------ |
+| Axel    | 5        | 10                 | 9       | 5       |
+| Elidir  | 5        | 10                 | 9       | 5       |
+| Lilith  | 5        | 10                 | 9       | 5       |
+| Matilda | 5        | 10                 | 9       | 5       |
 
 Riding Horses
 
-|| Rouncy 1 |Rouncy 2 | Rouncy 3 |Rouncy 4 |
-|:--|:--|:--|:--|:--|
-| Axel     | 8| 6| 5| 5|
-| Elidir   | 8| 6| 5| 5| 
-| Lilith   | 7| 8| 5| 5| 
-| Matilda  |10| 6| 5| 5|
+|         | Rouncy 1 | Rouncy 2 | Rouncy 3 | Rouncy 4 |
+| :------ | :------- | :------- | :------- | :------- |
+| Axel    | 8        | 6        | 5        | 5        |
+| Elidir  | 8        | 6        | 5        | 5        |
+| Lilith  | 7        | 8        | 5        | 5        |
+| Matilda | 10       | 6        | 5        | 5        |
 
 Packhorses
 
-||Sumpter 1 | Sumpter 2 |Sumpter 3 | Sumpter 4  | Sumpter 5|
-|:--|:--|:--|:--|:--|:--|
-| Axel     | 4| 5| 5| 5| 5|
-| Elidir   | 6| 5| 5| 5| 5|
-| Lilith   | 4| 5| 5| 5| 5|
-| Matilda  | 9| 5| 5| 5| 5|
+|         | Sumpter 1 | Sumpter 2 | Sumpter 3 | Sumpter 4 | Sumpter 5 |
+| :------ | :-------- | :-------- | :-------- | :-------- | :-------- |
+| Axel    | 4         | 5         | 5         | 5         | 5         |
+| Elidir  | 6         | 5         | 5         | 5         | 5         |
+| Lilith  | 4         | 5         | 5         | 5         | 5         |
+| Matilda | 9         | 5         | 5         | 5         | 5         |
 
 ## Year 543 - Chapter LXII - Castle of the Hard Rock Tournament
 
@@ -188,7 +188,7 @@ In the grand melee a strange black knight was triumphant but refused Arthur’s 
 
 The Lady Lilith, feeling her years, decided to sit out the tournament this time. She found herself being approached by knights preaching strange ideas that rulership should depend on the consent of the governed. Investigating she discovered he was a knight of the late King Lot, father of Gawain and husband of Arthur’s half-sister. But further investigation showed the knight was also an associate of Sir Mordred.
 
-### Year 543-544 Winter 
+### Year 543-544 Winter
 
 * Axel - -2 DEX
 	* Girl, born 520-521 (23)
@@ -214,30 +214,30 @@ The Lady Lilith, feeling her years, decided to sit out the tournament this time.
 #### Stable
 Warhorses
 
-|| Destrier |Andalusian Charger | Charger |Courser |
-|:--|:--|:--|:--|:--|
-| Axel     | 6| 11|10| 6|
-| Elidir   | 6| 11|10| 6| 
-| Lilith   | 6| 11|10| 6| 
-| Matilda  | 6| 11|10| 6|
+|         | Destrier | Andalusian Charger | Charger | Courser |
+| :------ | :------- | :----------------- | :------ | :------ |
+| Axel    | 6        | 11                 | 10      | 6       |
+| Elidir  | 6        | 11                 | 10      | 6       |
+| Lilith  | 6        | 11                 | 10      | 6       |
+| Matilda | 6        | 11                 | 10      | 6       |
 
 Riding Horses
 
-|| Rouncy 1 |Rouncy 2 | Rouncy 3 |Rouncy 4 |
-|:--|:--|:--|:--|:--|
-| Axel     | 9| 7| 6| 6|
-| Elidir   | 9| 7| 6| 6| 
-| Lilith   | 8| 9| 6| 6| 
-| Matilda  |11| 7| 6| 6|
+|         | Rouncy 1 | Rouncy 2 | Rouncy 3 | Rouncy 4 |
+| :------ | :------- | :------- | :------- | :------- |
+| Axel    | 9        | 7        | 6        | 6        |
+| Elidir  | 9        | 7        | 6        | 6        |
+| Lilith  | 8        | 9        | 6        | 6        |
+| Matilda | 11       | 7        | 6        | 6        |
 
 Packhorses
 
-||Sumpter 1 | Sumpter 2 |Sumpter 3 | Sumpter 4  | Sumpter 5|
-|:--|:--|:--|:--|:--|:--|
-| Axel     | 5| 6| 6| 6| 6|
-| Elidir   | 7| 6| 6| 6| 6|
-| Lilith   | 5|  6| 6| 6| 6|
-| Matilda  |10| 6| 6| 6| 6|
+|         | Sumpter 1 | Sumpter 2 | Sumpter 3 | Sumpter 4 | Sumpter 5 |
+| :------ | :-------- | :-------- | :-------- | :-------- | :-------- |
+| Axel    | 5         | 6         | 6         | 6         | 6         |
+| Elidir  | 7         | 6         | 6         | 6         | 6         |
+| Lilith  | 5         | 6         | 6         | 6         | 6         |
+| Matilda | 10        | 6         | 6         | 6         | 6         |
 
 
 
@@ -249,7 +249,7 @@ At Camelot, King Mark was King Arthur's "guest" and swore fealty to Arthur at a 
 
 Sir Lamorak left early, as did Sir Gaheris. While violence between them was feared, in the end it transpired that someone murdered Queen Margawse, widow of King Lot and half-sister of King Arthur...
 
-### Year 544-545 Winter 
+### Year 544-545 Winter
 
 * Axel - wife dies in childbirth, rumor of necromancy
 	* Girl, born 520-521 (24)
@@ -277,30 +277,30 @@ Sir Lamorak left early, as did Sir Gaheris. While violence between them was fear
 #### Stable
 Warhorses
 
-|| Destrier |Andalusian Charger | Charger |Courser |
-|:--|:--|:--|:--|:--|
-| Axel     | 7| 12|11| 7|
-| Elidir   | 7| 12|11| 7|
-| Lilith    | 7| 12|11| 7| 
-| Matilda   | 7| 12|11| 7|
+|         | Destrier | Andalusian Charger | Charger | Courser |
+| :------ | :------- | :----------------- | :------ | :------ |
+| Axel    | 7        | 12                 | 11      | 7       |
+| Elidir  | 7        | 12                 | 11      | 7       |
+| Lilith  | 7        | 12                 | 11      | 7       |
+| Matilda | 7        | 12                 | 11      | 7       |
 
 Riding Horses
 
-|| Rouncy 1 |Jouncy 2 | Rouncy 3 |Rouncy 4 |
-|:--|:--|:--|:--|:--|
-| Axel     | 10| 8| 7| 7|
-| Elidir   | 10| 8| 7| 7| 
-| Lilith   | 9| 8| 7| 7| 
-| Matilda  |12| 8| 7| 7|
+|         | Rouncy 1 | Jouncy 2 | Rouncy 3 | Rouncy 4 |
+| :------ | :------- | :------- | :------- | :------- |
+| Axel    | 10       | 8        | 7        | 7        |
+| Elidir  | 10       | 8        | 7        | 7        |
+| Lilith  | 9        | 8        | 7        | 7        |
+| Matilda | 12       | 8        | 7        | 7        |
 
 Packhorses
 
-||Sumpter 1 | Sumpter 2 |Sumpter 3 | Sumpter 4  | Sumpter 5|
-|:--|:--|:--|:--|:--|:--|
-| Axel     | 6| 7| 7| 7| 7|
-| Elidir   | 8| 7| 7| 7| 7|
-| Lilith   | 6| | 7| 7| 7| 7|
-| Matilda  |11| | 7| 7| 7| 7|
+|         | Sumpter 1 | Sumpter 2 | Sumpter 3 | Sumpter 4 | Sumpter 5 |
+| :------ | :-------- | :-------- | :-------- | :-------- | :-------- |
+| Axel    | 6         | 7         | 7         | 7         | 7         |
+| Elidir  | 8         | 7         | 7         | 7         | 7         |
+| Lilith  | 6         | 7         | 7         | 7         | 7         |
+| Matilda | 11        | 7         | 7         | 7         | 7         |
 
 
 
@@ -310,5 +310,68 @@ The knights who captured King Mark participated in making sure their share of th
 That winter, Lilith's son Sir Desmond was knighted and married to Sir Gawaine's eldest daughter, the Lady Bela, who had been taught in the ways of knighthood by her late mother-in-law. She too was knighted and presented with Lilith's Red Sword.
 
 Also at the end of the year feasting did a strange Green Knight arrive at Camelot with a mystical challenge - he would take any blow from one of Arthur's Knights and one year hence, at the Green Chapel, would the Green Knight return the blow. Gawaine did so, severing the knight's head. Who grasped his decapitated head, bowed, and said he would see Gawaine one year hence.
+
+### Winter 545-546
+* Axel - Marries daughter of vassal knight
+	* Girl, born 520-521 (25)
+	* Boy, born 523-524 (22) 
+	* Girl, born 529-530 (16)
+	* Girl, born 534-535 (11)
+	* Boy, born  544-545 (1)
+* Lilith - RIP age 42 
+	* Boy, Born 525-526 (19) - marries the knight, Lady Bella, daughter of Gawain
+	* Boy, born 527-528 (16) 
+	* Girl, born 530-531 (15) 
+	* Boy, born 530-531 (15) 
+	* Boy, born 540-541 (5)
+* Matilda - 
+	* Boy, born 532-533 (13)
+	* Girl, born 534-535 (11)
+	* Boy, born 535-536 (10)
+	* Girl, born 542-543 (3)
+* Elidir -
+	* Boy, born 535-536 (10)
+	* Boy, born 536-537 (9)
+	* Girl, born 544-545 (1)
+
+#### Stable
+Warhorses
+
+|         | Destrier | Andalusian Charger | Charger | Courser |
+| :------ | :------- | :----------------- | :------ | :------ |
+| Axel    | 8        | 13                 | 12      | 8       |
+| Elidir  | 8        | 13                 | 12      | 8       |
+| Lilith  | 8        | 13                 | 12      | 8       |
+| Matilda | 8        | 13                 | 12      | 8       |
+
+Riding Horses
+
+|         | Rouncy 1 | Jouncy 2 | Rouncy 3 | Rouncy 4 |
+| :------ | :------- | :------- | :------- | :------- |
+| Axel    | 11       | 9        | 8        | 8        |
+| Elidir  | 11       | 9        | 8        | 8        |
+| Lilith  | 10       | 9        | 8        | 8        |
+| Matilda | 13       | 9        | 8        | 8        |
+
+Packhorses
+
+|         | Sumpter 1 | Sumpter 2 | Sumpter 3 | Sumpter 4 | Sumpter 5 |
+| :------ | :-------- | :-------- | :-------- | :-------- | :-------- |
+| Axel    | 7         | 8         | 8         | 8         | 8         |
+| Elidir  | 9         | 8         | 8         | 8         | 8         |
+| Lilith  | 7         | 8         | 8         | 8         | 8         |
+| Matilda | 12        | 8         | 8         | 8         | 8         |
+
+
+## Year 546 - Chapter LXX- Sir Gawain and the Green Knight
+
+Axel, Elidir, and Matilda were joined by Bela, daughter of Gawain and daughter-in-law of the late Lilith. For their first journey they accompanied Gawain as he searched for the Green Chapel.
+
+They were often separated from Gawain, who went off to look for leads. During on of those times they slew the Nunnington Dragon, chasing it into a giant hollowed out tree - and aided by the Hound of Sool who prevented it from regenerating as it sought to.
+
+The journey lasted long, with Elidir eager to return home to his manor and husband. However, they were forced to spend Christmas at a lord’s castle who told them the chapel was but hours away. The lord went hunting during the day, promising Gawain whatever he caught and asking Gawain that he in return give him anything he gain in the castle. This had the potential to get awkward with the lord’s wife nearly throwing herself at Gawain but Gawain stayed true. However, she also gave him a sash which would protect him from the Green Knight, something he did not give to the lord - with his companions unable to tell him the proper honorable course of action.
+
+The sash did protect Sir Gawain, though at a loss of honor, for the Green Knight was the very lord whose castle they had stayed at. And they learned the Green Knight had been enchanted by none other than Morgan le Fay - who had been in disguise as an old serving woman at the lord’s castle.
+
 
 [image-1]:	./maps/pendragon_player.png
