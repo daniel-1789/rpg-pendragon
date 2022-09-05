@@ -318,21 +318,22 @@ Also at the end of the year feasting did a strange Green Knight arrive at Camelo
 	* Girl, born 529-530 (16)
 	* Girl, born 534-535 (11)
 	* Boy, born  544-545 (1)
+* Bela -
+* Matilda - 
+	* Boy, born 532-533 (13)
+	* Girl, born 534-535 (11)
+	* Boy, born 535-536 (10)
+	* Girl, born 542-543 (3)
+* Elidir -Birth in family
+	* Boy, born 535-536 (10)
+	* Boy, born 536-537 (9)
+	* Girl, born 544-545 (1)
 * Lilith - RIP age 42 
 	* Boy, Born 525-526 (19) - marries the knight, Lady Bella, daughter of Gawain
 	* Boy, born 527-528 (16) 
 	* Girl, born 530-531 (15) 
 	* Boy, born 530-531 (15) 
 	* Boy, born 540-541 (5)
-* Matilda - 
-	* Boy, born 532-533 (13)
-	* Girl, born 534-535 (11)
-	* Boy, born 535-536 (10)
-	* Girl, born 542-543 (3)
-* Elidir -
-	* Boy, born 535-536 (10)
-	* Boy, born 536-537 (9)
-	* Girl, born 544-545 (1)
 
 #### Stable
 Warhorses
@@ -363,6 +364,8 @@ Packhorses
 | Matilda | 12        | 8         | 8         | 8         | 8         |
 
 
+
+
 ## Year 546 - Chapter LXX- Sir Gawain and the Green Knight
 
 Axel, Elidir, and Matilda were joined by Bela, daughter of Gawain and daughter-in-law of the late Lilith. For their first journey they accompanied Gawain as he searched for the Green Chapel.
@@ -371,7 +374,71 @@ They were often separated from Gawain, who went off to look for leads. During on
 
 The journey lasted long, with Elidir eager to return home to his manor and husband. However, they were forced to spend Christmas at a lord’s castle who told them the chapel was but hours away. The lord went hunting during the day, promising Gawain whatever he caught and asking Gawain that he in return give him anything he gain in the castle. This had the potential to get awkward with the lord’s wife nearly throwing herself at Gawain but Gawain stayed true. However, she also gave him a sash which would protect him from the Green Knight, something he did not give to the lord - with his companions unable to tell him the proper honorable course of action.
 
-The sash did protect Sir Gawain, though at a loss of honor, for the Green Knight was the very lord whose castle they had stayed at. And they learned the Green Knight had been enchanted by none other than Morgan le Fay - who had been in disguise as an old serving woman at the lord’s castle.
+The sash did protect Sir Gawain, though at a loss of honor, for the Green Knight was the very lord whose castle they had stayed at. And they learned the Green Knight had been enchanted by none other than Morgan Le Fay - who had been in disguise as an old serving woman at the lord’s castle.
 
+### Winter 546-547
+* Axel -
+	* Girl, born 520-521 (26)
+	* Boy, born 523-524 (23) 
+	* Girl, born 529-530 (17)
+	* Girl, born 534-535 (12)
+	* Boy, born  544-545 (2)
+* Bela - No kids, scandal sister adulterer?
+*  Matilda - Family member missing
+	* Boy, born 532-533 (14)
+	* Girl, born 534-535 (12)
+	* Boy, born 535-536 (11)
+	* Girl, born 542-543 (4)
+* Elidir -
+	* Boy, born 535-536 (11)
+	* Boy, born 536-537 (10)
+	* Girl, born 544-545 (2)
+* Lilith - RIP 
+	* Boy, Born 525-526 (20) - marries the knight, Lady Bella, daughter of Gawain
+	* Boy, born 527-528 (17) 
+	* Girl, born 530-531 (16) 
+	* Boy, born 530-531 (16) 
+	* Boy, born 540-541 (6)
+
+#### Stable
+Warhorses
+
+|         | Destrier | Andalusian Charger | Charger | Courser |
+| :------ | :------- | :----------------- | :------ | :------ |
+| Axel    | 9        | 4                  | 13      | 9       |
+| Elidir  | 9        | 4                  | 4       | 9       |
+| Bela    | 9        | 14                 | 13      | 9       |
+| Matilda | 9        | 15                 | 13      | 9       |
+
+Riding Horses
+
+|         | Rouncy 1 | Jouncy 2 | Rouncy 3 | Rouncy 4 |
+| :------ | :------- | :------- | :------- | :------- |
+| Axel    | 12       | 10       | 9        | 9        |
+| Elidir  | 4        | 10       | 9        | 9        |
+| Bela    | 11       | 10       | 9        | 9        |
+| Matilda | 4        | 10       | 9        | 9        |
+
+Packhorses
+
+|         | Sumpter 1 | Sumpter 2 | Sumpter 3 | Sumpter 4 | Sumpter 5 |
+| :------ | :-------- | :-------- | :-------- | :-------- | :-------- |
+| Axel    | 8         | 9         | 9         | 9         | 9         |
+| Elidir  | 10        | 9         | 9         | 9         | 9         |
+| Bela    | 8         | 9         | 9         | 9         | 9         |
+| Matilda | 4         | 9         | 9         | 9         | 9         |
+
+## Year 547 - Chapter LXXI- The Goblin Market
+The Lady Elaine arrived in Camelot with a young son, Galahad, who looked remarkably like Lancelot. Oddly she looked a bit like the Queen… This caused quite the row between Lancelot and the Queen who banished him.
+
+The four knights adventured into the wasteland, with Elidir having heard rumor that King Cawdy's daughter had been inflicted by aging similar to what Arthur seemed to be suffering from. 
+
+King Cawdy's daughter, Alene, though barely into her adulthood, appeared ancient. Her maid explained it was from eating fruits from the Goblin Market. The four sought out such a market, running into a storyteller peasant named Robin who showed them the way. After quite the scuffle with goblins they learned the goblins had indeed taken Alene’s soul, causing her aging - and had sold her soul in the Fair of the Woods to a red-eyed merchant. 
+
+At the mysterious fair they answered the fair master’s riddle and were admitted. They eventually found the red-eyed merchant who confirmed he did indeed have the Princess Alene’s soul - and he would be prepared to trade it for a circlet. He also had a clock with a knight, Sir Tegvan, as part of it. He indicated he was willing to negotiate for that as well.
+
+Focusing on the Circlet first they braved a trial of fire but then the mighty elf knight master of the Fair, Sir Vesper, challenged them to battle. Lady Matilda fell, mortally wounded, as did Elidir, though less grievously wounded.  Eventually they defeated him and agreed to a life for a life, restoring Matilda to health - though perhaps a little…. Different.
+
+The red-eyed merchant exchanged the circlet for Alene’s soul, and in so doing revealed himself to be both the storyteller Robin and the faerie Puck. He tried wearing the circlet but melted away…. Dead? Probably not. Sir Vesper offered them the contents of the clock in return for one service approved by their liege lord. Agreeing he opened it, releasing Sir Tegvan - and the Saxon Caelin, son of Cynric, grandson of King Cerdic - he too had fallen into the fey trap. They took Caelin to Arthur where he would be ransomed back to his family. A grateful King Cawdy offered the hand of his daughter in marriage to Sir Axel’s eldest son.
 
 [image-1]:	./maps/pendragon_player.png
