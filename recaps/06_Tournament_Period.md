@@ -493,4 +493,65 @@ Before departing for Camelot, Axel’s son Maug married Alene and Elidir’s son
 
 The tournament had a variety of guests, including the Saxon Caelin, awaiting his ransom home, and Sir Zephyr of the Fae. The joust was unusually brutal with Matilda holding a grudge against Caelin and his family, the two of them greatly injuring each other. Lewys jousted against Zephyr, seeking vengeance for Zephyr’s wounds against his father, who had retired from active adventure as a result of them. In the end it was Zephyr who won the joust but Bela, daughter of Gawain and daughter-in-law of Lilith, was champion of the melee.
 
+### Winter 548-549
+* Axel -
+	* Girl, born 520-521 (28)
+	* Maug II, born 523-524 (25), Son Born
+	* Girl, born 529-530 (19)
+	* Girl, born 534-535 (14)
+	* Boy, born  544-545 (4) - dies of illness
+	* Boy, born 547-548 (1)
+* Bela - Daughter Born
+	* Boy, born 547-548 (1)
+	* Girl, born 548-549 (0)
+*  Matilda - 
+	* Boy, born 532-533 (16)
+	* Girl, born 534-535 (14)
+	* Boy, born 535-536 (13)
+	* Girl, born 542-543 (6)
+	* Boy, born 547-548 (1)
+* Lewys -
+
+
+#### Stable
+Warhorses
+
+|         | Destrier | Andalusian Charger | Charger | Courser |
+| :------ | :------- | :----------------- | :------ | :------ |
+| Axel    | 11       | 6                  | 5       | 11      |
+| Lewys   | 4        | 6                  | 6       | 11      |
+| Bela    | 11       | 5                  | 5       | 11      |
+| Matilda | 11       | 5                  | 5       | 4       |
+
+Riding Horses
+
+|         | Rouncy 1 | Rouncy 2 | Rouncy 3 | Rouncy 4 |
+| :------ | :------- | :------- | :------- | :------- |
+| Axel    | 5        | 4        | 11       | 5        |
+| Lewys   | 6        | 12       | 11       | 11       |
+| Bela    | 4        | 5        | 11       | 5        |
+| Matilda | 6        | 12       | 11       | 11       |
+
+Packhorses
+
+|         | Sumpter 1 | Sumpter 2 | Sumpter 3 | Sumpter 4 | Sumpter 5 |
+| :------ | :-------- | :-------- | :-------- | :-------- | :-------- |
+| Axel    | 10        | 11        | 11        | 5         | 5         |
+| Lewys   | 5         | 5         | 5         | 11        | 11        |
+| Bela    | 10        | 11        | 4         | 11        | 5         |
+| Matilda | 6         | 11        | 5         | 11        | 11        |
+
+
+## Year 549 - Chapter LXXIII- The King’s Justice
+
+That winter Bela had investigated the disappearance of Sir Kay. Not only had he fled, he had apparently stolen away with Excalibur. Kay had apparently traveled beyond the faerie vail in search of sanctuary. Axel, Bela, Lewis, and Matilda traveled to the land of King Cawdy, father-in-law to Axel’s son, Maug II. There they knew there were passages to the Faerie. They learned from Robin Goodfellow (apparently not quite dead) Kay had indeed passed but knew little more. 
+
+In an audience before King Oberon and Queen Titania the four parleyed. The two were loath to provide assistance or grant safe passage without a price being paid. In the end Sir Axel, feeling his 30 years of knighthood agreed to their terms - he would stay and serve the faerie court after they achieved their mission.
+
+They then learned that he had traveled to the underlie court and had exchanged Excalibur for the protection of Duke Kingsor. Back in 515 their forebears Calliope, Heckle, Leofric, and Maul battled Kingsor to protect Castle Joy. In addition to protecting Sir Kay, Queen Maeve was staying at Kingsor’s castle. 
+
+After much parley they convinced Kingsor the sword had been stolen and it was not Kay’s to give. Kay demanded the right to prove himself by battle - leading to Axel making short work of Kay, decapitating him in one blow. 
+  
+Axel kept his word and remained in faerie, presenting his enchanted axe to be given to his son. The remainder then presented Excalibur and the head of Kay to King Arthur.
+
 [image-1]:	./maps/pendragon_player.png
