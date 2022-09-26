@@ -554,4 +554,64 @@ After much parley they convinced Kingsor the sword had been stolen and it was no
   
 Axel kept his word and remained in faerie, presenting his enchanted axe to be given to his son. The remainder then presented Excalibur and the head of Kay to King Arthur.
 
+
+### Winter 549-550
+* Bela -
+	* Boy, born 547-548 (2)
+	* Girl, born 548-549 (1)
+* Maug II, born 523-524 (26) -
+	* Boy, born 548-549  (1)
+	* Boy, born 549-550 (0)
+*  Matilda - -1 STR, -1 APP
+	* Boy, born 532-533 (17)
+	* Girl, born 534-535 (15)
+	* Boy, born 535-536 (14)
+	* Girl, born 542-543 (7)
+	* Boy, born 547-548 (2)
+	* Boy, born 549-550 (0)
+* Lewys -
+	* Boy, born 549-550 (0)
+
+
+#### Stable
+Warhorses
+
+|         | Destrier | Andalusian Charger | Charger | Courser |
+| :------ | :------- | :----------------- | :------ | :------ |
+| Maug    | 12       | 7                  | 6       | 12      |
+| Lewys   | 5        | 7                  | 7       | 12      |
+| Bela    | 12       | 6                  | 6       | 4       |
+| Matilda | 4        | 6                  | 6       | 5       |
+
+Riding Horses
+
+|         | Rouncy 1 | Rouncy 2 | Rouncy 3 | Rouncy 4 |
+| :------ | :------- | :------- | :------- | :------- |
+| Maug    | 6        | 5        | 12       | 6        |
+| Lewys   | 7        | 13       | 12       | 4        |
+| Bela    | 5        | 4        | 4        | 6        |
+| Matilda | 7        | 4        | 4        | 12       |
+
+Packhorses
+
+|         | Sumpter 1 | Sumpter 2 | Sumpter 3 | Sumpter 4 | Sumpter 5 |
+| :------ | :-------- | :-------- | :-------- | :-------- | :-------- |
+| Maug    | 11        | 12        | 4         | 6         | 6         |
+| Lewys   | 6         | 6         | 6         | 12        | 12        |
+| Bela    | 11        | 4         | 5         | 12        | 6         |
+| Matilda | 7         | 12        | 4         | 12        | 4         |
+
+
+## Year 550 - Chapter LXXIV- Stone House Visit
+
+Maug II, son of Axel and grandson of Maug, joined with the knights Bela, Lewis, and Matilda for an adventure in Cornwall. They had learned, from Sir Tristam, a young widow, Laid Melia, was being kept a prisoner by her former brother-in-to keep income from her lands. 
+
+As they journeyed in Cornwall they passed ruins - as if a great explosion scooped a hole in the Earth, perhaps five years prior. They saw remains of strange yellow and red symbols on some ruined wood and stone. Local peasants told them this was the work of the Squire Priest, a sorcerer working for King Mark - he apparently accidentally destroyed an entire village here. 
+
+They reached the manor of the Knight of Stone where Lady Melia was imprisoned. While they parleyed the lady herself bolted out, with the four knights covering her as Lady Matilda helped her ride off. 
+
+As they escaped, Melia asked them for a firepot as there was something they had to see. Giving her one - and providing her with her own horse, they followed her to a Cornish village with slaves laboring at a stone building with the same yellow and red symbols they had seen before. Covering her and battling Cornish warriors, they watched the building immediately go ablaze as she tossed the firepot onto its roof. They quickly fled as the stone building was engulfed in fire. She told them this was why she had been imprisoned, as she had been learning of King Mark’s sponsorship of the Squire Priest to possibly build a weapon against King Arthur.
+
+However, the destruction brought attention and they had to fight their way out of Cornwall. Banneret Cesar Stone led a troop of knights against them. Though they protected their charge, Matilda fell in the effort, mortally wounded by Stone. Bela drove Stone off his horse, possibly slaying him in the process, though they had no time to confirm, as their need to escape Cornwall and report to King Arthur was great. 
+
 [image-1]:	./maps/pendragon_player.png
