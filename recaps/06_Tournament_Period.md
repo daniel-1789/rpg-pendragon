@@ -614,4 +614,63 @@ As they escaped, Melia asked them for a firepot as there was something they had 
 
 However, the destruction brought attention and they had to fight their way out of Cornwall. Banneret Cesar Stone led a troop of knights against them. Though they protected their charge, Matilda fell in the effort, mortally wounded by Stone. Bela drove Stone off his horse, possibly slaying him in the process, though they had no time to confirm, as their need to escape Cornwall and report to King Arthur was great. 
 
+
+### Winter 550-551
+* Bela -Husband dies pf plague, father-in-law remarries`
+	`* Boy, born 547-548 (3) - dies of plague
+	* Girl, born 548-549 (2)
+	* Girl, born 550-551 - dies after birth
+* Maug II, born 523-524 (27) -mother remarries
+	* Boy, born 548-549  (2)
+	* Boy, born 549-550 (1)
+* John Snow, born 532-533 (18) - Mother Matilda dies, courting widow Laid Melia
+* Lewys - Sister marries
+	* Boy, born 549-550 (1)
+
+
+#### Stable
+Warhorses
+
+|       | Destrier | Andalusian Charger | Charger | Courser |
+| :---- | :------- | :----------------- | :------ | :------ |
+| Maug  | 4        | 8                  | 7       | 4       |
+| Lewys | 6        | 8                  | 8       | 4       |
+| Bela  | 4        | 7                  | 7       | 5       |
+| John  | 5        | 7                  | 7       | 6       |
+
+Riding Horses
+
+|       | Rouncy 1 | Rouncy 2 | Rouncy 3 | Rouncy 4 |
+| :---- | :------- | :------- | :------- | :------- |
+| Maug  | 7        | 6        | 13       | 7        |
+| Lewys | 8        | 4        | 4        | 5        |
+| Bela  | 6        | 5        | 5        | 7        |
+| John  | 8        | 5        | 5        | 13       |
+
+Packhorses
+
+|       | Sumpter 1 | Sumpter 2 | Sumpter 3 | Sumpter 4 | Sumpter 5 |
+| :---- | :-------- | :-------- | :-------- | :-------- | :-------- |
+| Maug  | 12        | 4         | 5         | 7         | 7         |
+| Lewys | 7         | 7         | 7         | 4         | 4         |
+| Bela  | 12        | 5         | 6         | 4         | 7         |
+| John  | 8         | 13        | 5         | 4         | 5         |
+
+
+## Year 551 - Chapter LXXV- The Tournament of OverThere
+
+Shortly after midsummer, Arthur summoned all of his knights who were at Camelot to assemble in the night. The aged and inform king told them that King Today had invited Arthur and his knights to a tournament. The Lady Nimue explained some basic rules - since they had been invited they could partake of food and other gifts so long as they were appropriate to the knight’s station. 
+
+Crossing over they found themselves in the sunlit realms of the faerie. Before the tournament took place, Arthur held court. A remarkable thing took place, with Sir Mordred claiming to be Arthur’s son through his mother Margawse, the king’s half-sister. Mordred claimed when Lancelot returned all would be confirmed.
+
+In the tournament itself, Sir John accounted well for himself, defeating Sir Axel, now of the faerie in his first tilt. In his second he defeated on of Lilith’s sons. He was victorious against the dwarf Gimli but in the fourth tilt he saw Arthur was his next opponent. Not wishing to unhorse his king he chose th lose with dignity. However Sir Mordred had no such hesitance, unhorsing his purported father, and won the joust. 
+
+Within the melee, Maug, Lewys, and John fought well, defeating Axel and Zephyr in battle. At the melee’s end John was named champion.
+
+While her companions fought, Bela explored the faerie lands - the lake, the city, and castle. She spoke with King Today, telling him tales of their adventures. In return, the King promised her a favor. She also encountered a hag who prophesied:
+> The kingdom shall fall when father battles son and son battles father, chance of peace ended by treasonous serpent. 
+Finally she saw great boats of the faerie and learned some of their craft.
+
+The knights returned to Camelot, despite King Today’s offer they could stay. That winter, at long last, Lancelot returned to court and released from an oath of secrecy, confirmed Mordred’s parentage as a priest had told them years previous. 
+
 [image-1]:	./maps/pendragon_player.png
