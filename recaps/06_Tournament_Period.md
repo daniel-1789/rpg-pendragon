@@ -616,14 +616,14 @@ However, the destruction brought attention and they had to fight their way out o
 
 
 ### Winter 550-551
-* Bela -Husband dies pf plague, father-in-law remarries`
-	`* Boy, born 547-548 (3) - dies of plague
+* Bela -Husband dies pf plague, father-in-law remarries\`
+	\`\* Boy, born 547-548 (3) - dies of plague
 	* Girl, born 548-549 (2)
 	* Girl, born 550-551 - dies after birth
 * Maug II, born 523-524 (27) -mother remarries
 	* Boy, born 548-549  (2)
 	* Boy, born 549-550 (1)
-* John Snow, born 532-533 (18) - Mother Matilda dies, courting widow Laid Melia
+* John Snow, born 532-533 (18) - Mother Matilda dies, courting widow Lady Melia
 * Lewys - Sister marries
 	* Boy, born 549-550 (1)
 
@@ -672,5 +672,57 @@ While her companions fought, Bela explored the faerie lands - the lake, the city
 Finally she saw great boats of the faerie and learned some of their craft.
 
 The knights returned to Camelot, despite King Today’s offer they could stay. That winter, at long last, Lancelot returned to court and released from an oath of secrecy, confirmed Mordred’s parentage as a priest had told them years previous. 
+
+
+### Winter 551-552
+* Bela - marriage in family
+	* Girl, born 548-549 (3)
+* Maug II, born 523-524 (28) - son born
+	* Boy, born 548-549  (3)
+	* Boy, born 549-550 (2)
+	* Boy, born 551-552 (0)
+* John Snow, born 532-533 (18) - courting widow Lady Melia, birth in family
+* Lewys - Son, family missing
+	* Boy, born 549-550 (2)
+	*  Boy, born 551-552 (0)
+
+
+
+#### Stable
+Warhorses
+
+|       | Destrier | Andalusian Charger | Charger | Courser |
+| :---- | :------- | :----------------- | :------ | :------ |
+| Maug  | 5        | 9                  | 8       | 5       |
+| Lewys | 7        | 9                  | 9       | 5       |
+| Bela  | 5        | 8                  | 4       | 6       |
+| John  | 6        | 8                  | 8       | 7       |
+
+Riding Horses
+
+|       | Rouncy 1 | Rouncy 2 | Rouncy 3 | Rouncy 4 |
+| :---- | :------- | :------- | :------- | :------- |
+| Maug  | 8        | 7        | 4        | 8        |
+| Lewys | 9        | 5        | 5        | 8        |
+| Bela  | 7        | 6        | 6        | 4        |
+| John  | 9        | 6        | 6        | 14       |
+
+Packhorses
+
+|       | Sumpter 1 | Sumpter 2 | Sumpter 3 | Sumpter 4 | Sumpter 5 |
+| :---- | :-------- | :-------- | :-------- | :-------- | :-------- |
+| Maug  | 13        | 5         | 6         | 8         | 8         |
+| Lewys | 8         | 8         | 8         | 5         | 5         |
+| Bela  | 13        | 6         | 7         | 5         | 8         |
+| John  | 9         | 4         | 6         | 5         | 6         |
+
+
+## Year 552 - Chapter LXXVI- The War Against Duke Klingsor
+
+Sir Zephyr informed the knights that King Today of the faerie needed their aid and he was calling in the favor the knights owed Sir Zephyr.
+
+As they crossed into the Faerie Lands, they found that Cleopolis, city of King Today, Oberon, was soon to be attacked by the forces of Queen Maeve, allied with the demonic Duke Klingsor - rumor had it he even controlled her. If Maeve’s unseelie forces triumphed, all balance would be lost, with the seelie becoming more like the unseelie and the unseelie becoming as if demons. They saw many knights had joined in this Great War, including Mordred, bastard son of Arthur.
+
+Sir Axel of the Faerie arranged the forces, with the main force being aligned against the unseelie horde. However, a second squad, led by Bela, John, Lewys, and Maug stayed in reserve, waiting their moment to attack the demonic forces of Klingsor. When their chance arose they waded through rank upon rank of forces of hell. Sir John was unhorsed and nearly slain, recovering only due to his great injuries being treated by Lady Bela. In battle with Klingsor she too fell, greatly wounded, with the wicked duke finally slain by Sir Lewys and Maug.
 
 [image-1]:	./maps/pendragon_player.png
