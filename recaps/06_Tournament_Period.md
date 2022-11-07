@@ -725,4 +725,54 @@ As they crossed into the Faerie Lands, they found that Cleopolis, city of King T
 
 Sir Axel of the Faerie arranged the forces, with the main force being aligned against the unseelie horde. However, a second squad, led by Bela, John, Lewys, and Maug stayed in reserve, waiting their moment to attack the demonic forces of Klingsor. When their chance arose they waded through rank upon rank of forces of hell. Sir John was unhorsed and nearly slain, recovering only due to his great injuries being treated by Lady Bela. In battle with Klingsor she too fell, greatly wounded, with the wicked duke finally slain by Sir Lewys and Maug.
 
+
+### Winter 552-553
+* Bela - marriage to Morgana, daughter of Lilith
+	* Girl, born 548-549 (4)
+	* Girl, born 552-553 (0)
+* Maug II, born 523-524 (29)
+	* Boy, born 548-549  (4)
+	* Boy, born 549-550 (3)
+	* Boy, born 551-552 (1)
+* John Snow, born 532-533 (19) - marries widow Lady Melia
+* Lewys - 
+	* Boy, born 549-550 (3)
+	*  Boy, born 551-552 (1)
+
+
+
+#### Stable
+Warhorses
+
+|       | Destrier | Andalusian Charger | Charger | Courser |
+| :---- | :------- | :----------------- | :------ | :------ |
+| Maug  | 6        | 10                 | 9       | 6       |
+| Lewys | 8        | 10                 | 10      | 6       |
+| Bela  | 6        | 9                  | 5       | 7       |
+| John  | 7        | 9                  | 9       | 8       |
+
+Riding Horses
+
+|       | Rouncy 1 | Rouncy 2 | Rouncy 3 | Rouncy 4 |
+| :---- | :------- | :------- | :------- | :------- |
+| Maug  | 9        | 8        | 5        | 9        |
+| Lewys | 10       | 6        | 6        | 9        |
+| Bela  | 8        | 7        | 7        | 5        |
+| John  | 10       | 7        | 7        | 4        |
+
+Packhorses
+
+|       | Sumpter 1 | Sumpter 2 | Sumpter 3 | Sumpter 4 | Sumpter 5 |
+| :---- | :-------- | :-------- | :-------- | :-------- | :-------- |
+| Maug  | 4         | 6         | 7         | 9         | 9         |
+| Lewys | 9         | 9         | 9         | 6         | 6         |
+| Bela  | 4         | 7         | 8         | 6         | 9         |
+| John  | 9         | 5         | 7         | 6         | 7         |
+
+## Year 553 - Chapter LXXVII - Raiding King Mark
+
+King Mark continued to hold back his tribute to Arthur while the rapidly aging king doddered and the blight affected most of the kingdom.
+
+Bela, John, Lewys, and Maug led a raiding party into Cornwall to take part of the tribute by force. Though they were successful, they found themselves facing a strange fire-spewing mechanical device - not quite completed, but clearly Mark was planning something amiss…
+
 [image-1]:	./maps/pendragon_player.png
