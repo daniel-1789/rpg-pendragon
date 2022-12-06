@@ -837,4 +837,21 @@ They then readied for the feast. But then an image of the Holy Grail appeared be
 
 Arthur himself wept, knowing many of those knights questing would never return and his realm would never be the same…
 
+
+## Year 555 - Chapter LXXIX - The Invasion of King Mark
+
+After decades of peace, Arthur’s Britain was under invasion. While the knights of the Round Table - and many of his other greatest knights - were questing for the the Holy Grail, King Mark seized the opportunity to invade, using weapons of dark magic and science.
+
+With many of the greatest knights of Earl Robert questing, others of his realm were forced to step up. They included:
+- Sir Percy, cousin to John Snow
+- Lady Morgana, daughter of Lilith and wife of Bela
+- Sir Axel, faerie knight and father of Sir Maug II
+- Sir Eliver ap Elidir, holy Christian knight, brother of Lewys
+
+Sir Mark’s weapon was shown to be able to easily blast holes in the stoutest of gates. As the invasion headed for Salisbury, Percy, Morgana, Axel, and Oliver assembled what forces they could to drive them off. They battled their way through Cornish knights and Saxon mercenaries to at last destroy the weapon and protect the realm. 
+
+King Mark was forced to retreat, though not before he captured his estranged wife, Isolde, from her lover, Sir Tristan.
+
+
+
 [image-1]:	./maps/pendragon_player.png
