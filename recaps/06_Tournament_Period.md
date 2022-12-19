@@ -837,6 +837,55 @@ They then readied for the feast. But then an image of the Holy Grail appeared be
 
 Arthur himself wept, knowing many of those knights questing would never return and his realm would never be the same…
 
+### Winter 554-555
+* Bela - adopts son w/ Morgana
+	* Girl, born 548-549 (6)
+	* Boy, born 548-549 (60
+	* Girl, born 552-553 (2)
+	* Girl, born 553-554 (1)
+* Maug II, born 523-524 (31), Youngest son dies of illness
+	* Boy, born 548-549  (6)
+	* Boy, born 549-550 (5)
+	* Boy, born 551-552 (3) - dies
+* John Snow, born 532-533 (21), son born, 
+	* Boy, born 553-554 (1)
+	* Boy, born 554-555 (00
+* Lewys - adopt 7 year old daughter,
+	* Girl, born 547-548 (7)
+	*  Girl, born 547-548 (7)
+	* Boy, born 549-550 (5)
+	*  Boy, born 551-552 (3)
+
+
+
+#### Stable
+Warhorses
+
+|       | Destrier | Andalusian Charger | Charger | Courser |
+| :---- | :------- | :----------------- | :------ | :------ |
+| Maug  | 7        | 4                  | 10      | 7       |
+| Lewys | 9        | 11                 | 11      | 7       |
+| Bela  | 6        | 10                 | 6       | 8       |
+| John  | 8        | 10                 | 10      | 9       |
+
+Riding Horses
+
+|       | Rouncy 1 | Rouncy 2 | Rouncy 3 | Rouncy 4 |
+| :---- | :------- | :------- | :------- | :------- |
+| Maug  | 10       | 9        | 6        | 10       |
+| Lewys | 11       | 7        | 7        | 10       |
+| Bela  | 9        | 8        | 8        | 6        |
+| John  | 11       | 8        | 8        | 5        |
+
+Packhorses
+
+|       | Sumpter 1 | Sumpter 2 | Sumpter 3 | Sumpter 4 | Sumpter 5 |
+| :---- | :-------- | :-------- | :-------- | :-------- | :-------- |
+| Maug  | 5         | 7         | 8         | 10        | 10        |
+| Lewys | 10        | 10        | 10        | 7         | 7         |
+| Bela  | 5         | 8         | 9         | 7         | 4         |
+| John  | 10        | 6         | 8         | 7         | 8         |
+
 
 ## Year 555 - Chapter LXXIX - The Invasion of King Mark
 
@@ -853,5 +902,68 @@ Sir Mark’s weapon was shown to be able to easily blast holes in the stoutest o
 King Mark was forced to retreat, though not before he captured his estranged wife, Isolde, from her lover, Sir Tristan.
 
 
+### Winter 555-556
+Note - main knights on Grail Quest
+* Bela -
+	* Girl, born 548-549 (7)
+	* Boy, born 548-549 (7)
+	* Girl, born 552-553 (3.)
+	* Girl, born 553-554 (2)
+* Maug II, born 523-524 (32)
+	* Boy, born 548-549  (7)
+	* Boy, born 549-550 (6
+* John Snow, born 532-533 (22),, 
+	* Boy, born 553-554 (2)
+	* Boy, born 554-555 (1)
+* Lewys -,
+	* Girl, born 547-548 (8)
+	*  Girl, born 547-548 (8)
+	* Boy, born 549-550 (6)
+	*  Boy, born 551-552 (4)
+
+#### Stable
+Warhorses
+
+|       | Destrier | Andalusian Charger | Charger | Courser |
+| :---- | :------- | :----------------- | :------ | :------ |
+| Maug  | 8        | 5                  | 11      | 8       |
+| Lewys | 10       | 4                  | 4       | 8       |
+| Bela  | 7        | 11                 | 7``     | 8       |
+| John  | 9        | 11                 | 11      | 10      |
+
+Riding Horses
+
+|       | Rouncy 1 | Rouncy 2 | Rouncy 3 | Rouncy 4 |
+| :---- | :------- | :------- | :------- | :------- |
+| Maug  | 4        | 10       | 7        | 4        |
+| Lewys | 4        | 8        | 8        | 11       |
+| Bela  | 10       | 9        | 9``      | 7        |
+| John  | 4        | 9        | 9        | 6        |
+
+Packhorses
+
+|       | Sumpter 1 | Sumpter 2 | Sumpter 3 | Sumpter 4 | Sumpter 5 |
+| :---- | :-------- | :-------- | :-------- | :-------- | :-------- |
+| Maug  | 6         | 8         | 9         | 11        | 4         |
+| Lewys | 11        | 11        | 4         | 8         | 8         |
+| Bela  | 6         | 9         | 10        | 8         | 5         |
+| John  | 11        | 7         | 9         | 8         | 9         |
+
+
+## Year 556 - Chapter LXXX - The Portal to Avalon
+
+The quest for the grail was a brutal one. The unlabeled chairs at the Round Table told the tale of many dead knights. The kingdom had been left unprotected from King Mark’s attacks. And rumor had it that Lancelot himself had been lost.
+
+And yet Bela, John, Lewys, and Maug continued the search, even as their loved ones and kin protected the land from King Mark.
+
+Their journey took them to a path that descended into the Earth, into the Faerie realms, guarded by a fiendish troll. Did they need to go there? Was the path to the grail through the Fae realms. Most felt unsure, but Bela had business to conduct there. Believing the prophecy that the end of the reign of Arthur was drawing near and her people needed to be protected. They vanquished the fiend, battling it without armor, as divine inspiration told them whatever they wore would add to its power. 
+
+King Today greeted them and told them that he was indeed willing to shelter any of their people should the unthinkable happen. Yet when the grail was found the most of the connections between the realms would close. But… If there were to be an island in Avalon, near Calmann, peopled by Faerie, tended by them and their livestock, that portal would remain open.
+
+They treated with Puck who had a group of peasants and some hardy faerie livestock that he agreed to part with them if those peasants who came across later would give their allegiance to the Faerie Folk.
+
+King Today also prophesied the location of the Grail, warning them not to allow any knight who battled them in to escape out a door and return, to always wear their armor when being tested.
+
+Upon returning to Britain they traveled with their Fae caravan to Calmann, though en route they were attached by a fiendish knight and his devil dog. They battled their way past both and then secured Lady Nimue’s permission that the Fae folk and their livestock could settle there.
 
 [image-1]:	./maps/pendragon_player.png
