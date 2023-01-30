@@ -108,21 +108,21 @@ Note - main knights on Grail Quest
 #### Stable
 Warhorses
 
-|       | Destrier | Andalusian Charger | Charger                                                                                                                           | Courser |
-| :---- | :------- | :----------------- | :-------------------------------------------------------------------------------------------------------------------------------- | :------ |
-| Maug  | 8        | 5                  | 11                                                                                                                                | 8       |
-| Lewys | 10       | 4                  | 4                                                                                                                                 | 8       |
-| Bela  | 7        | 11                 | 7\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\`\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\` | 8       |
-| John  | 9        | 11                 | 11                                                                                                                                | 10      |
+|       | Destrier | Andalusian Charger | Charger                                                                                                                                                                                                                                                           | Courser |
+| :---- | :------- | :----------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ |
+| Maug  | 8        | 5                  | 11                                                                                                                                                                                                                                                                | 8       |
+| Lewys | 10       | 4                  | 4                                                                                                                                                                                                                                                                 | 8       |
+| Bela  | 7        | 11                 | 7\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\`\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\` | 8       |
+| John  | 9        | 11                 | 11                                                                                                                                                                                                                                                                | 10      |
 
 Riding Horses
 
-|       | Rouncy 1 | Rouncy 2 | Rouncy 3                                                                                                                          | Rouncy 4 |
-| :---- | :------- | :------- | :-------------------------------------------------------------------------------------------------------------------------------- | :------- |
-| Maug  | 4        | 10       | 7                                                                                                                                 | 4        |
-| Lewys | 4        | 8        | 8                                                                                                                                 | 11       |
-| Bela  | 10       | 9        | 9\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\`\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\` | 7        |
-| John  | 4        | 9        | 9                                                                                                                                 | 6        |
+|       | Rouncy 1 | Rouncy 2 | Rouncy 3                                                                                                                                                                                                                                                          | Rouncy 4 |
+| :---- | :------- | :------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------- |
+| Maug  | 4        | 10       | 7                                                                                                                                                                                                                                                                 | 4        |
+| Lewys | 4        | 8        | 8                                                                                                                                                                                                                                                                 | 11       |
+| Bela  | 10       | 9        | 9\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\`\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\` | 7        |
+| John  | 4        | 9        | 9                                                                                                                                                                                                                                                                 | 6        |
 
 Packhorses
 
@@ -279,7 +279,7 @@ Packhorses
 | :---- | :-------- | :-------- | :-------- | :-------- | :-------- |
 | Maug  | 8         | 10        | 11        | 13        | 6         |
 | Lewys | 13        | 4         | 6         | 10        | 10        |
-| Bela  | 8\`\`     | 11        | 12        | 10        | 7         |
+| Bela  | 8\\\`\\\` | 11        | 12        | 10        | 7         |
 | John  | 13        | 9         | 11        | 10        | 11        |
 
 ## Year 558 - Chapter LXXXII - The Attack of Carduel
@@ -335,12 +335,80 @@ Packhorses
 | John  | 4         | 10        | 4         | 11        | 4         |
 
 
-## Year 559 - Chapter LXXXIII_ - The Blasphemy at Yarmouth
+## Year 559 - Chapter LXXXIII - The Blasphemy at Yarmouth
 
 Hearing reports of Saxon attacks near Yarmouth, Bela, John, Lewys, and Maug rode north with their forces. While the land was indeed under attack, Yarmouth itself was protected - by undead knights, led by the deceased Sir Kay, foster brother of Arthur. 
 
 Sir Kay attempted to recruit them, telling them the tale of how Galahad had been brought bodily to heaven by the Grail which had been entrusted to Sir Mordred, who pledged his loyalty to the Grail. Mordred used this power to bring back the dead, with so many knights having fallen in pursuit of the Grail.
 
 A priest showed them the arrangement, with the Grail in a large baptismal font. The water had clearly been corrupted. Detecting the blasphemy, the knights drew their weapons - and saw the priest was a demon. They battled the demon and Sir Kay, closing the doors to prevent more undead. Eventually Sir John was able to extract the Grail from the unholy water and purify it, ending its power. The undead knights collapsed. They could not celebrate long as they had to rally Yarmouth’s living defenders to stop the nearby Saxons from attacking. 
+
+
+### Winter 559-560
+* Bela - family missing
+	* Girl, born 548-549 (11)
+	* Boy, born 548-549 (11)
+	* Girl, born 552-553 (7)
+	* Girl, born 553-554 (6)
+	* Girl, born 558-559 (1)
+* Maug II, born 523-524 (36), -1 APP aging, oldest son dies, family missing
+	* Boy, born 548-549  (11), dies
+	* Boy, born 549-550 (10)
+* John Snow, born 532-533 (26), son born 
+	* Boy, born 553-554 (6)
+	* Boy, born 554-555 (5)
+	* Boy, born 559-560 (0)
+* Lewys -	
+	* Boy, born 549-550 (10)
+	*  Boy, born 551-552 (8)
+
+#### Stable
+Warhorses
+
+|       | Destrier | Andalusian Charger | Charger | Courser |
+| :---- | :------- | :----------------- | :------ | :------ |
+| Maug  | 12       | 9                  | 5       | 12      |
+| Lewys | 6        | 8                  | 8       | 4       |
+| Bela  | 11       | 4                  | 11      | 12      |
+| John  | 14       | 6                  | 4       | 5       |
+
+Riding Horses
+
+|       | Rouncy 1 | Rouncy 2 | Rouncy 3 | Rouncy 4 |
+| :---- | :------- | :------- | :------- | :------- |
+| Maug  | 5        | 5        | 11       | 8        |
+| Lewys | 8        | 12       | 12       | 5        |
+| Bela  | 14       | 13       | 4        | 5        |
+| John  | 8        | 4        | 13       | 6        |
+
+Packhorses
+
+|       | Sumpter 1 | Sumpter 2 | Sumpter 3 | Sumpter 4 | Sumpter 5 |
+| :---- | :-------- | :-------- | :-------- | :-------- | :-------- |
+| Maug  | 10        | 12        | 5         | 5         | 8         |
+| Lewys | 4         | 6         | 8         | 12        | 12        |
+| Bela  | 10        | 13        | 5         | 5         | 9         |
+| John  | 5         | 11        | 5         | 12        | 5         |
+
+## Year 560 - Chapter LXXXIV - Tale of the Spectre King
+
+In the year 470, the Pendragon Aurelius Ambrosius defeated the Saxon King Hengist. After the battle, Eldaldus, Bishop of Gloucester and Duke Eldol of Gloucester’s  brother, condemned Hengist thusly:
+> Even if you all were doing your level best to have this man set free, I would hack him in pieces myself. In this, I would be following the prophet Samuel,  who, when he held in his power Agag, King of Amalek, hewed him in pieces, saying: 'As thy sword hath made women childless, so shall thy mother be childless among women.' Do. therefore,the same with this man, who is clearly a second Agag.
+
+> With that, Eldol beheaded Hengist with his sword. Aurelius was respectful enough of the Saxon to have his body buried in the pagan fashion and ordered his men inter the body under a barrow of earth. Such was the end of King Hengist. 
+
+That is, until recently. On the day Mordred, or so it is told, corrupted the Grail, Hengist reanimated. And every Wednesday he appeared in the lands of King Eifon, staying until he slew at least one person. He slayed knights. The king’s youngest son. Two monks who held him at bay briefly with a prayer.
+
+Losing so many knights gave King Brian opportunity to attack the land around the Abbey of La Beale Adventure.
+
+It was to this sad land Bela, John, Lewys, and Maug arrived. They met with the king and his son Prince Endor. They investigated and learned much, especially that the monks had come the closest to defeating the specter king.  The monk’s guardian Sir Colbert saw the spectre king briefly stopped by a prayer. He tried to defend them but fell in battle himself, losing an eye. 
+
+Knowing the monks came from the Abbey they made plans to ride thence. However it was a long journey and they might not make it in time for the spectre king’s next Wednesday. Sir Guieth accused them of cowardice. Bela demanded he defend such words and they did battle for love, Bela easily unhorsing him.
+
+At the abbey they learned of the spectre king’s origin and that the prayer the monks used was part of what was needed to destroy it - they would also need the sword used to slay his mortal life. It was said that the crazy hermit Vortimer had it. Lewys rode back to Eifon with this information while the rest sought Vortimer.
+
+Finding Vortimer,  he told how he was a child when he witnessed the slaying of Hengist. He did indeed collect the sword for he knew it would be needed again but King Eifon had banished him for scaring the peasants with his frightening tales.
+
+Returning with the sword they arrived just in time to do battle with the spectre king. The battle was brutal, with John nearly being slain by the undead Saxon. Bela next took up the sword, with Sir Guieth unhorsing the spectre king and allowing them at last to put it to rest.
 
 [image-1]:	./maps/pendragon_player.png
