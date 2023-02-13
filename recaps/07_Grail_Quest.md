@@ -108,21 +108,21 @@ Note - main knights on Grail Quest
 #### Stable
 Warhorses
 
-|       | Destrier | Andalusian Charger | Charger                                                                                                                                                                                                                                                           | Courser |
-| :---- | :------- | :----------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ |
-| Maug  | 8        | 5                  | 11                                                                                                                                                                                                                                                                | 8       |
-| Lewys | 10       | 4                  | 4                                                                                                                                                                                                                                                                 | 8       |
-| Bela  | 7        | 11                 | 7\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\`\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\` | 8       |
-| John  | 9        | 11                 | 11                                                                                                                                                                                                                                                                | 10      |
+|       | Destrier | Andalusian Charger | Charger                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Courser |
+| :---- | :------- | :----------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ |
+| Maug  | 8        | 5                  | 11                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 8       |
+| Lewys | 10       | 4                  | 4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 8       |
+| Bela  | 7        | 11                 | 7\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\`\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\` | 8       |
+| John  | 9        | 11                 | 11                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 10      |
 
 Riding Horses
 
-|       | Rouncy 1 | Rouncy 2 | Rouncy 3                                                                                                                                                                                                                                                          | Rouncy 4 |
-| :---- | :------- | :------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------- |
-| Maug  | 4        | 10       | 7                                                                                                                                                                                                                                                                 | 4        |
-| Lewys | 4        | 8        | 8                                                                                                                                                                                                                                                                 | 11       |
-| Bela  | 10       | 9        | 9\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\`\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\` | 7        |
-| John  | 4        | 9        | 9                                                                                                                                                                                                                                                                 | 6        |
+|       | Rouncy 1 | Rouncy 2 | Rouncy 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Rouncy 4 |
+| :---- | :------- | :------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------- |
+| Maug  | 4        | 10       | 7                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 4        |
+| Lewys | 4        | 8        | 8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 11       |
+| Bela  | 10       | 9        | 9\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\`\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\` | 7        |
+| John  | 4        | 9        | 9                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 6        |
 
 Packhorses
 
@@ -275,12 +275,12 @@ Riding Horses
 
 Packhorses
 
-|       | Sumpter 1 | Sumpter 2 | Sumpter 3 | Sumpter 4 | Sumpter 5 |
-| :---- | :-------- | :-------- | :-------- | :-------- | :-------- |
-| Maug  | 8         | 10        | 11        | 13        | 6         |
-| Lewys | 13        | 4         | 6         | 10        | 10        |
-| Bela  | 8\\\`\\\` | 11        | 12        | 10        | 7         |
-| John  | 13        | 9         | 11        | 10        | 11        |
+|       | Sumpter 1         | Sumpter 2 | Sumpter 3 | Sumpter 4 | Sumpter 5 |
+| :---- | :---------------- | :-------- | :-------- | :-------- | :-------- |
+| Maug  | 8                 | 10        | 11        | 13        | 6         |
+| Lewys | 13                | 4         | 6         | 10        | 10        |
+| Bela  | 8\\\\\\\`\\\\\\\` | 11        | 12        | 10        | 7         |
+| John  | 13                | 9         | 11        | 10        | 11        |
 
 ## Year 558 - Chapter LXXXII - The Attack of Carduel
 Sir Mordred and his kin were at Lothian, having blood tournaments. However, they seemed not to be defending their realms.. Beta. John, Lewys, and Maug sailed north to investigate and  reports that King Brian, nominally owing fealty to Arthur, was leading a fleet of French and Saxon ships against Lothian and surrounding lands. 
@@ -410,5 +410,61 @@ At the abbey they learned of the spectre king’s origin and that the prayer the
 Finding Vortimer,  he told how he was a child when he witnessed the slaying of Hengist. He did indeed collect the sword for he knew it would be needed again but King Eifon had banished him for scaring the peasants with his frightening tales.
 
 Returning with the sword they arrived just in time to do battle with the spectre king. The battle was brutal, with John nearly being slain by the undead Saxon. Bela next took up the sword, with Sir Guieth unhorsing the spectre king and allowing them at last to put it to rest.
+
+
+### Winter 560-561
+* Bela - son born
+	* Girl, born 548-549 (12)
+	* Boy, born 548-549 (12)
+	* Girl, born 552-553 (8)
+	* Girl, born 553-554 (7)
+	* Girl, born 558-559 (2)
+	* Boy, born 560-561 (0)
+
+* Maug II, born 523-524 (37), -1 APP aging
+	* Boy, born 549-550 (11)
+* John Snow, born 532-533 (27), 
+	* Boy, born 553-554 (7)
+	* Boy, born 554-555 (6)
+	* Boy, born 559-560 (1)
+* Lewys -	youngest son missing
+	* Boy, born 549-550 (11)
+	*  Boy, born 551-552 (9)
+
+#### Stable
+Warhorses
+
+|       | Destrier | Andalusian Charger | Charger | Courser |
+| :---- | :------- | :----------------- | :------ | :------ |
+| Maug  | 13       | 10                 | 6       | 13      |
+| Lewys | 7        | 4                  | 9       | 5       |
+| Bela  | 12       | 5                  | 12      | 4       |
+| John  | 4        | 7                  | 5       | 6       |
+
+Riding Horses
+
+|       | Rouncy 1 | Rouncy 2 | Rouncy 3 | Rouncy 4 |
+| :---- | :------- | :------- | :------- | :------- |
+| Maug  | 6        | 6        | 4        | 9        |
+| Lewys | 9        | 13       | 13       | 6        |
+| Bela  | 4        | 14       | 5        | 6        |
+| John  | 9        | 5        | 14       | 7        |
+
+Packhorses
+
+|       | Sumpter 1 | Sumpter 2 | Sumpter 3 | Sumpter 4 | Sumpter 5 |
+| :---- | :-------- | :-------- | :-------- | :-------- | :-------- |
+| Maug  | 11        | 13        | 6         | 6         | 9         |
+| Lewys | 5         | 7         | 9         | 13        | 13        |
+| Bela  | 11        | 4         | 6         | 6         | 10        |
+| John  | 6         | 12        | 6         | 13        | 6         |
+
+## Year 561 - Chapter LXXXV - The Battle of Pembroke Castle
+
+Bela, John, Lewys, and Maug had traveled west to protect Pembroke from the attacks of King Brian. They proved successful, even though he had taken to using unsightly weapons such as a floating balloon. 
+
+However, the four heard disturbing tales that all was not well at Camelot. The Queen had been accused of murder by poison and needed a champion to protect her from being executed by burning. Though apparently Lancelot swept in to save the day, they were still involved when then actual poisoner, Sir Pionel, and his patron, Morgan le Fey, arrived at Pembroke. They learned Gawaine had been the original target, for she was seeking revenge for the death of her sister, Queen Margawse, which she blamed on Margawse’s sons. 
+
+Bela tried using connections of family to talk down her great aunt but she would hear nothing of it. They were able to overcome the two, breaking Morgan’s staff.  Morgan’s magic was weaker than it had once been, the connection to the fey realm at an ebb since the finding of the Grail.  They brought the two back to Camelot to face the King’s justice. Pionel was executed immediately while Morgan imprisoned in a tower while her request to retire to a convent was considered.
 
 [image-1]:	./maps/pendragon_player.png
