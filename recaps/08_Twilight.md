@@ -324,4 +324,60 @@ At Gawaine’s urging Arthur made preparation for war in France, to which the de
 
 That winter Bela and her wife, Morgana, great-granddaughter of Boudica of Uther’s Court, sent the remainder of their peasants through the portal to faerie, believing the end had home. They and their eldest children remained to honor their oaths to the king.
 
+### Winter 563-564
+* Bela -
+	* Girl, born 548-549 (15)
+	* Boy, born 548-549 (15)
+	* Girl, born 552-553 (11)
+	* Girl, born 553-554 (10)
+	* Boy, born 560-561 (3)
+	* Boy, born 561-562 (2)
+* Maug II, born 523-524 (40)
+	* Boy, born 549-550 (14)
+* John Snow, born 532-533 (30)
+	* Boy, born 553-554 (10)
+	* Boy, born 554-555 (9)
+	* Boy, born 559-560 (4)
+* Lewys -
+	* Boy, born 549-550 (14)
+	*  Boy, born 551-552 (18)
+
+#### Stable
+Warhorses
+
+|       | Destrier | Andalusian Charger | Charger | Courser |
+| :---- | :------- | :----------------- | :------ | :------ |
+| Maug  | 5        | 13                 | 9       | 6       |
+| Lewys | 10       | 7                  | 12      | 8       |
+| Bela  | 5        | 8                  | 5       | 7       |
+| John  | 7        | 10                 | 8       | 9       |
+
+Riding Horses
+
+|       | Rouncy 1 | Rouncy 2 | Rouncy 3 | Rouncy 4 |
+| :---- | :------- | :------- | :------- | :------- |
+| Maug  | 9        | 9        | 7        | 12       |
+| Lewys | 12       | 6        | 6        | 9        |
+| Bela  | 7        | 6        | 8        | 9        |
+| John  | 4        | 8        | 6        | 10       |
+
+Packhorses
+
+|       | Sumpter 1 | Sumpter 2 | Sumpter 3 | Sumpter 4 | Sumpter 5 |
+| :---- | :-------- | :-------- | :-------- | :-------- | :-------- |
+| Maug  | 5         | 5         | 9         | 9         | 12        |
+| Lewys | 8         | 10        | 12        | 5         | 4         |
+| Bela  | 5         | 7         | 9         | 9         | 4         |
+| John  | 9         | 5         | 9         | 5         | 9         |
+
+
+## Year 564 - Chapter LXXXVIII - The Usurper
+Arthur and Gawaine led the bulk of the troops to France to war with Lancelot. Mordred was made regent in his absence. Not trusting him, Bela, John, Lewys, and Maug stayed behind to watch over the kingdom.
+
+While they were their word from numerous sources told of the battles in France. Gawaine had rode before Lancelot many times, trying to draw him out in a challenge, finally succeeding with insults to his manhood. Apparently he was mortally wounded and Arthur was slain.
+
+Mordred was named King of Logres but fell short of being named Pendragon, with Bela, John, Lewys, and Maug all voting against him, heads of houses who had voices in the voting. Mordred named his intention to marry Guenivere so she wouldn’t lose status. Surprisingly she agreed to this but said she would need to collect clothing in London. She selected those four to escort her though Mordred sent his own knights. In London a battle broke out when it became clear Guenivere had no intention to marry Mordred. Her knights battled their way to Arthur’s tower in London and fended off Mordred’s knights. More knightly opposition, including Sir Guieth, gathered there over the winter as did clerical opposition who denounced Mordred’s intent to marry his stepmother.
+
+That winter they learned Mordred had had false rumors of Arthur’s demise and he was expected to land in Dover. They led their forces out, battling with Mordred’s men, to join Arthur for one final battle.
+
 [image-1]:	./maps/pendragon_player.png
