@@ -378,6 +378,6 @@ While they were their word from numerous sources told of the battles in France. 
 
 Mordred was named King of Logres but fell short of being named Pendragon, with Bela, John, Lewys, and Maug all voting against him, heads of houses who had voices in the voting. Mordred named his intention to marry Guenivere so she wouldn’t lose status. Surprisingly she agreed to this but said she would need to collect clothing in London. She selected those four to escort her though Mordred sent his own knights. In London a battle broke out when it became clear Guenivere had no intention to marry Mordred. Her knights battled their way to Arthur’s tower in London and fended off Mordred’s knights. More knightly opposition, including Sir Guieth, gathered there over the winter as did clerical opposition who denounced Mordred’s intent to marry his stepmother.
 
-That winter they learned Mordred had had false rumors of Arthur’s demise and he was expected to land in Dover. They led their forces out, battling with Mordred’s men, to join Arthur for one final battle.
+That winter they learned Mordred had had false rumors of Arthur’s demise and he was expected to land in Dover. They led their forces out, battling with Mordred’s men, to join Arthur for one final battle. At Camelot, Mordred brooded over a shattered Round Table.
 
 [image-1]:	./maps/pendragon_player.png
