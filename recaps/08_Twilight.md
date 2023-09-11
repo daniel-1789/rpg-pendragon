@@ -380,4 +380,50 @@ Mordred was named King of Logres but fell short of being named Pendragon, with B
 
 That winter they learned Mordred had had false rumors of Arthur’s demise and he was expected to land in Dover. They led their forces out, battling with Mordred’s men, to join Arthur for one final battle. At Camelot, Mordred brooded over a shattered Round Table.
 
+
+## Year 565 - Chapter LXXXIX - The Battle of Camlann
+
+Arthur's forces landed at Dover. Mordred had hopes to stop his father's return before it could begin. However, he was opposed by a small band of knights and men led by Maug, Lewys, Bela, and John that prevented him from having an easy opportunity. Nevertheless Mordred's troops did grave damage to Arthur, for Gawaine's wounds opened again, this time fatally. He was attended by his uncle Arthur and daughter Bela as in his final moments he penned a letter of apology to Lancelot. "If Lancelot were here, this would not have happened. This is my own fault for driving him away, and I am sorry for it." With that, he breathed his last.
+
+Mordred withdrew his troops to Canterbury whilst Arthur led his loyal forces to Camelot, fighting their way through Saxons now roaming the countryside. The few people in Camelot rejoiced at the return of the Pendragon who led his forces to defeat the evil of Mordred, and evil he had helped bring to this world. They were joined by Lewys's brother and husband and Bela's wife, who fought and were lost, as were nearly all, at the final battle to come.
+
+They met Mordred at Camlann. His forces were vast and terrible, bringing more Saxons than even Vortigern could have imagined. Arthur, having dreams that Lancelot would soon be here to help, tried to arrange peace with Mordred. Though his forces were great, Mordred agreed, fearing Arthur and the true knights that remained with them.
+
+However, all were on the watch for treachery and the drawing of a sword was to be the sign of treachery. Alas, a treacherous serpent, agent of Satan, intervened at the parley. The sword was drawn to strike it and all believed that to be the signal. Battle was joined.
+
+The battle was terrible. Wave after wave of knights, Saxons, Italian gunners, Swiss pikemen assailed them. Caelin, son of Cynric, leader of the Saxons was especially brutal, slaying both Maug and John, though he perished from injuries from both. Lewys slew enemy after enemy until a Saxon, far more giant than man, slew him. Bela was unhorsed by an Arabian warrior, previously injured, but found herself in a final, tiny group of survivors. They tried to protect their King but he was impaled by his treacherous son. Arthur pulled himself along the spear and slew the bastard Modred, though he himself lay dying.  
+
+Turning to the last remaining knight, Bela, daughter of Gawaine and his grand-niece, he instructed her to return his sword to the lake. She threw it in, where  a hand in white samite reached up out of the water and caught it by the hilt, waved it thrice in a circle, and then disappeared underwater with it.
+
+King Arthur was looking pale, thin. “Help me,” he said weakly. “Help me to the water.”
+
+At the water’s edge was a black barge, and upon
+it four ladies in black. When they saw the king, they shrieked and wept. “Put me in the barge,”commanded
+the king. The women crowded about him, and one took
+his head on her lap. “Ah, my brother, you have tarried.”
+
+“Ah, my Lord Arthur,” cries the last
+knight, Bela, “What shall become of me now that you are
+gone and I am here, among my enemies?”
+
+“Comfort yourself,” said the king, “and do as well as
+you can. Put no trust in me, for there is no trust left in
+me to be trusted. I will be taken to Avalon to be healed,
+and if you hear no more of me, pray for my soul.”
+
+The woman who took Arthur's hand made some mystical gestures, repeated by
+the women, and the barge moved slowly off from shore
+into the darkening night, towards the setting sun.
+
+Arthur was never seen again.
+
+## Epilogue
+
+There would not be another Pendragon. However tiny embers kept hope alive. 
+
+In the faerie realm, survivors of Britain, sent by Bela, prospered. Sir Axel the Faerie Knight saw to it that their domain, though part of the faerie, always kept the memories of Camelot alive. It is said their descendents oft had business with the mundane realm, doing business with the great bard Shakespeare centuries later. It is said in the hour of Britain's greatest need the portal between the realms will reopen and the Enchantment of Britain will return.
+
+In Logres, Constantine, son of John, son of Borre, son of Arthur, was named king of the much reduced kingdom. Lewys's son, who had grown to manhood in faerie, was the greatest of his knights. Bela lived a long life to tell tales of Arthur and his court, preserving the final embers and making sure all would remember that once there was a Camelot. It is said in the hour of Britain's greatest need Arthur Pendragon will return.
+
+Summer 2019 to Spring 2023. 
 [image-1]:	./maps/pendragon_player.png
